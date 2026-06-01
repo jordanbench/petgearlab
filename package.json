@@ -1,0 +1,15 @@
+{
+  "name": "petgearlab",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "check": "node --check api/subscribe.js && node --check api/track-click.js && node --check scripts/weekly-pulse.mjs && node --check scripts/send-admin-pulse.mjs",
+    "report:weekly": "node scripts/weekly-pulse.mjs",
+    "send:admin-pulse": "node scripts/send-admin-pulse.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jordanbench/petgearlab.git"
+  },
+  "license": "ISC"
+}

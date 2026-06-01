@@ -1,0 +1,1 @@
+document.addEventListener("click",event=>{const link=event.target.closest("a[data-asin]");if(!link)return;try{navigator.sendBeacon("/api/track-click",new Blob([JSON.stringify({asin:link.dataset.asin,path:location.pathname})],{type:"application/json"}));}catch{}});
