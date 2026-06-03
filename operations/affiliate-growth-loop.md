@@ -5,7 +5,7 @@
 - Monday: run weekly pulse and choose the next page or refresh.
 - Tuesday: publish or materially improve one buyer-intent page.
 - Thursday: add one internal-link or comparison expansion.
-- Saturday: send admin pulse with subscribers, clicks, pages changed, and blockers.
+- Saturday: send admin pulse with guide count, curated ASIN count, latest changed pages, next SEO action, and blockers.
 
 ## Guardrails
 
@@ -21,3 +21,7 @@
 - Email subscribers by source path.
 - Top guide pages by Search Console once configured.
 - Internal links pointing to each money page.
+
+## Next Recommended Action
+
+Build the automatic feeder, travel, and cleaning clusters, then watch which problems drive outbound clicks.
