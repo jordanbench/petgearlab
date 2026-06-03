@@ -1,4 +1,4 @@
-# Pet Gear Lab Agent Guide
+# Pet Gear Bench Agent Guide
 
 Read this before changing content, affiliate links, schema, automations, or deployment behavior.
 

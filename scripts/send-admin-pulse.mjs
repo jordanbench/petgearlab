@@ -8,8 +8,8 @@ if (!key || !from) {
   console.log("Missing RESEND_API_KEY or sender env; wrote local report only.");
   process.exit(0);
 }
-const subject = "Pet Gear Lab weekly affiliate pulse";
-const text = ["Pet Gear Lab weekly pulse", "", "Guides live: 5", "Curated ASINs: 6", "Amazon tag: abbeybench-20", "", "Run npm run report:weekly for the local markdown report."].join("\n");
+const subject = "Pet Gear Bench weekly affiliate pulse";
+const text = ["Pet Gear Bench weekly pulse", "", "Guides live: 5", "Curated ASINs: 6", "Amazon tag: abbeybench-20", "", "Run npm run report:weekly for the local markdown report."].join("\n");
 const response = await fetch("https://api.resend.com/emails", {
   method: "POST",
   headers: { authorization: `Bearer ${key}`, "content-type": "application/json" },

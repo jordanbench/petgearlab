@@ -1,4 +1,4 @@
--- Shared schema for Pet Gear Lab. Safe to run once for all three affiliate sites.
+-- Shared schema for Pet Gear Bench. Safe to run once for all three affiliate sites.
 create table if not exists public.affiliate_products (
   site_id text not null,
   asin text not null,

@@ -10,7 +10,7 @@ export default async function handler(req, res) {
   await fetch(`${supabaseUrl}/rest/v1/affiliate_clicks`, {
     method: "POST",
     headers: { apikey: serviceKey, authorization: `Bearer ${serviceKey}`, "content-type": "application/json" },
-    body: JSON.stringify({ site_id: "petgearlab", asin: body.asin || null, page_path: body.path || null })
+    body: JSON.stringify({ site_id: "petgearbench", asin: body.asin || null, page_path: body.path || null })
   });
   res.status(204).end();
 }

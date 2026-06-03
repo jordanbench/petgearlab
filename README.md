@@ -1,6 +1,6 @@
-# Pet Gear Lab
+# Pet Gear Bench
 
-Pet Gear Lab helps dog and cat owners choose feeders, fountains, travel gear, litter tools, toys, and pet tech for real homes.
+Pet Gear Bench helps dog and cat owners choose feeders, fountains, travel gear, litter tools, toys, and pet tech for real homes.
 
 ## MVP
 
@@ -22,6 +22,6 @@ npm run send:admin-pulse
 
 ## Domain
 
-Intended production host: `https://www.petgearlab.com`.
+Intended production host: `https://www.petgearbench.com`.
 
 After buying the domain, point DNS to Vercel and update `PUBLIC_SITE_URL` / `PUBLIC_BASE_URL` if needed.

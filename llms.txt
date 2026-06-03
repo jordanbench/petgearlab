@@ -1,10 +1,10 @@
-# Pet Gear Lab
+# Pet Gear Bench
 
-Pet Gear Lab helps dog and cat owners choose feeders, fountains, travel gear, litter tools, toys, and pet tech for real homes.
+Pet Gear Bench helps dog and cat owners choose feeders, fountains, travel gear, litter tools, toys, and pet tech for real homes.
 
 Important URLs:
-- Home: https://www.petgearlab.com/
-- Guides: https://www.petgearlab.com/guides/
-- Content calendar: https://www.petgearlab.com/content-calendar/
+- Home: https://www.petgearbench.com/
+- Guides: https://www.petgearbench.com/guides/
+- Content calendar: https://www.petgearbench.com/content-calendar/
 
 Affiliate disclosure: As an Amazon Associate I earn from qualifying purchases.

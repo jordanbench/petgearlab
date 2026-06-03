@@ -1,4 +1,4 @@
-# Pet Gear Lab Operating Plan
+# Pet Gear Bench Operating Plan
 
 ## SEO Cadence
 

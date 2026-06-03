@@ -3,7 +3,7 @@ export default async function handler(req, res) {
   const body = await readBody(req);
   const email = String(body.email || "").trim().toLowerCase();
   if (!email || !email.includes("@")) return res.status(400).json({ error: "Valid email required" });
-  const siteId = "petgearlab";
+  const siteId = "petgearbench";
   const supabaseUrl = process.env.SUPABASE_URL;
   const serviceKey = process.env.SUPABASE_SERVICE_ROLE_KEY;
   if (supabaseUrl && serviceKey) {
@@ -32,6 +32,6 @@ async function notifyAdmin(payload) {
   await fetch("https://api.resend.com/emails", {
     method: "POST",
     headers: { authorization: `Bearer ${key}`, "content-type": "application/json" },
-    body: JSON.stringify({ from, to, subject: `New Pet Gear Lab subscriber`, text: JSON.stringify(payload, null, 2) })
+    body: JSON.stringify({ from, to, subject: `New Pet Gear Bench subscriber`, text: JSON.stringify(payload, null, 2) })
   });
 }
