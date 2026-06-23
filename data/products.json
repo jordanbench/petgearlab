@@ -40,5 +40,26 @@
     "positioning": "Pet camera upgrade pick",
     "category": "pet-tech",
     "affiliateUrl": "https://www.amazon.com/dp/B08P75GZ5M/ref=nosim?tag=abbeybench-20"
+  },
+  {
+    "asin": "B0BQN8TNHH",
+    "name": "MalsiPree Dog Water Bottle Dispenser for Walks",
+    "positioning": "Compact walk bottle pick",
+    "category": "travel",
+    "affiliateUrl": "https://www.amazon.com/dp/B0BQN8TNHH/ref=nosim?tag=abbeybench-20"
+  },
+  {
+    "asin": "B09CH9W2XS",
+    "name": "Springer Dog Water Bottle",
+    "positioning": "One-hand squeeze bottle pick",
+    "category": "travel",
+    "affiliateUrl": "https://www.amazon.com/dp/B09CH9W2XS/ref=nosim?tag=abbeybench-20"
+  },
+  {
+    "asin": "B07Q56TTD4",
+    "name": "lesotc Dog Water Bottle",
+    "positioning": "Longer outing bottle pick",
+    "category": "travel",
+    "affiliateUrl": "https://www.amazon.com/dp/B07Q56TTD4/ref=nosim?tag=abbeybench-20"
   }
 ]
