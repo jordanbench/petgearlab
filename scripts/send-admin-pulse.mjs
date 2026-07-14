@@ -4,6 +4,7 @@ import { loadEnv } from "./lib/env.mjs";
 
 loadEnv(".env");
 
+const isTest = process.argv.includes("--test");
 const key = process.env.RESEND_API_KEY;
 const to = process.env.CTA_NOTIFY_EMAIL || "jbench1234@gmail.com";
 const from = process.env.CTA_NOTIFY_FROM || process.env.NEWSLETTER_FROM;
@@ -21,6 +22,7 @@ const html = renderAdminPulseHtml({
   siteUrl: "https://www.petgearbench.com",
   accent: "#047857",
   text,
+  testMode: isTest,
 });
 
 if (!key || !from) {
@@ -31,14 +33,14 @@ if (!key || !from) {
 const response = await fetch("https://api.resend.com/emails", {
   method: "POST",
   headers: { authorization: `Bearer ${key}`, "content-type": "application/json" },
-  body: JSON.stringify({ from, to, subject: "Pet Gear Bench weekly affiliate pulse", text, html })
+  body: JSON.stringify({ from, to, subject: `${isTest ? "[TEST] " : ""}Pet Gear Bench weekly affiliate pulse`, text, html })
 });
 
 const result = await response.text();
 if (!response.ok) throw new Error(result);
 console.log(result);
 
-function renderAdminPulseHtml({ brand, siteUrl, accent, text }) {
+function renderAdminPulseHtml({ brand, siteUrl, accent, text, testMode }) {
   const parsed = parseMarkdownReport(text);
   const baseline = parsed.sections.get("Local baseline") || [];
   const latestChanged = parsed.sections.get("Latest changed pages") || [];
@@ -62,7 +64,7 @@ function renderAdminPulseHtml({ brand, siteUrl, accent, text }) {
   return `<!doctype html>
 <html>
 <body style="margin:0;background:#f7f5ef;color:#17211b;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;">
-  <div style="display:none;max-height:0;overflow:hidden;">Weekly affiliate pulse for ${escapeHtml(brand)}: guides, ASINs, next SEO action, and blockers.</div>
+  <div style="display:none;max-height:0;overflow:hidden;">${testMode ? "Test email. " : ""}Weekly affiliate pulse for ${escapeHtml(brand)}: guides, ASINs, next SEO action, and blockers.</div>
   <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#f7f5ef;padding:24px 0;">
     <tr>
       <td align="center">
@@ -74,6 +76,7 @@ function renderAdminPulseHtml({ brand, siteUrl, accent, text }) {
               <a href="${siteUrl}" style="color:#ffffff;text-decoration:underline;font-weight:700;">${siteUrl}</a>
             </td>
           </tr>
+          ${testMode ? '<tr><td style="padding:10px 30px;background:#fff7ed;color:#9a3412;font-size:13px;font-weight:800;text-align:center;border-bottom:1px solid #fed7aa;">TEST EMAIL — the scheduled automation was not triggered</td></tr>' : ""}
           <tr>
             <td style="padding:24px 30px;">
               <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="border-spacing:8px;border-collapse:separate;">
