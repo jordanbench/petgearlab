@@ -32,6 +32,9 @@ Trust pages: `/about/`, `/contact/`, `/privacy/`, and `/affiliate-disclosure/`.
 
 ```bash
 npm run check
+npm run audit:catalog
+npm run validate:candidates
+npm run sync:products
 npm run report:weekly
 npm run send:admin-pulse
 ```
