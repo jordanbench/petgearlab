@@ -1,1 +1,436 @@
-[]
+[
+  {
+    "candidateId": "petgearbench:B00O0UIPTY",
+    "siteId": "petgearbench",
+    "productName": "SureFeed Microchip Pet Feeder",
+    "model": "MPF001 / manufacturer item 194705",
+    "variant": "Standard version, white, one feeder",
+    "asin": "B00O0UIPTY",
+    "affiliateUrl": "https://www.amazon.com/dp/B00O0UIPTY/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Keep two cats on separate foods when one cat steals meals or one cat needs a different diet.",
+    "decisionSlot": "default",
+    "bestFor": "A grazing cat that needs protected access to wet or dry food without wearing a collar tag, provided its implanted microchip is compatible and readable.",
+    "skipIf": "You need timed dispensing from a hopper, refuse C-cell battery upkeep, or have a persistent thief that can reach around an open feeder.",
+    "mainTradeoff": "It controls bowl access but does not dispense scheduled portions, and the open back can require an accessory guard for a determined food thief.",
+    "closestAlternative": "Closer Pets MiBowl CP500 for a more enclosed bowl-access design.",
+    "editorialThesis": "The strongest default is the simpler microchip bowl for households that need food separation more than scheduled dispensing or app features.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B00O0UIPTY",
+        "note": "Verified specification: the current listing identifies ASIN B00O0UIPTY as the SureFeed Microchip Pet Feeder MPF001 standard version, white, manufacturer item 194705, for wet or dry food.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.surepetcare.com/en-us/support/microchip-pet-feeder",
+        "note": "Manufacturer documentation: official setup, cleaning, dimensions, serial-specific manuals, and training resources support the standard non-connected feeder identity and ownership requirements.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.reddit.com/r/CatAdvice/comments/1s70j63/questions_for_anyone_who_uses_the_surepet/",
+        "note": "Owner-reported pattern: multiple long-term users describe successful separate-diet feeding and easy daily use; repeated tradeoffs are C-cell battery replacement and the need to train some cats.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=SureFeed&format=json",
+        "note": "Official recall check: the CPSC recall API returned no matching SureFeed product recall records on 2026-07-20. This is a database check, not a safety certification.",
+        "checkedAt": "2026-07-20"
+      }
+    ],
+    "strengths": [
+      "Reads a compatible implanted microchip or the supplied RFID collar tag.",
+      "Supports both wet and dry food in a covered bowl.",
+      "Training mode and a long-running product family reduce adoption uncertainty.",
+      "The non-connected design avoids an app, hub, and account dependency."
+    ],
+    "failureModes": [
+      "A persistent cat may reach food from the rear while the authorized cat keeps the lid open.",
+      "A migrated or incompatible implanted microchip may not read reliably.",
+      "Four C-cell batteries add recurring upkeep and there is no corded fallback.",
+      "It does not schedule or dispense meals, so owners must refill the bowl manually."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 24,
+      "evidenceConfidence": 19,
+      "ownershipLongevity": 13,
+      "meaningfulDifferentiation": 13,
+      "riskAndReturnFit": 12,
+      "demandSignal": 4,
+      "commercialValue": 3,
+      "total": 88
+    },
+    "decision": "approve",
+    "decisionReason": "Approve as the default food-separation candidate. The exact ASIN and standard variant are current, the evidence mix clears every hard gate, and it solves the reader's actual problem without making an app or collar tag mandatory. The guide must still disclose that it is a protected bowl rather than a scheduled hopper and that determined cats may require a rear guard.",
+    "activation": {
+      "status": "pending",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-07-20",
+    "researchedAt": "2026-07-20",
+    "lastVerifiedAt": "2026-07-20"
+  },
+  {
+    "candidateId": "petgearbench:B09ZLJCYSR",
+    "siteId": "petgearbench",
+    "productName": "Closer Pets MiBowl Smart Selective Microchip Pet Feeder",
+    "model": "CP500",
+    "variant": "White, one feeder, 12-ounce bowl",
+    "asin": "B09ZLJCYSR",
+    "affiliateUrl": "https://www.amazon.com/dp/B09ZLJCYSR/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Keep two cats on separate foods when one cat steals meals or one cat needs a different diet.",
+    "decisionSlot": "constraint",
+    "bestFor": "Small or medium cats whose food thief is persistent enough that an enclosed rear and side design matters more than scheduled dispensing.",
+    "skipIf": "Your pet lacks a compatible 15-digit implanted microchip and will not tolerate the supplied collar tag, or you need app tracking or hopper-fed scheduled meals.",
+    "mainTradeoff": "The enclosed access design is stronger against side and rear stealing, but it is still a manually filled bowl powered by four C-cell batteries.",
+    "closestAlternative": "SureFeed Microchip Pet Feeder MPF001 for the more established and simpler default.",
+    "editorialThesis": "MiBowl earns a separate shortlist slot for households where enclosure geometry is the deciding constraint, not as a generic second microchip feeder.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B09ZLJCYSR",
+        "note": "Verified specification: the current listing identifies ASIN B09ZLJCYSR as Closer Pets MiBowl model CP500, white, one unit, with the manufacturer selling the listing and a 12-ounce bowl.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://closerpets.com/products/mibowl-automatic-microchip-pet-feeder-cp500",
+        "note": "Manufacturer claim: the CP500 uses a compatible implanted microchip or supplied electronic ID disc and encloses the rear and sides to limit unauthorized access to wet or dry food.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "manual",
+        "url": "https://closerpets.com/pages/support_mibowl_and_mibowl_plus_cp500",
+        "note": "Manufacturer documentation: official CP500 support confirms wet-or-dry use, 12-ounce bowl capacity, compatible implanted chips or ID discs, programming, cleaning, and battery-life caveats.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.ebay.com/urw/-/product-reviews/24060821130",
+        "note": "Owner-reported pattern: reviewers repeatedly cite the enclosed design as useful against a larger greedy cat, while setup and pet acclimation remain household-dependent.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=MiBowl&format=json",
+        "note": "Official recall check: the CPSC recall API returned no matching MiBowl product recall records on 2026-07-20. This is a database check, not a safety certification.",
+        "checkedAt": "2026-07-20"
+      }
+    ],
+    "strengths": [
+      "The enclosed back and sides directly address reach-around food theft.",
+      "Works with compatible implanted microchips or an included electronic ID disc.",
+      "Accepts wet or dry food and keeps the feeding posture relatively open at the front.",
+      "The manufacturer provides current CP500 support and replacement-bowl guidance."
+    ],
+    "failureModes": [
+      "It does not dispense scheduled portions and must be filled manually.",
+      "A non-compatible or migrated implanted chip can force collar-tag use.",
+      "A cautious cat may resist the moving lid without gradual training.",
+      "Four C-cell batteries and bowl cleaning remain recurring ownership tasks."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 23,
+      "evidenceConfidence": 18,
+      "ownershipLongevity": 12,
+      "meaningfulDifferentiation": 14,
+      "riskAndReturnFit": 12,
+      "demandSignal": 2,
+      "commercialValue": 2,
+      "total": 83
+    },
+    "decision": "approve",
+    "decisionReason": "Approve for the persistent-thief constraint slot. The exact CP500 listing is current and manufacturer-sold, the evidence mix clears every hard gate, and the enclosed geometry is a meaningful difference from the default rather than redundant feature churn. Activation copy must avoid promising that any feeder can defeat every determined cat.",
+    "activation": {
+      "status": "pending",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-07-20",
+    "researchedAt": "2026-07-20",
+    "lastVerifiedAt": "2026-07-20"
+  },
+  {
+    "candidateId": "petgearbench:B0FJMFYPNH",
+    "siteId": "petgearbench",
+    "productName": "PETLIBRO One RFID Smart Feeder",
+    "model": "PLAF301 / Amazon item AF301-W",
+    "variant": "White, 3-liter, pack of one, included proprietary RFID collar tag",
+    "asin": "B0FJMFYPNH",
+    "affiliateUrl": "https://www.amazon.com/dp/B0FJMFYPNH/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Keep two cats on separate foods when one cat steals meals or one cat needs a different diet.",
+    "decisionSlot": "upgrade",
+    "bestFor": "A dry-food household that wants scheduled dispensing and feeding logs and whose cat reliably wears the proprietary PETLIBRO collar tag.",
+    "skipIf": "Your cat will not wear a collar, you require implanted-microchip access, you feed wet food, or the food thief persistently pries at feeder lids.",
+    "mainTradeoff": "It combines scheduling with access control, but recognition depends on the included collar tag and current owner reports conflict on lid resistance and tag reliability.",
+    "closestAlternative": "SureFeed Microchip Pet Feeder MPF001 when implanted-microchip access and wet-food compatibility matter more than app scheduling.",
+    "editorialThesis": "The One RFID is the feature-rich upgrade only after collar tolerance and dry-food-only use are confirmed; it should not displace the microchip-bowl default.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0FJMFYPNH",
+        "note": "Verified specification: the current listing identifies ASIN B0FJMFYPNH as the white 3-liter pack-of-one PETLIBRO feeder, item AF301-W, with one dedicated RFID collar tag and no implanted-microchip support.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://petlibro.com/pages/faq-product/one-rfid-smart-feeder",
+        "note": "Manufacturer documentation: official PLAF301 support covers tag binding, lid behavior, scheduled dispensing, cleaning, connection failures, and rotor or low-food alerts.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "manual",
+        "url": "https://m.media-amazon.com/images/I/91jIGdVsPOL.pdf",
+        "note": "Official manual: identifies the One RFID Pet Feeder and documents electrical, cleaning, tag, and operating constraints for the PLAF301 family.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.chewy.com/petlibro-one-rfid-automatic-wifi-app/product-reviews/2481470",
+        "note": "Owner-reported pattern: recent reviews include successful individual feeding in two-cat homes, but other current owner reports describe collar rejection, tag or sensor issues, and determined cats forcing the lid.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=PETLIBRO&format=json",
+        "note": "Official recall check: the CPSC recall API returned no matching PETLIBRO product recall records on 2026-07-20. This is a database check, not a safety certification.",
+        "checkedAt": "2026-07-20"
+      }
+    ],
+    "strengths": [
+      "Combines dry-food scheduling, individual access control, and app feeding logs.",
+      "The current listing supports dual-band Wi-Fi and battery backup for scheduled dispensing.",
+      "A stainless steel bowl and removable food-contact parts reduce cleaning friction.",
+      "The exact current Amazon variant and official PLAF301 support are identifiable."
+    ],
+    "failureModes": [
+      "It cannot read an implanted microchip or third-party tag.",
+      "A cat that rejects collars cannot use the access-control feature.",
+      "Current owners report some persistent cats can force the lid or eat beside the authorized cat.",
+      "Connectivity, tag sensing, low-food alerts, and rotor jams add more failure points than a covered bowl."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 22,
+      "evidenceConfidence": 17,
+      "ownershipLongevity": 10,
+      "meaningfulDifferentiation": 13,
+      "riskAndReturnFit": 8,
+      "demandSignal": 4,
+      "commercialValue": 3,
+      "total": 77
+    },
+    "decision": "hold",
+    "decisionReason": "Hold despite a score above the approval threshold. The exact current variant is verified and the feature set fits, but current owner evidence conflicts with the broad anti-stealing claim: collar tolerance, tag sensing, and forced-lid reports remain meaningful. A future run should look for variant-specific durability evidence before activation.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-07-20",
+    "researchedAt": "2026-07-20",
+    "lastVerifiedAt": "2026-07-20"
+  },
+  {
+    "candidateId": "petgearbench:B0D6GVDP4Q",
+    "siteId": "petgearbench",
+    "productName": "PawsPik PortionPro Rx RFID Automatic Pet Feeder",
+    "model": "PPRX1700",
+    "variant": "Upgraded gray feeder, new white tag with silicone loops, 32-cup dry-food hopper",
+    "asin": "B0D6GVDP4Q",
+    "affiliateUrl": "https://www.amazon.com/dp/B0D6GVDP4Q/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Keep two cats on separate foods when one cat steals meals or one cat needs a different diet.",
+    "decisionSlot": "other",
+    "bestFor": "A dry-food household that needs both scheduled portions and active-tag access control and can use the feeder's one-half-cup minimum daily setting.",
+    "skipIf": "Your cat needs less than one-half cup per day, will not wear an active RFID tag, eats wet food, or you need implanted-microchip recognition.",
+    "mainTradeoff": "Its large hopper and scheduled access control are unusual, but the portion range, large powered tag, footprint, and dry-food-only design narrow the cat fit.",
+    "closestAlternative": "PETLIBRO One RFID for a smaller tag-based scheduled feeder, or SureFeed MPF001 for implanted-microchip bowl access.",
+    "editorialThesis": "PortionPro Rx is a specialist scheduled-dry-food option, not a default two-cat recommendation, because its minimum portions and tag burden can be a poor fit for smaller cats.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0D6GVDP4Q",
+        "note": "Verified specification: the current listing title maps ASIN B0D6GVDP4Q to the upgraded PortionPro Rx with the new silicone-loop tag and scheduled RFID access control.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://pawspik.com/products/portionprorx-automatic-pet-feeder",
+        "note": "Manufacturer claim: the current PawsPik product page identifies model PPRX1700 features including active RFID access, 32-cup dry-food capacity, and a one-half to six-cup daily portion range.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "manual",
+        "url": "https://manuals.plus/asin/B0D6GVDP4Q.pdf",
+        "note": "Manual evidence: the ASIN-specific PPRX1700 guide documents tag pairing, dry-food-only operation, spatial separation, portion increments, cleaning, and jam troubleshooting.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://www.catfooddispensersreviews.com/portionpro-rx-automatic-pet-feeder-review/",
+        "note": "Independent review: the reviewer reports effective food-theft control but flags the tag size and limited fine-grained portioning for smaller cats as material drawbacks.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=PortionPro&format=json",
+        "note": "Official recall check: the CPSC recall API returned no matching PortionPro product recall records on 2026-07-20. This is a database check, not a safety certification.",
+        "checkedAt": "2026-07-20"
+      }
+    ],
+    "strengths": [
+      "Combines a large dry-food hopper, scheduled portions, and active RFID access control.",
+      "Open and closed modes support different household access strategies.",
+      "The current owner, PawsPik, publishes setup and troubleshooting resources.",
+      "A pet-proof lid and removable food-contact parts address common hopper upkeep needs."
+    ],
+    "failureModes": [
+      "The one-half-cup minimum daily amount can be too coarse for a small cat's diet.",
+      "The active RFID tag is larger than a passive tag and requires a replaceable battery.",
+      "It does not read implanted microchips and cannot dispense wet food.",
+      "The large footprint and six-foot spacing guidance increase setup burden in small homes."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 18,
+      "evidenceConfidence": 17,
+      "ownershipLongevity": 10,
+      "meaningfulDifferentiation": 12,
+      "riskAndReturnFit": 8,
+      "demandSignal": 3,
+      "commercialValue": 4,
+      "total": 72
+    },
+    "decision": "hold",
+    "decisionReason": "Hold at 72. The identity and evidence are adequate, but the one-half-cup minimum daily portion, active-tag burden, dry-food limitation, and footprint make it a specialist fit rather than a strong general recommendation for two cats. Commercial value remains only 4 points and does not lift it over the reader-fit threshold.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-07-20",
+    "researchedAt": "2026-07-20",
+    "lastVerifiedAt": "2026-07-20"
+  },
+  {
+    "candidateId": "petgearbench:B07RHZHHGN",
+    "siteId": "petgearbench",
+    "productName": "SureFeed Microchip Pet Feeder Connect",
+    "model": "Manufacturer item 394540",
+    "variant": "Connect version, white, feeder only; Sure Petcare Hub sold separately",
+    "asin": "B07RHZHHGN",
+    "affiliateUrl": "https://www.amazon.com/dp/B07RHZHHGN/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Keep two cats on separate foods when one cat steals meals or one cat needs a different diet.",
+    "decisionSlot": "compatibility",
+    "bestFor": "An existing Sure Petcare Hub household that specifically wants manual portion weighing and feeding-history data with microchip-controlled bowl access.",
+    "skipIf": "You do not already own or cannot verify a compatible Sure Petcare Hub, or the standard SureFeed solves the food-separation problem without connected overhead.",
+    "mainTradeoff": "The connected version adds tracking and scales but requires a separately sold hub while retaining the standard feeder's manual filling, batteries, and rear-access weakness.",
+    "closestAlternative": "SureFeed Microchip Pet Feeder MPF001, which solves the core access-control problem without a hub dependency.",
+    "editorialThesis": "The Connect variant is too dependent and redundant for the current shortlist unless a reader already owns the required hub and values tracking enough to accept the extra system burden.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B07RHZHHGN",
+        "note": "Verified specification: the current listing identifies ASIN B07RHZHHGN as the white SureFeed Connect version, manufacturer item 394540, and repeatedly states that the required hub is sold separately.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.surepetcare.com/en-us/support/microchip-pet-feeder-connect",
+        "note": "Manufacturer documentation: official Connect support exists for setup, feeding data, cleaning, and troubleshooting, confirming that this is a separate connected feeder workflow.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "manual",
+        "url": "https://i00.eu/file/403/18214-manual-en.pdf",
+        "note": "Manual evidence: the Connect manual documents hub pairing, microchip enrollment, portion indicators, batteries, and bowl-access behavior.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.reddit.com/r/CatAdvice/comments/1oof33t/surefeed_microchip_feeder_worth_it/",
+        "note": "Owner-reported pattern: owners often prefer the basic version because it solves separate feeding without hub overhead; persistent cats may still steal from the rear while the lid is open.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=SureFeed&format=json",
+        "note": "Official recall check: the CPSC recall API returned no matching SureFeed product recall records on 2026-07-20. This is a database check, not a safety certification.",
+        "checkedAt": "2026-07-20"
+      }
+    ],
+    "strengths": [
+      "Reads compatible implanted microchips and supports wet or dry food.",
+      "Adds portion-weight guidance and feeding-history data for compatible hub owners.",
+      "The exact Connect listing, model, and hub requirement are clear.",
+      "Official support and a full manual remain available."
+    ],
+    "failureModes": [
+      "The hub is required for connected features and is not included with the exact listing.",
+      "The feeder still requires manual bowl filling and four C-cell batteries.",
+      "The open rear can allow a persistent thief to reach food beside the authorized cat.",
+      "It duplicates the approved standard feeder's core recommendation while adding account and hardware dependencies."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 18,
+      "evidenceConfidence": 16,
+      "ownershipLongevity": 10,
+      "meaningfulDifferentiation": 5,
+      "riskAndReturnFit": 4,
+      "demandSignal": 2,
+      "commercialValue": 3,
+      "total": 58
+    },
+    "decision": "reject",
+    "decisionReason": "Reject for this run. The exact variant is verified, but the separately sold hub, connected-account burden, manual filling, and overlap with the stronger standard SureFeed make it redundant for the unresolved reader problem. Its 58-point score is below the hold threshold, and commercial value cannot rescue that weak incremental fit.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-07-20",
+    "researchedAt": "2026-07-20",
+    "lastVerifiedAt": "2026-07-20"
+  }
+]
