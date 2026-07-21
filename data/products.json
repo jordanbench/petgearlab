@@ -61,5 +61,19 @@
     "positioning": "Longer outing bottle pick",
     "category": "travel",
     "affiliateUrl": "https://www.amazon.com/dp/B07Q56TTD4/ref=nosim?tag=abbeybench-20"
+  },
+  {
+    "asin": "B00O0UIPTY",
+    "name": "SureFeed Microchip Pet Feeder",
+    "positioning": "Two-cat food-separation default",
+    "category": "feeder",
+    "affiliateUrl": "https://www.amazon.com/dp/B00O0UIPTY/ref=nosim?tag=abbeybench-20"
+  },
+  {
+    "asin": "B09ZLJCYSR",
+    "name": "Closer Pets MiBowl CP500",
+    "positioning": "Enclosed selective-access feeder pick",
+    "category": "feeder",
+    "affiliateUrl": "https://www.amazon.com/dp/B09ZLJCYSR/ref=nosim?tag=abbeybench-20"
   }
 ]

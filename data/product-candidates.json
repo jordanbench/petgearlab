@@ -20,13 +20,13 @@
         "type": "amazon-listing",
         "url": "https://www.amazon.com/dp/B00O0UIPTY",
         "note": "Verified specification: the current listing identifies ASIN B00O0UIPTY as the SureFeed Microchip Pet Feeder MPF001 standard version, white, manufacturer item 194705, for wet or dry food.",
-        "checkedAt": "2026-07-20"
+        "checkedAt": "2026-07-21"
       },
       {
         "type": "manufacturer",
         "url": "https://www.surepetcare.com/en-us/support/microchip-pet-feeder",
         "note": "Manufacturer documentation: official setup, cleaning, dimensions, serial-specific manuals, and training resources support the standard non-connected feeder identity and ownership requirements.",
-        "checkedAt": "2026-07-20"
+        "checkedAt": "2026-07-21"
       },
       {
         "type": "owner-pattern",
@@ -73,13 +73,13 @@
     "decision": "approve",
     "decisionReason": "Approve as the default food-separation candidate. The exact ASIN and standard variant are current, the evidence mix clears every hard gate, and it solves the reader's actual problem without making an app or collar tag mandatory. The guide must still disclose that it is a protected bowl rather than a scheduled hopper and that determined cats may require a rear guard.",
     "activation": {
-      "status": "pending",
-      "activatedAt": null,
-      "guidePath": null
+      "status": "activated",
+      "activatedAt": "2026-07-21",
+      "guidePath": "/guides/best-automatic-cat-feeders-two-cats/"
     },
     "sourceRun": "product-discovery:2026-07-20",
     "researchedAt": "2026-07-20",
-    "lastVerifiedAt": "2026-07-20"
+    "lastVerifiedAt": "2026-07-21"
   },
   {
     "candidateId": "petgearbench:B09ZLJCYSR",
@@ -102,13 +102,13 @@
         "type": "amazon-listing",
         "url": "https://www.amazon.com/dp/B09ZLJCYSR",
         "note": "Verified specification: the current listing identifies ASIN B09ZLJCYSR as Closer Pets MiBowl model CP500, white, one unit, with the manufacturer selling the listing and a 12-ounce bowl.",
-        "checkedAt": "2026-07-20"
+        "checkedAt": "2026-07-21"
       },
       {
         "type": "manufacturer",
         "url": "https://closerpets.com/products/mibowl-automatic-microchip-pet-feeder-cp500",
         "note": "Manufacturer claim: the CP500 uses a compatible implanted microchip or supplied electronic ID disc and encloses the rear and sides to limit unauthorized access to wet or dry food.",
-        "checkedAt": "2026-07-20"
+        "checkedAt": "2026-07-21"
       },
       {
         "type": "manual",
@@ -161,13 +161,13 @@
     "decision": "approve",
     "decisionReason": "Approve for the persistent-thief constraint slot. The exact CP500 listing is current and manufacturer-sold, the evidence mix clears every hard gate, and the enclosed geometry is a meaningful difference from the default rather than redundant feature churn. Activation copy must avoid promising that any feeder can defeat every determined cat.",
     "activation": {
-      "status": "pending",
-      "activatedAt": null,
-      "guidePath": null
+      "status": "activated",
+      "activatedAt": "2026-07-21",
+      "guidePath": "/guides/best-automatic-cat-feeders-two-cats/"
     },
     "sourceRun": "product-discovery:2026-07-20",
     "researchedAt": "2026-07-20",
-    "lastVerifiedAt": "2026-07-20"
+    "lastVerifiedAt": "2026-07-21"
   },
   {
     "candidateId": "petgearbench:B0FJMFYPNH",
