@@ -432,5 +432,451 @@
     "sourceRun": "product-discovery:2026-07-20",
     "researchedAt": "2026-07-20",
     "lastVerifiedAt": "2026-07-20"
+  },
+  {
+    "candidateId": "petgearbench:B0DJVGZQW7",
+    "siteId": "petgearbench",
+    "productName": "eufy Indoor Cam E30",
+    "model": "T8417",
+    "variant": "White, one camera, 4K pan-and-tilt indoor model",
+    "asin": "B0DJVGZQW7",
+    "affiliateUrl": "https://www.amazon.com/dp/B0DJVGZQW7/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Check whether a dog or cat settled while you are away and review useful clips without a mandatory cloud-recording subscription.",
+    "decisionSlot": "default",
+    "bestFor": "A one-room pet-monitoring setup that needs local event or continuous recording, pet detection, and pan-and-tilt coverage without a required monthly camera plan.",
+    "skipIf": "You will not install and maintain a microSD card, you need battery power, or you require full 4K and pan-and-tilt control inside Apple Home rather than the eufy app.",
+    "mainTradeoff": "Local storage avoids a required cloud plan, but the microSD card is sold separately and HomeKit limits the stream to 1080p while camera movement remains in the eufy app.",
+    "closestAlternative": "Wyze Cam Pan v3 for a lower-cost local-recording path if manual footage review and paid pet-specific alerts are acceptable.",
+    "editorialThesis": "The E30 is the strongest default for owners who want to confirm that a pet settled and review local clips without making a cloud subscription part of the basic workflow.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0DJVGZQW7",
+        "note": "Verified specification: the current Amazon listing maps ASIN B0DJVGZQW7 to one white eufy Indoor Cam E30, model T8417, with 4K video, pan and tilt, pet tracking, two-way audio, and a microSD slot.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.eufy.com/products/t8417121",
+        "note": "Manufacturer claim: the official E30 page documents 4K recording, 360-degree room coverage, on-device human and pet detection, pet auto tracking, HomeKit support, and local microSD recording without a monthly fee.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "manual",
+        "url": "https://service.eufy.com/product-description/a08J1000000YShNIAW/eufy-indoor-cam-e30",
+        "note": "Manufacturer documentation: the official support page identifies the E30 user guide as T8417 and provides model-specific setup, storage, and troubleshooting resources.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.reddit.com/r/EufyCam/comments/1mjhgos/thinking_about_buying_an_eufy_e30_indoor_cam_to/",
+        "note": "Owner-reported pattern: a current E30 owner describes nearly silent slow-speed pan and tilt, usable auto tracking, a configurable home position, and an audible click when night mode changes.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official recall check: the CPSC full recall dataset downloaded on 2026-07-27 contained no match for eufy, T8417, or Indoor Cam E30. This is a dated database check, not a safety certification.",
+        "checkedAt": "2026-07-27"
+      }
+    ],
+    "strengths": [
+      "Records events or continuous video to an optional microSD card without requiring a cloud plan.",
+      "On-device pet detection and auto tracking reduce reliance on generic motion alerts.",
+      "Pan-and-tilt coverage can follow a pet between a resting spot, doorway, and nearby floor area.",
+      "The current Amazon listing and official T8417 support identity are consistent."
+    ],
+    "failureModes": [
+      "A failed, full, or removed microSD card can eliminate the local clip history.",
+      "HomeKit reduces video to 1080p and does not expose the eufy app's pan-and-tilt controls.",
+      "Automatic tracking can lose a pet behind furniture or outside the camera's vertical range.",
+      "The wired camera still depends on household power, Wi-Fi, an account, and app availability for remote viewing."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 24,
+      "evidenceConfidence": 19,
+      "ownershipLongevity": 13,
+      "meaningfulDifferentiation": 14,
+      "riskAndReturnFit": 12,
+      "demandSignal": 3,
+      "commercialValue": 2,
+      "total": 87
+    },
+    "decision": "approve",
+    "decisionReason": "Approve as the default local-recording candidate. The exact T8417 variant and ASIN are current, the evidence clears every hard gate, and local microSD recording plus on-device pet detection solves the reader's clip-review problem without a mandatory camera subscription. Activation copy must disclose the separate card, app and Wi-Fi dependence, and HomeKit limitations.",
+    "activation": {
+      "status": "pending",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-07-27",
+    "researchedAt": "2026-07-27",
+    "lastVerifiedAt": "2026-07-27"
+  },
+  {
+    "candidateId": "petgearbench:B0B9TWY11Q",
+    "siteId": "petgearbench",
+    "productName": "Wyze Cam Pan v3",
+    "model": "WYZECPAN3",
+    "variant": "White, one camera, 1080p corded pan-and-tilt model",
+    "asin": "B0B9TWY11Q",
+    "affiliateUrl": "https://www.amazon.com/dp/B0B9TWY11Q/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Check whether a dog or cat settled while you are away and review useful clips without a mandatory cloud-recording subscription.",
+    "decisionSlot": "budget",
+    "bestFor": "A price-sensitive owner willing to add a microSD card, scrub local footage manually, and use general motion tracking instead of relying on paid pet-specific alerts.",
+    "skipIf": "You expect free pet or bark classification, need dependable automatic event search, or have low tolerance for app, waypoint, or SD-card troubleshooting.",
+    "mainTradeoff": "It supports free local continuous or event recording and wide pan-and-tilt coverage, but smart pet and sound alerts require a plan and current owners report uneven app, waypoint, and image reliability.",
+    "closestAlternative": "eufy Indoor Cam E30 for higher-resolution local recording and on-device pet detection without a required plan.",
+    "editorialThesis": "Wyze is a plausible budget path only when the reader accepts manual local review and feature limits; the current evidence is not consistent enough to recommend it alongside the stronger default.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0B9TWY11Q",
+        "note": "Verified specification: the current listing maps ASIN B0B9TWY11Q to one white Wyze Cam Pan v3, model WYZECPAN3, with 1080p video, pan and tilt, motion tracking, two-way audio, and corded power.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.wyze.com/pages/pet-cameras",
+        "note": "Manufacturer documentation: Wyze says live viewing and microSD recording work without Cam Plus, while pet-sound alerts such as bark and meow detection require a paid plan.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "manual",
+        "url": "https://support.wyze.com/hc/en-us/article_attachments/23616191055899",
+        "note": "Manufacturer documentation: the Wyze Cam Pan v3 quick-start guide identifies the exact model family, one-camera package, microSD slot, privacy mode, and mounting requirements.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.chewy.com/wyze-cam-pan-v3-indoor-outdoor-wi-fi/product-reviews/1337134",
+        "note": "Owner-reported pattern: current pet-use reviews include successful no-subscription monitoring, but also reports of grainy footage, failed waypoints, app problems, and pressure to pay for useful extras.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://www.safewise.com/home-security-systems/wyze/cameras/pan-v3/",
+        "note": "Independent hands-on review: local event or continuous recording and motion tracking are useful, but 1080p detail falls off with distance and smart detection features remain tied to cloud plans.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official recall check: the CPSC dataset had no exact WYZECPAN3 or Wyze Cam Pan v3 match on 2026-07-27. It does list recall 26-524 for the battery-powered Solar Cam Pan model WYZESCPWH, which is a different product. This is not a safety certification.",
+        "checkedAt": "2026-07-27"
+      }
+    ],
+    "strengths": [
+      "Supports continuous or event-based microSD recording without a cloud plan.",
+      "Pan, tilt, motion tracking, and privacy mode cover more of one room than a fixed camera.",
+      "The current exact Amazon variant and model number are identifiable.",
+      "Current owner evidence includes real pet-monitoring use without a subscription."
+    ],
+    "failureModes": [
+      "Free local footage lacks the paid service's pet classification and easier smart-event search.",
+      "Current owners report failed waypoints, app problems, grainy video, and SD-card recognition issues.",
+      "1080p detail degrades with distance, glare, and digital zoom.",
+      "A related but different Wyze solar camera was recalled in 2026, so model identity must remain explicit."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 22,
+      "evidenceConfidence": 17,
+      "ownershipLongevity": 11,
+      "meaningfulDifferentiation": 12,
+      "riskAndReturnFit": 9,
+      "demandSignal": 4,
+      "commercialValue": 3,
+      "total": 78
+    },
+    "decision": "hold",
+    "decisionReason": "Hold despite a score above 75. The exact model and free local recording are verified, but current owner evidence conflicts on app, waypoint, and image reliability, and the useful pet-specific alert layer remains paid. A future run should recheck firmware behavior and recent exact-model owner reports before activation.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-07-27",
+    "researchedAt": "2026-07-27",
+    "lastVerifiedAt": "2026-07-27"
+  },
+  {
+    "candidateId": "petgearbench:B09J2CP8YS",
+    "siteId": "petgearbench",
+    "productName": "Aqara Camera Hub G3",
+    "model": "CH-H03",
+    "variant": "White, one 2K camera hub with removable cat-ear accessory",
+    "asin": "B09J2CP8YS",
+    "affiliateUrl": "https://www.amazon.com/dp/B09J2CP8YS/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Check whether a dog or cat settled while you are away and review useful clips without a mandatory cloud-recording subscription.",
+    "decisionSlot": "compatibility",
+    "bestFor": "An existing Aqara or Apple Home household that also needs a Zigbee hub and values local pet recognition, local microSD recording, and a physical privacy mask.",
+    "skipIf": "You only need a straightforward pet camera, want current independent evidence, or expect 2K pan-and-tilt control inside HomeKit Secure Video.",
+    "mainTradeoff": "It combines local pet recognition, local storage, a Zigbee hub, and broad ecosystem support, but that complexity is unnecessary for most pet check-ins and HomeKit drops the feed to 1080p without pan-and-tilt control.",
+    "closestAlternative": "eufy Indoor Cam E30 for a simpler current pet-monitoring default with local storage and fewer ecosystem dependencies.",
+    "editorialThesis": "The G3 belongs only in an Aqara or HomeKit compatibility slot; its extra hub and automation features do not justify a general pet-camera recommendation.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B09J2CP8YS",
+        "note": "Verified specification: the current listing maps ASIN B09J2CP8YS to one white Aqara Camera Hub G3, model CH-H03, with 2K video, pan and tilt, pet recognition, HomeKit compatibility, and the camera-hub package.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.aqara.com/product/camera-hub-g3/",
+        "note": "Manufacturer claim: the official page documents local pet recognition, local or cloud recording, 2K video, a physical privacy mask, a Zigbee 3.0 hub, and HomeKit's 1080p and pan-and-tilt limitations.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "manual",
+        "url": "https://www.aqara.com/wp-content/uploads/2023/09/Camera-Hub-G3_User-Mannual.pdf",
+        "note": "Manufacturer documentation: the official manual identifies model CH-H03 and documents setup, local microSD storage, privacy behavior, power, and operating constraints.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://www.safewise.com/au/aqara-camera-hub-g3-review/",
+        "note": "Independent hands-on review: two-week testing found strong video and broad compatibility but a narrow vertical range, higher cost, and slower command response. The review is older and is an evidence limitation for current reliability.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official recall check: the CPSC full recall dataset downloaded on 2026-07-27 contained no match for Aqara, CH-H03, or Camera Hub G3. This is a dated database check, not a safety certification.",
+        "checkedAt": "2026-07-27"
+      }
+    ],
+    "strengths": [
+      "Performs pet recognition locally and records to an optional microSD card.",
+      "The physical privacy mask makes camera state visible in the room.",
+      "Dual-band Wi-Fi, HomeKit, and a built-in Aqara Zigbee hub suit an established smart-home system.",
+      "The exact CH-H03 Amazon listing and official manual remain available."
+    ],
+    "failureModes": [
+      "HomeKit Secure Video reduces the feed to 1080p and does not expose pan-and-tilt control.",
+      "The hub, infrared controller, automations, and account setup add burden unrelated to basic pet check-ins.",
+      "Independent hands-on evidence for the exact model is older than the other candidates in this run.",
+      "The limited vertical tilt can miss a pet on furniture or directly below the camera."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 19,
+      "evidenceConfidence": 15,
+      "ownershipLongevity": 10,
+      "meaningfulDifferentiation": 10,
+      "riskAndReturnFit": 9,
+      "demandSignal": 2,
+      "commercialValue": 2,
+      "total": 67
+    },
+    "decision": "hold",
+    "decisionReason": "Hold at 67. The exact model and official local features are verified, but the best independent exact-model testing is older, the HomeKit mode removes important camera controls, and the hub complexity narrows the reader fit. It should be reconsidered only for a clearly defined Aqara or HomeKit household slot with fresher reliability evidence.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-07-27",
+    "researchedAt": "2026-07-27",
+    "lastVerifiedAt": "2026-07-27"
+  },
+  {
+    "candidateId": "petgearbench:B0BWX39R5W",
+    "siteId": "petgearbench",
+    "productName": "Blink Mini 2",
+    "model": "Mini 2",
+    "variant": "Black, one 1080p plug-in camera",
+    "asin": "B0BWX39R5W",
+    "affiliateUrl": "https://www.amazon.com/dp/B0BWX39R5W/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Check whether a dog or cat settled while you are away and review useful clips without a mandatory cloud-recording subscription.",
+    "decisionSlot": "budget",
+    "bestFor": "An existing Blink household that already owns a compatible Sync Module 2 and USB drive and only needs a compact fixed-angle camera.",
+    "skipIf": "You need local recording from the camera itself, pan-and-tilt room coverage, pet classification, Google Home or HomeKit support, or fast rich alerts without extra hardware or a plan.",
+    "mainTradeoff": "The camera is compact and inexpensive, but subscription-free recording requires a separately sold Sync Module 2 and USB drive while person detection remains paid.",
+    "closestAlternative": "Wyze Cam Pan v3 for in-camera microSD recording and pan-and-tilt coverage, or eufy E30 for the stronger local pet-monitoring default.",
+    "editorialThesis": "Blink Mini 2 is not a clean no-subscription pet-camera answer because the low camera price hides a separate hub-and-drive requirement for local clips.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0BWX39R5W",
+        "note": "Verified specification: the current listing maps ASIN B0BWX39R5W to one black Blink Mini 2 plug-in 1080p camera with motion detection, two-way audio, and a built-in spotlight.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://support.blinkforhome.com/mini-2-faq",
+        "note": "Manufacturer documentation: Blink identifies Mini 2 as a 1080p plug-in camera and states that local storage requires a Sync Module 2 while person detection requires a subscription.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "manual",
+        "url": "https://support.blinkforhome.com/using-your-sync-module/sync-module-2-local-storage-operation",
+        "note": "Manufacturer documentation: local clips require the separate Sync Module 2 and a compatible USB drive; cloud recording and rapid access features remain part of the subscription workflow.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://www.reviewed.com/smarthome/content/blink-mini-2-security-camera-review",
+        "note": "Independent hands-on review: the fixed camera has usable 1080p coverage and a simple app, but local storage requires extra hardware, rich notifications are absent, and smart person detection requires a plan.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official recall check: the CPSC full recall dataset downloaded on 2026-07-27 contained no match for Blink Mini 2 or ASIN B0BWX39R5W. This is a dated database check, not a safety certification.",
+        "checkedAt": "2026-07-27"
+      }
+    ],
+    "strengths": [
+      "The fixed camera is compact and the exact black one-camera listing is current.",
+      "A compatible existing Blink system can store motion clips locally.",
+      "Two-way audio, 1080p video, and a wide fixed view support simple live check-ins.",
+      "The official FAQ clearly separates free, paid, and extra-hardware behavior."
+    ],
+    "failureModes": [
+      "Local recording requires a separately sold Sync Module 2 and USB drive.",
+      "The fixed camera cannot follow a pet between resting areas.",
+      "Person detection and richer recording features require a subscription.",
+      "Local clip access is slower and more hardware-dependent than in-camera microSD recording."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": false,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 14,
+      "evidenceConfidence": 17,
+      "ownershipLongevity": 10,
+      "meaningfulDifferentiation": 6,
+      "riskAndReturnFit": 6,
+      "demandSignal": 3,
+      "commercialValue": 3,
+      "total": 59
+    },
+    "decision": "reject",
+    "decisionReason": "Reject at 59. Identity and limitations are clear, but the exact one-camera package does not provide local recording by itself, and the added Sync Module 2 and USB drive erase its clean budget slot. The fixed view and paid smart features make it weaker than both the approved default and the held Wyze option.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-07-27",
+    "researchedAt": "2026-07-27",
+    "lastVerifiedAt": "2026-07-27"
+  },
+  {
+    "candidateId": "petgearbench:B0B6GLQJMV",
+    "siteId": "petgearbench",
+    "productName": "Ring Indoor Cam (2nd Gen)",
+    "model": "Indoor Cam (2nd Gen)",
+    "variant": "White, one 1080p plug-in camera with manual privacy cover",
+    "asin": "B0B6GLQJMV",
+    "affiliateUrl": "https://www.amazon.com/dp/B0B6GLQJMV/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Check whether a dog or cat settled while you are away and review useful clips without a mandatory cloud-recording subscription.",
+    "decisionSlot": "compatibility",
+    "bestFor": "An existing Ring household that values one app and accepts a paid Ring plan for saved and replayable clips.",
+    "skipIf": "Avoiding a recording subscription is a hard requirement, you want in-camera local storage, or you need pan-and-tilt pet tracking.",
+    "mainTradeoff": "Live view, motion alerts, and a physical privacy cover are straightforward, but saving and replaying pet clips requires a Ring plan and Ring's local-storage path still requires paid service plus Ring Alarm Pro hardware.",
+    "closestAlternative": "eufy Indoor Cam E30 for local microSD clip review without a required camera plan.",
+    "editorialThesis": "Ring is a clear reject for this problem because ecosystem familiarity does not overcome the mandatory paid recording path.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0B6GLQJMV",
+        "note": "Verified specification: the current listing maps ASIN B0B6GLQJMV to one white Ring Indoor Cam, the newest 1080p plug-in model, with color night vision, motion alerts, two-way audio, and a manual privacy cover.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://ring.com/products/indoor-cam-window-door-sensor",
+        "note": "Manufacturer documentation: Ring's current Indoor Cam (2nd Gen) specifications confirm 1080p live view, motion detection, two-way audio, a manual privacy cover, plug-in power, and 2.4 GHz Wi-Fi.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "manual",
+        "url": "https://ring.com/support/articles/e1siy/Ring-Home-Trial-Information",
+        "note": "Manufacturer documentation: saved, shared, and replayable recorded video is a trial feature, and Ring states that continued video history after the trial requires a compatible paid plan.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://www.tomsguide.com/home/smart-home/i-tested-four-ai-enabled-home-security-cameras-but-this-is-the-one-id-actually-buy",
+        "note": "Independent comparison: the 2nd Gen camera is a compact fixed-view budget device with useful privacy and motion features, but its main value is ecosystem simplicity rather than subscription-free pet clip review.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official recall check: the CPSC full recall dataset downloaded on 2026-07-27 contained no exact Ring Indoor Cam or ASIN B0B6GLQJMV match. This is a dated database check, not a safety certification.",
+        "checkedAt": "2026-07-27"
+      }
+    ],
+    "strengths": [
+      "The physical privacy cover visibly disables the camera and microphone.",
+      "The current exact white one-camera listing and official 2nd Gen specifications align.",
+      "Live view, two-way audio, motion zones, and Ring ecosystem integration are straightforward.",
+      "Ring clearly documents the trial and ongoing recording-plan requirement."
+    ],
+    "failureModes": [
+      "Saved and replayable video history requires an ongoing Ring plan after the trial.",
+      "The fixed view cannot follow a pet around the room.",
+      "Ring Edge local storage requires additional Ring Alarm Pro hardware and a compatible paid subscription.",
+      "The camera's strongest fit is an existing Ring ecosystem, not the no-subscription reader problem."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": false,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 11,
+      "evidenceConfidence": 17,
+      "ownershipLongevity": 12,
+      "meaningfulDifferentiation": 5,
+      "riskAndReturnFit": 5,
+      "demandSignal": 4,
+      "commercialValue": 3,
+      "total": 57
+    },
+    "decision": "reject",
+    "decisionReason": "Reject at 57. The exact current listing is verifiable and Ring is clear about the paid recording model, but that model directly fails the unresolved reader problem. Existing Ring ownership does not create a distinct enough decision slot to overcome the subscription and fixed-view burden.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-07-27",
+    "researchedAt": "2026-07-27",
+    "lastVerifiedAt": "2026-07-27"
   }
 ]
