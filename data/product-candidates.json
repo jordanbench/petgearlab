@@ -454,19 +454,19 @@
         "type": "amazon-listing",
         "url": "https://www.amazon.com/dp/B0DJVGZQW7",
         "note": "Verified specification: the current Amazon listing maps ASIN B0DJVGZQW7 to one white eufy Indoor Cam E30, model T8417, with 4K video, pan and tilt, pet tracking, two-way audio, and a microSD slot.",
-        "checkedAt": "2026-07-27"
+        "checkedAt": "2026-07-28"
       },
       {
         "type": "manufacturer",
         "url": "https://www.eufy.com/products/t8417121",
         "note": "Manufacturer claim: the official E30 page documents 4K recording, 360-degree room coverage, on-device human and pet detection, pet auto tracking, HomeKit support, and local microSD recording without a monthly fee.",
-        "checkedAt": "2026-07-27"
+        "checkedAt": "2026-07-28"
       },
       {
         "type": "manual",
         "url": "https://service.eufy.com/product-description/a08J1000000YShNIAW/eufy-indoor-cam-e30",
         "note": "Manufacturer documentation: the official support page identifies the E30 user guide as T8417 and provides model-specific setup, storage, and troubleshooting resources.",
-        "checkedAt": "2026-07-27"
+        "checkedAt": "2026-07-28"
       },
       {
         "type": "owner-pattern",
@@ -513,13 +513,13 @@
     "decision": "approve",
     "decisionReason": "Approve as the default local-recording candidate. The exact T8417 variant and ASIN are current, the evidence clears every hard gate, and local microSD recording plus on-device pet detection solves the reader's clip-review problem without a mandatory camera subscription. Activation copy must disclose the separate card, app and Wi-Fi dependence, and HomeKit limitations.",
     "activation": {
-      "status": "pending",
-      "activatedAt": null,
-      "guidePath": null
+      "status": "activated",
+      "activatedAt": "2026-07-28",
+      "guidePath": "/guides/best-pet-cameras-while-away/"
     },
     "sourceRun": "product-discovery:2026-07-27",
     "researchedAt": "2026-07-27",
-    "lastVerifiedAt": "2026-07-27"
+    "lastVerifiedAt": "2026-07-28"
   },
   {
     "candidateId": "petgearbench:B0B9TWY11Q",
