@@ -878,5 +878,451 @@
     "sourceRun": "product-discovery:2026-07-27",
     "researchedAt": "2026-07-27",
     "lastVerifiedAt": "2026-07-27"
+  },
+  {
+    "candidateId": "petgearbench:B0BH6MD3DJ",
+    "siteId": "petgearbench",
+    "productName": "Whisker Litter-Robot 4 with Step & Fence",
+    "model": "Litter-Robot 4 (LR4)",
+    "variant": "Black, one Litter-Robot 4 with step, fence, and one year of WhiskerCare",
+    "asin": "B0BH6MD3DJ",
+    "affiliateUrl": "https://www.amazon.com/dp/B0BH6MD3DJ/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Reduce daily litter scooping in an apartment without replacing it with an unsafe, cramped, or harder-to-clean routine.",
+    "decisionSlot": "default",
+    "bestFor": "An adult cat that accepts an enclosed globe and an owner with a firm, level 22-by-27-inch station who values established support, replacement parts, and a predictable cleaning routine.",
+    "skipIf": "Your cat avoids enclosed boxes, the 14-inch litter bed is too tight, you cannot leave clearance around a 22-by-27-inch footprint, or the purchase cost would crowd out a manual backup box.",
+    "mainTradeoff": "It has the strongest current support and reliability evidence in this run, but it is expensive, nightstand-sized, and still needs drawer emptying, sensor care, and periodic globe cleaning.",
+    "closestAlternative": "PETKIT PuraMax 2 for a lower, shallower setup that preserves an always-open entrance but is more tedious to empty and deep clean.",
+    "editorialThesis": "Litter-Robot 4 is the default automatic-box candidate only for readers who measure the station first and accept that automation replaces daily scooping with scheduled drawer, sensor, and globe maintenance.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0BH6MD3DJ",
+        "note": "Verified specification: the live Amazon detail page maps B0BH6MD3DJ to the black Litter-Robot 4 package with step, fence, and one year of WhiskerCare.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.whisker.com/litter-robot-4",
+        "note": "Manufacturer claim: the current LR4 page documents a 22-by-27-inch footprint, 29.5-inch height, 15.75-inch entry, firm-surface requirement, SafeCat sensor system, app features, and modular construction.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "manual",
+        "url": "https://www.litter-robot.com/manual_pdf/Litter-Robot-4-Manual-EN-DE-FR-IT_LR4-8018-0B.pdf",
+        "note": "Manufacturer documentation: the official LR4 manual requires a firm level surface, at least a three-pound cat for automatic mode, clearance from walls, compatible clumping litter, and unplugging before service.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://cats.com/litter-robot-4-review",
+        "note": "Independent hands-on finding: multi-unit testing found consistent sifting, useful odor control and sensor behavior, while also documenting the 14-inch litter bed, enclosure rejection by some cats, and ongoing maintenance needs.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official recall check: the CPSC full recall CSV downloaded on 2026-08-03 contained no match for Whisker, Litter-Robot, LR4, or B0BH6MD3DJ. This dated no-match is not a safety certification.",
+        "checkedAt": "2026-08-03"
+      }
+    ],
+    "strengths": [
+      "Exact Amazon package identity and current manufacturer documentation align.",
+      "Laser, weight, anti-pinch, and over-torque systems are documented in official LR4 materials.",
+      "Independent testing covers cat acceptance, sifting, odor, noise, and real cleaning work rather than specifications alone.",
+      "Whisker publishes replacement-part, disassembly, cleaning, and troubleshooting documentation."
+    ],
+    "failureModes": [
+      "A cat that dislikes enclosed boxes or the 14-inch litter bed may refuse it even when the entrance is wide.",
+      "Dust, fur, liners, an uneven floor, or wall contact can affect sensor and drawer readings.",
+      "The 22-by-27-inch body plus the included step requires more usable floor depth than a simple pan.",
+      "Drawer emptying, basic cleaning, quarterly deep cleaning, and a manual fallback still belong in the ownership routine."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 21,
+      "evidenceConfidence": 20,
+      "ownershipLongevity": 14,
+      "meaningfulDifferentiation": 12,
+      "riskAndReturnFit": 11,
+      "demandSignal": 3,
+      "commercialValue": 2,
+      "total": 83
+    },
+    "decision": "approve",
+    "decisionReason": "Approve at 83 for the default slot. Exact identity, official safety and care documentation, current independent testing, parts support, and the dated recall check clear every gate. Approval is conditional on Tuesday re-verification and guide language that states the footprint, enclosed-box fit, three-pound automatic-mode minimum, and real maintenance burden. Commercial value contributes only 2 points.",
+    "activation": {
+      "status": "pending",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-03",
+    "researchedAt": "2026-08-03",
+    "lastVerifiedAt": "2026-08-03"
+  },
+  {
+    "candidateId": "petgearbench:B0DFYF2D7D",
+    "siteId": "petgearbench",
+    "productName": "PETKIT PuraMax 2 Automatic Self-Cleaning Cat Litter Box",
+    "model": "P9902",
+    "variant": "Basic Bundle with trash bags, low entrance, and 2.4 GHz Wi-Fi",
+    "asin": "B0DFYF2D7D",
+    "affiliateUrl": "https://www.amazon.com/dp/B0DFYF2D7D/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Reduce daily litter scooping in an apartment without replacing it with an unsafe, cramped, or harder-to-clean routine.",
+    "decisionSlot": "constraint",
+    "bestFor": "A smaller adult cat in a depth-limited apartment station where an always-open entrance, lower body, and support for compatible clumping litter matter more than the easiest possible deep-cleaning routine.",
+    "skipIf": "Your cat is under six months old, prefers a large open pan, needs more interior turning room, or you want litter emptying and deep cleaning to be as simple as the daily cycle.",
+    "mainTradeoff": "The always-open entrance and 21.73-inch depth suit a specific space-and-cat-fit constraint, but independent testing found litter emptying and deep cleaning unusually tedious.",
+    "closestAlternative": "Whisker Litter-Robot 4 for the better-supported default when a 27-inch-deep station and higher purchase cost are acceptable.",
+    "editorialThesis": "PuraMax 2 earns a constraint slot for a smaller adult cat and a shallower station, not a blanket apartment recommendation; the deep-clean routine and interior fit must be explicit.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0DFYF2D7D",
+        "note": "Verified specification: the live Amazon detail page maps B0DFYF2D7D to the PETKIT PuraMax 2 Basic Bundle with app control, safety sensors, trash bags, low entrance, and 2.4 GHz Wi-Fi.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.petkit-eu.com/products/puramax-2-automatic-cat-litter-box-premium",
+        "note": "Manufacturer claim: the exact PuraMax 2 page documents an always-open anti-pinch entrance, 11 sensors, firm-level placement with wall clearance, a 7-liter waste bin, and two sifter options for compatible clumping litter.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "manual",
+        "url": "https://instructions.petkit.com/App%20Manual/T4-2/T4-2_User%20Manual_EN_V1.1_250305_%20.pdf",
+        "note": "Manufacturer documentation: the official manual identifies model P9902, dimensions 24.41 by 21.18 by 21.73 inches, Wi-Fi and BLE, and scope limited to cats older than six months, with detailed safety and cleaning instructions.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://cats.com/petkit-puramax-2-automatic-litter-box-review",
+        "note": "Independent hands-on finding: a current exact-model review found easy setup, effective cycling, an always-open entrance, and successful leak control in testing, but smaller-cat preference and a notably tedious litter-emptying and deep-clean process.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official recall check: the CPSC full recall CSV downloaded on 2026-08-03 contained no match for PETKIT, PuraMax 2, P9902, or B0DFYF2D7D. This dated no-match is not a safety certification.",
+        "checkedAt": "2026-08-03"
+      }
+    ],
+    "strengths": [
+      "The exact Amazon Basic Bundle, official P9902 manual, and manufacturer page align.",
+      "The entrance remains open during rotation and official materials document proximity and weight sensors.",
+      "At 21.73 inches deep, the body fits a different apartment station than the 27-inch-deep LR4.",
+      "Current independent testing covers leak control, cat acceptance, daily cycling, and the deep-clean process."
+    ],
+    "failureModes": [
+      "A larger cat or a cat that prefers an open pan may reject the enclosed interior.",
+      "Cats under six months are outside the manual's automatic-use scope.",
+      "Removing all litter and deep cleaning requires an extra magnetic piece and more handling than competing models.",
+      "Soft stool, unsuitable litter, wall contact, or an uneven floor can reduce cleanliness or sensor accuracy."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 22,
+      "evidenceConfidence": 19,
+      "ownershipLongevity": 11,
+      "meaningfulDifferentiation": 11,
+      "riskAndReturnFit": 11,
+      "demandSignal": 3,
+      "commercialValue": 2,
+      "total": 79
+    },
+    "decision": "approve",
+    "decisionReason": "Approve at 79 for a narrow constraint slot. The exact P9902 Basic Bundle, current manual, independent testing, and dated recall search clear the gates, while the shallower body and always-open entrance add decision coverage distinct from LR4. Tuesday must reverify the bundle and keep the smaller-cat fit and tedious deep-cleaning tradeoff prominent. Commercial value contributes only 2 points.",
+    "activation": {
+      "status": "pending",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-03",
+    "researchedAt": "2026-08-03",
+    "lastVerifiedAt": "2026-08-03"
+  },
+  {
+    "candidateId": "petgearbench:B0D4GHS7V6",
+    "siteId": "petgearbench",
+    "productName": "PetSafe ScoopFree SmartSpin Self-Cleaning Litter Box",
+    "model": "PAL00-17985",
+    "variant": "White, app-controlled SmartSpin single unit",
+    "asin": "B0D4GHS7V6",
+    "affiliateUrl": "https://www.amazon.com/dp/B0D4GHS7V6/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Reduce daily litter scooping in an apartment without replacing it with an unsafe, cramped, or harder-to-clean routine.",
+    "decisionSlot": "maintenance",
+    "bestFor": "A smaller adult cat and an owner prioritizing a compact footprint, smooth removable parts, and a simpler deep-clean path over approach detection and large-cat interior room.",
+    "skipIf": "Your cat is under six months, has mobility trouble with a roughly 12-inch entry, is large-bodied, or you require the cycle to stop when a cat merely approaches rather than enters the globe.",
+    "mainTradeoff": "It is compact and easier to disassemble than several rivals, but current testing found limited large-cat room, substantial initial assembly, mixed owner reliability, and no approach-level stop behavior.",
+    "closestAlternative": "PETKIT PuraMax 2 for an always-open entrance with stronger approach sensing, or Litter-Robot 4 for the better-supported default.",
+    "editorialThesis": "SmartSpin is a credible maintenance-first alternative, but its current sensor behavior and mixed ownership evidence are not strong enough for approval.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0D4GHS7V6",
+        "note": "Verified specification: the live Amazon page maps B0D4GHS7V6 to one white PetSafe ScoopFree SmartSpin with app control and cat weight and usage monitoring.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://support.petsafe.net/product-support/scoopfree-smartspin-self-cleaning-litter-box/",
+        "note": "Manufacturer claim: the current support page lists model PAL00-17985 and documents a six-liter drawer, 12-inch entry, cat-exit sensing, smooth removable parts, app monitoring, and clumping-litter preference.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "manual",
+        "url": "https://cdn.sanity.io/files/d075r9p6/production/cf8710e7a43fdf462cbeb47ef6f07a74f41778c8.pdf",
+        "note": "Manufacturer documentation: the official SmartSpin guide identifies PAL00-17985, requires manual mode until a kitten is both six months old and 2.5 pounds, documents weight-triggered entry sensing, and shows the full assembly and cleaning process.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://cats.com/petsafe-scoopfree-smartspin-review",
+        "note": "Independent hands-on finding: month-long multi-cat testing found a compact 20.9-by-18.9-inch footprint, easy disassembly, quiet cycling, and a simple app, but limited large-cat room, difficult assembly, mixed reliability reports, and no stop until a cat enters.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official recall check: the CPSC full recall CSV downloaded on 2026-08-03 contained no SmartSpin, PAL00-17985, or B0D4GHS7V6 match. A 2010 PetSafe recall concerns an unrelated heated-bed adapter. This is not a safety certification.",
+        "checkedAt": "2026-08-03"
+      }
+    ],
+    "strengths": [
+      "The exact Amazon listing and official PAL00-17985 documentation align.",
+      "Its 20.9-by-18.9-inch tested footprint is the smallest of the fully verified models in this run.",
+      "Smooth removable components make deep cleaning more approachable.",
+      "The official manual states kitten limits, assembly, sensor behavior, and cleaning steps clearly."
+    ],
+    "failureModes": [
+      "The weight-triggered system may not stop merely because a cat approaches the rotating globe.",
+      "A roughly 12-inch entry and constrained interior can be a poor fit for senior, disabled, or large cats.",
+      "Initial sphere assembly has many pieces and current owners report sifter, app, and mess failures alongside successful use.",
+      "The drum does not self-empty for deep cleaning and some litter types or soft waste can stick."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 20,
+      "evidenceConfidence": 18,
+      "ownershipLongevity": 10,
+      "meaningfulDifferentiation": 10,
+      "riskAndReturnFit": 9,
+      "demandSignal": 3,
+      "commercialValue": 2,
+      "total": 72
+    },
+    "decision": "hold",
+    "decisionReason": "Hold at 72. The compact footprint and easier deep-clean path are useful, but current hands-on evidence identifies an approach-detection gap, limited large-cat fit, and mixed assembly and reliability outcomes. A longer exact-model ownership pattern or clearer approach-sensor behavior is needed before approval.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-03",
+    "researchedAt": "2026-08-03",
+    "lastVerifiedAt": "2026-08-03"
+  },
+  {
+    "candidateId": "petgearbench:B0CSKBWBF6",
+    "siteId": "petgearbench",
+    "productName": "Neakasa M1 Plus Open-Top Self-Cleaning Cat Litter Box",
+    "model": "M1 Plus / PS0120 family",
+    "variant": "Gray M1 Plus with litter mat and two rolls of refill bags",
+    "asin": "B0CSKBWBF6",
+    "affiliateUrl": "https://www.amazon.com/dp/B0CSKBWBF6/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Reduce daily litter scooping in an apartment without replacing it with an unsafe, cramped, or harder-to-clean routine.",
+    "decisionSlot": "constraint",
+    "bestFor": "A large or enclosure-averse adult cat whose owner is prepared for open-top litter scatter and can verify that the delivered unit is the current M1 Plus hardware before use.",
+    "skipIf": "You cannot confirm the delivered hardware version, want low litter scatter, need strong domestic parts support, or expect a public manufacturer explanation of the safety-related gear and sensor changes.",
+    "mainTradeoff": "The open top offers unusually generous cat room, but current evidence conflicts on Amazon fulfillment, safety-version identification, sensor longevity, litter scatter, and replacement support.",
+    "closestAlternative": "Litter-Robot 4 for stronger identity, support, and long-term evidence if the cat accepts an enclosed globe.",
+    "editorialThesis": "The M1 Plus solves a real large-cat and open-top constraint, but it must not enter a recommendation until exact delivered-unit identity and the safety-version transition are independently verifiable.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0CSKBWBF6",
+        "note": "Verified listing identity with limitation: Amazon search mapped B0CSKBWBF6 to the gray M1 Plus package with mat and two refill-bag rolls, but the direct detail page did not reliably render during the check and current owners report variant fulfillment conflicts.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://neakasa.com/products/neakasa-m1-cat-litter-box",
+        "note": "Manufacturer claim: the current M1 Plus page documents six infrared sensor sets, four weight sensors, a controlled-rotation gear, 20.67-by-23.26-by-20.2-inch dimensions, and open-top room for cats up to about 33 pounds.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "manual",
+        "url": "https://cdn.shopify.com/s/files/1/0600/4736/0185/files/Neakasa_M1_Manual.pdf?v=1706772466",
+        "note": "Manufacturer documentation with limitation: the manual linked from the current M1 Plus page is labeled Neakasa M1 rather than M1 Plus and documents kitten mode, level placement, litter limits, calibration, and cleaning without a clear current-hardware identifier.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://neakasa.com/blogs/news-and-events/important-notice-beware-of-fake-neakasa-m1-listings",
+        "note": "Manufacturer warning: Neakasa says counterfeit M1 offers exist on Amazon and tells buyers to use the Neakasa Official store, adding a seller-verification burden to exact-product identity.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.reddit.com/r/neakasa/comments/1qlxmz9/ordered_m1_plus_from_neakasas_store_front_on/",
+        "note": "Owner-reported pattern: a current buyer says an order from the Neakasa Amazon storefront advertised as M1 Plus arrived as an original M1 and support said direct purchase was the only definite M1 Plus path. This unverified report is a blocker, not proof about every order.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official recall check: the CPSC full recall CSV downloaded on 2026-08-03 contained no Neakasa, M1, M1 Plus, PS0120, or B0CSKBWBF6 match. The no-match does not resolve current hardware-version or owner-reported safety concerns and is not a certification.",
+        "checkedAt": "2026-08-03"
+      }
+    ],
+    "strengths": [
+      "The open-top pan provides substantially more visible turning room than enclosed-globe models.",
+      "The official current product page documents six infrared sensor sets, four weight sensors, and a controlled-rotation design.",
+      "The 20.2-inch body height may fit under surfaces that cannot accommodate taller enclosed robots.",
+      "The exact M1 Plus package is named in the current Amazon search result and manufacturer catalog."
+    ],
+    "failureModes": [
+      "The current Amazon detail page was not consistently readable and recent owner evidence alleges M1-for-M1-Plus fulfillment even through the branded storefront.",
+      "The manual linked from the M1 Plus page is still labeled M1 and does not provide a simple delivered-unit safety-version check.",
+      "Open-top use can create substantial litter scatter and current owner reports conflict on sensors, liners, bags, and support.",
+      "A CPSC no-match cannot resolve non-public incidents or substitute for exact hardware-version evidence."
+    ],
+    "hardGates": {
+      "asinVerified": false,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": false,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 22,
+      "evidenceConfidence": 13,
+      "ownershipLongevity": 7,
+      "meaningfulDifferentiation": 13,
+      "riskAndReturnFit": 3,
+      "demandSignal": 4,
+      "commercialValue": 2,
+      "total": 64
+    },
+    "decision": "reject",
+    "decisionReason": "Reject at 64 despite strong open-top fit. The current listing, linked manual, owner fulfillment report, counterfeit warning, and publicly unexplained hardware transition do not establish that a buyer will receive the current M1 Plus safety version. A dated CPSC no-match cannot repair that hard-gate failure, and commercial value contributes only 2 points.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-03",
+    "researchedAt": "2026-08-03",
+    "lastVerifiedAt": "2026-08-03"
+  },
+  {
+    "candidateId": "petgearbench:B0HB41VTJX",
+    "siteId": "petgearbench",
+    "productName": "Casa Leo Leo's Loo Too Automatic Self-Cleaning Cat Litter Box",
+    "model": "Leo's Loo Too / 3753 family",
+    "variant": "Single-unit current Amazon listing; color is not exposed in the current detail-page title",
+    "asin": "B0HB41VTJX",
+    "affiliateUrl": "https://www.amazon.com/dp/B0HB41VTJX/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Reduce daily litter scooping in an apartment without replacing it with an unsafe, cramped, or harder-to-clean routine.",
+    "decisionSlot": "other",
+    "bestFor": "A smaller adult cat in a noise-sensitive apartment where quiet cycling and an enclosed waste drawer matter, after the exact current color and package are reverified.",
+    "skipIf": "Your cat is large or enclosure-averse, you need a fully verified Amazon color/package, or mixed long-term reports about sensors, error states, parts, and support are unacceptable.",
+    "mainTradeoff": "It is quiet and comparatively tidy, but the interior is cramped for some cats, the current Amazon ASIN is newly redirected, and long-term owner evidence conflicts on reliability and support.",
+    "closestAlternative": "PETKIT PuraMax 2 for stronger current exact-model evidence or Litter-Robot 4 for the established default.",
+    "editorialThesis": "Leo's Loo Too is a plausible quiet-apartment slot, but current listing continuity and mixed long-term ownership evidence require a hold.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0HB41VTJX",
+        "note": "Verified listing identity with limitation: Amazon redirected the prior Leo's Loo Too ASIN to B0HB41VTJX and identified the current single-unit Casa Leo product, but the page title did not expose the color or a model-number field.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://casaleopet.com/",
+        "note": "Manufacturer claim: the current Leo's Loo Too page documents 30 dB cycling, a 9.5-liter drawer, weight detection, app controls, and current color options, while making broader safety and odor claims that this research does not repeat as verified facts.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "manual",
+        "url": "https://media.tractorsupply.com/is/content/TractorSupplyCompany/tsc/product/2/27/42/86/2274286_Man1.pdf",
+        "note": "Manufacturer documentation: the Leo's Loo Too manual requires clumping clay litter, a solid level surface, weekly drawer emptying for one cat, 2.4 GHz Wi-Fi, dry electronics, and manual handling for cats at or below one pound.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.chewy.com/casa-leo-leos-loo-too-wifi-enabled/product-reviews/355654",
+        "note": "Owner-reported pattern: current multi-year reviews praise quiet cycling, odor control, and successful warranty repairs, while other owners report recurring error mode, sensor or part failures, app legibility, and slow or ineffective support.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official recall check: the CPSC full recall CSV downloaded on 2026-08-03 contained no Casa Leo, Smarty Pear, Leo's Loo Too, model 3753, or B0HB41VTJX match. This dated no-match is not a safety certification.",
+        "checkedAt": "2026-08-03"
+      }
+    ],
+    "strengths": [
+      "Current official documentation covers setup, safety limits, litter, drawer maintenance, and Wi-Fi behavior.",
+      "The enclosed design and current owner reports support a quiet, lower-scatter apartment use case.",
+      "Several current owners report multi-year service and successful repairs.",
+      "The current Amazon page resolves to a specific Casa Leo Leo's Loo Too product rather than a generic category listing."
+    ],
+    "failureModes": [
+      "The current Amazon ASIN is newly redirected and does not expose color or a model number in the page title.",
+      "The smaller enclosed opening and interior can cause refusal or cramped use for larger cats.",
+      "Current owner evidence conflicts sharply on sensors, error states, replacement parts, and warranty support.",
+      "Manufacturer safety and odor superlatives exceed what this research can independently verify."
+    ],
+    "hardGates": {
+      "asinVerified": false,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 18,
+      "evidenceConfidence": 15,
+      "ownershipLongevity": 8,
+      "meaningfulDifferentiation": 10,
+      "riskAndReturnFit": 8,
+      "demandSignal": 4,
+      "commercialValue": 3,
+      "total": 66
+    },
+    "decision": "hold",
+    "decisionReason": "Hold at 66. The quiet, lower-scatter use case is distinct and current owner history is substantial, but the new redirected ASIN does not expose the exact color or model number and long-term support evidence conflicts. Reconsider only after the current package is stable and its ownership pattern can be tied to that exact listing.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-03",
+    "researchedAt": "2026-08-03",
+    "lastVerifiedAt": "2026-08-03"
   }
 ]
