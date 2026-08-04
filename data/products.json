@@ -82,5 +82,19 @@
     "positioning": "Subscription-free local recording pick",
     "category": "pet-tech",
     "affiliateUrl": "https://www.amazon.com/dp/B0DJVGZQW7/ref=nosim?tag=abbeybench-20"
+  },
+  {
+    "asin": "B0BH6MD3DJ",
+    "name": "Whisker Litter-Robot 4 with Step & Fence",
+    "positioning": "Apartment automatic litter box default",
+    "category": "litter",
+    "affiliateUrl": "https://www.amazon.com/dp/B0BH6MD3DJ/ref=nosim?tag=abbeybench-20"
+  },
+  {
+    "asin": "B0DFYF2D7D",
+    "name": "PETKIT PuraMax 2 Basic Bundle",
+    "positioning": "Shallower apartment litter station pick",
+    "category": "litter",
+    "affiliateUrl": "https://www.amazon.com/dp/B0DFYF2D7D/ref=nosim?tag=abbeybench-20"
   }
 ]

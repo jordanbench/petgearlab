@@ -959,13 +959,13 @@
     "decision": "approve",
     "decisionReason": "Approve at 83 for the default slot. Exact identity, official safety and care documentation, current independent testing, parts support, and the dated recall check clear every gate. Approval is conditional on Tuesday re-verification and guide language that states the footprint, enclosed-box fit, three-pound automatic-mode minimum, and real maintenance burden. Commercial value contributes only 2 points.",
     "activation": {
-      "status": "pending",
-      "activatedAt": null,
-      "guidePath": null
+      "status": "activated",
+      "activatedAt": "2026-08-04",
+      "guidePath": "/guides/best-automatic-litter-boxes-apartments/"
     },
     "sourceRun": "product-discovery:2026-08-03",
     "researchedAt": "2026-08-03",
-    "lastVerifiedAt": "2026-08-03"
+    "lastVerifiedAt": "2026-08-04"
   },
   {
     "candidateId": "petgearbench:B0DFYF2D7D",
@@ -1047,13 +1047,13 @@
     "decision": "approve",
     "decisionReason": "Approve at 79 for a narrow constraint slot. The exact P9902 Basic Bundle, current manual, independent testing, and dated recall search clear the gates, while the shallower body and always-open entrance add decision coverage distinct from LR4. Tuesday must reverify the bundle and keep the smaller-cat fit and tedious deep-cleaning tradeoff prominent. Commercial value contributes only 2 points.",
     "activation": {
-      "status": "pending",
-      "activatedAt": null,
-      "guidePath": null
+      "status": "activated",
+      "activatedAt": "2026-08-04",
+      "guidePath": "/guides/best-automatic-litter-boxes-apartments/"
     },
     "sourceRun": "product-discovery:2026-08-03",
     "researchedAt": "2026-08-03",
-    "lastVerifiedAt": "2026-08-03"
+    "lastVerifiedAt": "2026-08-04"
   },
   {
     "candidateId": "petgearbench:B0D4GHS7V6",

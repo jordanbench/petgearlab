@@ -13,6 +13,7 @@ Pet Gear Bench helps dog and cat owners choose feeders, fountains, travel gear, 
 
 ## Current Public Pages
 
+- `/guides/best-automatic-litter-boxes-apartments/` - Best Automatic Litter Boxes for Apartments
 - `/guides/best-automatic-cat-feeders-two-cats/` - Best Automatic Cat Feeders for Two-Cat Homes
 - `/guides/dog-car-hammock-vs-seat-cover/` - Dog Car Hammock vs Seat Cover for Summer Travel
 - `/guides/stainless-steel-pet-fountain-review/` - Stainless Steel Pet Fountain Review After 30 Days
