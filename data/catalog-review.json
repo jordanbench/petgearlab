@@ -1,4 +1,168 @@
 {
-  "reviewedAt": null,
-  "products": []
+  "reviewedAt": "2026-08-06",
+  "products": [
+    {
+      "asin": "B07N1B7JY4",
+      "status": "retire-review",
+      "reason": "The exact Amazon ASIN now returns Page Not Found, so readers cannot verify or buy the named PETLIBRO feeder and the catalog does not identify a defensible model or variant behind this legacy row. The shared-schedule slot still matters, but it needs a new evidence-gated candidate rather than an inferred replacement.",
+      "checkedAt": "2026-08-06",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B07N1B7JY4",
+        "https://designlibro.zendesk.com/hc/en-us/articles/7124197519769-Comparison-between-PETLIBRO-Automatic-Feeders",
+        "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv"
+      ]
+    },
+    {
+      "asin": "B09DSVFNRW",
+      "status": "retire-review",
+      "reason": "The exact ASIN now resolves to a Tomxcute 3.2-liter fountain, not the named Veken fountain. Sending a reader to a different brand and variant defeats the easy-clean Veken recommendation even though Veken still sells a current stainless fountain family.",
+      "checkedAt": "2026-08-06",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B09DSVFNRW",
+        "https://vekenus.com/product/stainless-steel-automatic-pet-fountain/",
+        "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv"
+      ]
+    },
+    {
+      "asin": "B07G642RMQ",
+      "status": "retire-review",
+      "reason": "The exact ASIN now resolves to an Active Pets black standard hammock rather than the named URPOWER cover. The hammock-versus-bench decision remains useful, but the current link no longer supports the catalog identity or URPOWER-specific positioning.",
+      "checkedAt": "2026-08-06",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B07G642RMQ",
+        "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv"
+      ]
+    },
+    {
+      "asin": "B01MS6PLM6",
+      "status": "retire-review",
+      "reason": "The exact Amazon ASIN now returns Page Not Found. Gorilla Grip still documents current litter mats and their curl, slip, floor, and cleaning limitations, but no current public evidence ties this dead ASIN to a specific size and color readers can verify.",
+      "checkedAt": "2026-08-06",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B01MS6PLM6",
+        "https://gorillagrip.com/products/litter-mat",
+        "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv"
+      ]
+    },
+    {
+      "asin": "B0002AR0II",
+      "status": "retire-review",
+      "reason": "The exact ASIN now resolves to a large black KONG Extreme, not the red KONG Classic named throughout the catalog. That substitution changes rubber strength, intended chewer, color, and size, so the current link cannot support the Classic enrichment recommendation or its supervision guidance.",
+      "checkedAt": "2026-08-06",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B0002AR0II",
+        "https://www.kongcompany.com/kong-classic/",
+        "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv"
+      ]
+    },
+    {
+      "asin": "B08P75GZ5M",
+      "status": "retire-review",
+      "reason": "The exact Amazon ASIN now returns Page Not Found while Furbo still supports the broader 360-degree camera family. Readers need a currently purchasable exact variant, clear subscription boundaries, and current treat-jam and connectivity evidence before this treat-tossing alternative can remain active.",
+      "checkedAt": "2026-08-06",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B08P75GZ5M",
+        "https://help.furbo.com/hc/en-us/categories/6148726107545-Furbo-360-Dog-Camera",
+        "https://help.furbo.com/hc/en-gb/articles/17467942964121-Fail-to-Toss-Treats",
+        "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv"
+      ]
+    },
+    {
+      "asin": "B0BQN8TNHH",
+      "status": "keep",
+      "reason": "The exact listing remains the 12-ounce navy MalsiPree bottle and current manufacturer and owner evidence supports its compact short-outing slot. The small bowl, stiff lock, scuffing, and limited capacity are meaningful but already fit the guide's reason to choose it over larger bottles; no exact recall match or clearly superior compact replacement was found.",
+      "checkedAt": "2026-08-06",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B0BQN8TNHH",
+        "https://www.malsipree.com/",
+        "https://pet.ruijiayu.com/malsipree-12oz-dog-water-bottle-dispenser-review-worth-it/",
+        "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv"
+      ]
+    },
+    {
+      "asin": "B09CH9W2XS",
+      "status": "keep",
+      "reason": "The exact listing remains the blue 22-ounce Springer Classic with one-hand squeeze-and-return operation, and the manufacturer continues to position that size as its versatile default. Current owner discussion still favors its workflow while acknowledging that large dogs and long outings may require more capacity; no exact recall match or better all-around replacement displaced it.",
+      "checkedAt": "2026-08-06",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B09CH9W2XS",
+        "https://springerpets.com/products/classic-travel-bottle?variant=42462812864702",
+        "https://www.reddit.com/r/AustralianPets/comments/1qcb0jk/shopping_for_a_dog_water_bottle_any/",
+        "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv"
+      ]
+    },
+    {
+      "asin": "B07Q56TTD4",
+      "status": "refresh",
+      "reason": "The exact listing remains a blue lesotc squeeze bottle, but its current verified capacity is 18 ounces, below the 22-ounce Springer default. Current owner reports also surface residual water, leaks, heat deformation, and small-bowl constraints, so the guide's longer-outing decision slot needs re-positioning or an evidence-gated higher-capacity replacement.",
+      "checkedAt": "2026-08-06",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B07Q56TTD4",
+        "https://lesotc.com/",
+        "https://www.chewy.com/lesotc-outdoor-dog-water-bottle/product-reviews/693790",
+        "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv"
+      ]
+    },
+    {
+      "asin": "B00O0UIPTY",
+      "status": "keep",
+      "reason": "The exact Amazon listing and current manual still identify the white SureFeed MPF001 selective bowl for wet or dry food. Battery upkeep, microchip compatibility, training, and rear reach-around remain disclosed failure patterns, while MiBowl is the distinct enclosed alternative rather than a universal replacement; no exact recall match was found.",
+      "checkedAt": "2026-08-06",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B00O0UIPTY",
+        "https://www.surepetcare.com/en-us/support/microchip-pet-feeder",
+        "https://www.reddit.com/r/CatAdvice/comments/1s70j63/questions_for_anyone_who_uses_the_surepet/",
+        "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv"
+      ]
+    },
+    {
+      "asin": "B09ZLJCYSR",
+      "status": "keep",
+      "reason": "The exact listing remains the Closer Pets MiBowl CP500 and current product, manual, and owner evidence supports the enclosed persistent-food-thief slot. Setup, battery, tag or chip compatibility, and pet acclimation remain real ownership burdens, but SureFeed does not replace its enclosed geometry and no exact recall match was found.",
+      "checkedAt": "2026-08-06",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B09ZLJCYSR",
+        "https://closerpets.com/products/mibowl-automatic-microchip-pet-feeder-cp500",
+        "https://www.trustpilot.com/review/closerpets.com",
+        "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv"
+      ]
+    },
+    {
+      "asin": "B0DJVGZQW7",
+      "status": "keep",
+      "reason": "The exact listing and manufacturer support still identify the eufy Indoor Cam E30 and model T8417, with local microSD recording, pet tracking, and pan-and-tilt coverage preserving its no-required-cloud-plan slot. Current owners still report Wi-Fi, server, audio, and 24/7-recording load issues, but those dependencies are disclosed and no better local-recording replacement or exact recall match displaced it.",
+      "checkedAt": "2026-08-06",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B0DJVGZQW7",
+        "https://www.eufy.com/products/t8417121",
+        "https://www.reddit.com/r/EufyCam/comments/1v0tljz/is_eufy_that_bad/",
+        "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv"
+      ]
+    },
+    {
+      "asin": "B0BH6MD3DJ",
+      "status": "keep",
+      "reason": "The exact black Litter-Robot 4 package with step, fence, and one year of WhiskerCare remains current, and manufacturer and independent evidence still supports its parts, service, sifting, and odor-control advantages. Enclosure rejection, the 14-inch bed, sensor care, cycling errors, and cleaning remain meaningful limits; the newer LR5 Pro adds cameras and identification but does not improve the apartment footprint enough to displace this slot, and no exact recall match was found.",
+      "checkedAt": "2026-08-06",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B0BH6MD3DJ",
+        "https://www.whisker.com/litter-robot-4",
+        "https://cats.com/litter-robot-4-review",
+        "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv"
+      ]
+    },
+    {
+      "asin": "B0DFYF2D7D",
+      "status": "keep",
+      "reason": "The exact listing remains the PETKIT PuraMax 2 Basic Bundle and current manual still identifies model P9902, its shallow body, always-open entrance, placement limits, and age and weight scope. Independent and owner evidence confirms tedious emptying and deep cleaning, size limits, sensor errors, and leak reports, but newer camera-equipped PETKIT models do not replace its narrower depth-and-entry constraint slot; no exact recall match was found.",
+      "checkedAt": "2026-08-06",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B0DFYF2D7D",
+        "https://instructions.petkit.com/App%20Manual/T4-2/T4-2_User%20Manual_EN_V1.1_250305_%20.pdf",
+        "https://cats.com/petkit-puramax-2-automatic-litter-box-review",
+        "https://www.reddit.com/r/PETKIT/comments/1v05vdt/would_you_buy_your_petkit_purobot_again_now/",
+        "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv"
+      ]
+    }
+  ]
 }
