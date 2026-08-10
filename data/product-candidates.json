@@ -1324,5 +1324,415 @@
     "sourceRun": "product-discovery:2026-08-03",
     "researchedAt": "2026-08-03",
     "lastVerifiedAt": "2026-08-03"
+  },
+  {
+    "candidateId": "petgearbench:B000AYN7LU",
+    "siteId": "petgearbench",
+    "productName": "KONG Classic Stuffable Dog Toy",
+    "model": "T2 / T2E",
+    "variant": "Medium, red, standard packaging, pack of one",
+    "asin": "B000AYN7LU",
+    "affiliateUrl": "https://www.amazon.com/dp/B000AYN7LU/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Give a food-motivated adult dog a short supervised indoor enrichment session without relying on a plush toy or implying that any toy is safe unattended.",
+    "decisionSlot": "compatibility",
+    "bestFor": "An average-chewing dog in the manufacturer's 15-to-35-pound medium-size range whose owner wants a compact fill-and-freeze rubber toy and will inspect it after every session.",
+    "skipIf": "Your dog is a power chewer, you need unattended enrichment, or current owner reports of early tearing, surface residue, and odor make the material-quality uncertainty unacceptable.",
+    "mainTradeoff": "The familiar stuffable shape is compact and easy to rotate through the freezer, but current owner reports conflict with the broad durability reputation and require close inspection and prompt disposal after damage.",
+    "closestAlternative": "West Paw Toppl Large for a more open, easier-to-fill frozen-food format with an equally explicit supervision requirement.",
+    "editorialThesis": "The current medium red KONG is a plausible size-specific replacement for the site's drifted KONG row, but it should stay on hold until recent material and early-failure reports are better resolved.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B000AYN7LU",
+        "note": "Verified specification: the current Amazon detail page identifies ASIN B000AYN7LU as the KONG Classic natural-rubber stuffable toy for medium dogs, with Medium (Pack of 1) selected and item model T2E.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.kongcompany.com/kong-classic/",
+        "note": "Manufacturer documentation: the current KONG page maps the medium red Classic to SKU T2 and UPC 035585111216, sizes it for 15-to-35-pound dogs, and requires supervised use, disposal after damage, and a larger or Extreme toy for power chewers.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.chewy.com/kong-classic-dog-toy/dp/38484",
+        "note": "Owner-reported pattern: the current medium-product review corpus includes successful frozen-food sessions, but repeated 2025-2026 reports describe early tearing, chalky or powdery surfaces, chemical odor, and lower perceived durability than older units. These reports are not proof about every unit.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official recall check: the CPSC full recall CSV downloaded on 2026-08-10, last modified 2026-07-31, contained no exact KONG Classic, T2/T2E, B000AYN7LU, or KONG Company dog-toy match. This dated no-match is not a safety certification and does not resolve owner-reported quality concerns.",
+        "checkedAt": "2026-08-10"
+      }
+    ],
+    "strengths": [
+      "The exact current Amazon child ASIN, medium selection, red color, and T2E model are identifiable.",
+      "The manufacturer publishes current size guidance and explicit supervision, damage-discard, and power-chewer warnings.",
+      "The compact opening supports stuffed or frozen food without adding moving parts.",
+      "The medium variant earns a specific compatibility slot rather than a generic indestructible-toy claim."
+    ],
+    "failureModes": [
+      "A power chewer can tear or remove rubber, creating an ingestion risk if the toy is not taken away promptly.",
+      "Current owners report inconsistent surface finish, odor, and durability across recent units.",
+      "The narrow opening can be slower to fill and clean than an open-cup design.",
+      "No toy should be presented as safe for unattended use, even when a prior unit lasted for years."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 24,
+      "evidenceConfidence": 16,
+      "ownershipLongevity": 10,
+      "meaningfulDifferentiation": 12,
+      "riskAndReturnFit": 10,
+      "demandSignal": 4,
+      "commercialValue": 3,
+      "total": 79
+    },
+    "decision": "hold",
+    "decisionReason": "Hold at 79 despite clearing the numerical approval threshold. The exact medium red T2/T2E variant and affiliate URL are current, but recent owner evidence conflicts with the broad durability expectation through early tearing, residue, and odor reports. That unresolved claim gate matters more than commercial value, which contributes only 3 points.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-10",
+    "researchedAt": "2026-08-10",
+    "lastVerifiedAt": "2026-08-10"
+  },
+  {
+    "candidateId": "petgearbench:B00N54E9MI",
+    "siteId": "petgearbench",
+    "productName": "West Paw Zogoflex Toppl Treat Toy",
+    "model": "ZG084AQA",
+    "variant": "Large, Aqua Blue, one toy",
+    "asin": "B00N54E9MI",
+    "affiliateUrl": "https://www.amazon.com/dp/B00N54E9MI/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Give a food-motivated adult dog a short supervised indoor enrichment session without relying on a plush toy or implying that any toy is safe unattended.",
+    "decisionSlot": "default",
+    "bestFor": "A moderate chewer whose owner wants a wide-opening, dishwasher-safe toy for wet, dry, or frozen food and can remove it as soon as the food is gone.",
+    "skipIf": "Your dog is a power chewer that targets rims, you need a toy that is safe unattended, or the large 3/4-cup size is poorly matched to the dog's mouth or food allowance.",
+    "mainTradeoff": "The open cup is easier to fill and clean than a narrow rubber cavity, but the exposed rim gives determined chewers an edge to damage and liquid fillings can leak through the side hole without a separate stopper.",
+    "closestAlternative": "KONG Classic Medium for a narrower, more compact rubber cavity, after its current quality evidence is resolved.",
+    "editorialThesis": "Toppl Large is the strongest researched default for supervised fill-and-freeze enrichment because current identity, use limits, cleaning guidance, and owner failures are all specific enough to make a bounded recommendation.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B00N54E9MI",
+        "note": "Verified specification: the current Amazon detail page identifies ASIN B00N54E9MI as the West Paw Zogoflex Toppl in the Large, Aqua Blue variant for kibble, treats, licking, freezing, and top-rack dishwasher cleaning.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.westpaw.com/products/toppl-treat-toy",
+        "note": "Manufacturer documentation: the current Toppl page identifies the Large as a 3/4-cup, 3.5-by-4-by-3.5-inch toy for moderate chewers; it supports filling, freezing, and top-rack dishwashing and explicitly says no dog toy is indestructible, supervision is required, and damaged toys must be removed.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.chewy.com/west-paw-zogoflex-toppl-tough-treat/product-reviews/109833",
+        "note": "Owner-reported pattern: current reviews repeatedly describe successful frozen-food sessions and easy loading, while power-chewer owners report chipping at the exposed rim, sometimes on first use. Owners commonly remove the empty toy rather than leave it available for chewing.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official recall check: the CPSC full recall CSV downloaded on 2026-08-10, last modified 2026-07-31, contained no exact West Paw, Zogoflex Toppl, ZG084AQA, or B00N54E9MI match. This dated no-match is not a safety certification.",
+        "checkedAt": "2026-08-10"
+      }
+    ],
+    "strengths": [
+      "The exact Large Aqua Blue Amazon child ASIN is current and matches the manufacturer product family.",
+      "The wide opening supports wet, dry, and frozen fillings with less loading friction than a narrow cavity.",
+      "Top-rack dishwasher guidance and a simple one-piece body reduce routine cleaning burden.",
+      "The manufacturer and current owners agree on the critical limit: it is a supervised moderate-chewer toy, not an indestructible chew."
+    ],
+    "failureModes": [
+      "Power chewers can chip or remove pieces from the exposed rim.",
+      "The side opening can leak thin mixtures during filling or freezing unless the owner uses a separate stopper or a thicker mixture.",
+      "A single Large Toppl is an open licking vessel; linking sizes for rolling treat play requires another purchase.",
+      "Its 3/4-cup capacity can encourage overfeeding unless the filling is counted within the dog's normal food allowance."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 24,
+      "evidenceConfidence": 19,
+      "ownershipLongevity": 13,
+      "meaningfulDifferentiation": 14,
+      "riskAndReturnFit": 12,
+      "demandSignal": 4,
+      "commercialValue": 3,
+      "total": 89
+    },
+    "decision": "approve",
+    "decisionReason": "Approve at 89 for the default supervised fill-and-freeze slot. The exact Large Aqua Blue listing, current manufacturer specifications and warnings, current owner pattern, and official recall check align. The recommendation must remain bounded to moderate chewers under active supervision, with removal after food is gone; commercial value contributes only 3 points.",
+    "activation": {
+      "status": "pending",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-10",
+    "researchedAt": "2026-08-10",
+    "lastVerifiedAt": "2026-08-10"
+  },
+  {
+    "candidateId": "petgearbench:B003ALMW0M",
+    "siteId": "petgearbench",
+    "productName": "KONG Wobbler Treat-Dispensing Dog Toy",
+    "model": "PW1 / Amazon item PW1E",
+    "variant": "Large, red, one toy for medium and large dogs",
+    "asin": "B003ALMW0M",
+    "affiliateUrl": "https://www.amazon.com/dp/B003ALMW0M/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Give a food-motivated adult dog a short supervised indoor enrichment session without relying on a plush toy or implying that any toy is safe unattended.",
+    "decisionSlot": "maintenance",
+    "bestFor": "A medium or large dog that bats rather than chews a hard-plastic kibble dispenser, on a clear floor and under uninterrupted supervision.",
+    "skipIf": "Your dog paws into openings, chews hard plastic, is easily frustrated by low food release, or you need quiet apartment play or any unattended-use option.",
+    "mainTradeoff": "The screw-apart, dishwasher-safe body is easy to refill and clean, but it is noisy on hard floors and repeated current owner reports describe toes becoming trapped in the dispensing opening.",
+    "closestAlternative": "West Paw Toppl Large for a softer, open fill-and-freeze routine without a paw-level dispensing hole.",
+    "editorialThesis": "The Wobbler's cleaning and dry-kibble workflow are strong, but unresolved toe-entrapment reports make it unsuitable for recommendation in this supervised indoor shortlist.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B003ALMW0M",
+        "note": "Verified specification: the current Amazon detail page identifies ASIN B003ALMW0M as the large KONG Wobbler for medium and large dogs, item model PW1E, with a 7.5-inch height and hard-plastic wobbling form.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.kongcompany.com/wobbler/",
+        "note": "Manufacturer documentation: the current large Wobbler is SKU PW1, UPC 035585034003, a screw-apart top-rack-dishwasher-safe dry-food dispenser. KONG states that it is not a chew toy, requires supervised use, and must be discontinued if damaged.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.chewy.com/kong-wobbler-dog-toy/product-reviews/44086",
+        "note": "Owner-reported pattern: current 2025-2026 reviews include successful slower meals and easy cleaning, but multiple separate reports describe a toe becoming trapped in the dispensing hole, alongside noise, frustration, and dogs chewing through the top. These reports are not an official incident determination.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official recall check: the CPSC full recall CSV downloaded on 2026-08-10, last modified 2026-07-31, contained no exact KONG Wobbler, PW1/PW1E, or B003ALMW0M match. The no-match does not resolve the repeated owner-reported toe-entrapment pattern and is not a safety certification.",
+        "checkedAt": "2026-08-10"
+      }
+    ],
+    "strengths": [
+      "The exact large ASIN and PW1/PW1E identity are current and consistent across Amazon and KONG.",
+      "The top unscrews for filling and top-rack dishwasher cleaning.",
+      "The weighted shape returns upright and dispenses dry food when pushed.",
+      "Current owners report that it can extend meals for dogs that learn to bat it appropriately."
+    ],
+    "failureModes": [
+      "Multiple current owner reports describe a paw or toe becoming stuck in the dispensing opening.",
+      "Hard plastic striking cabinets, walls, or flooring is noisy and can damage an apartment interior.",
+      "Dogs that bite instead of bat can damage the plastic or unscrew the body.",
+      "Some dogs receive too little feedback from the opening and abandon the toy."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": false,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 21,
+      "evidenceConfidence": 15,
+      "ownershipLongevity": 9,
+      "meaningfulDifferentiation": 12,
+      "riskAndReturnFit": 5,
+      "demandSignal": 4,
+      "commercialValue": 2,
+      "total": 68
+    },
+    "decision": "reject",
+    "decisionReason": "Reject at 68. Exact identity and maintenance advantages do not overcome repeated current toe-entrapment reports in a toy designed to be pawed. The official recall dataset has no exact match, but a no-match is not evidence that the owner pattern is harmless. The unresolved safety hard gate controls the decision; commercial value contributes only 2 points.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-10",
+    "researchedAt": "2026-08-10",
+    "lastVerifiedAt": "2026-08-10"
+  },
+  {
+    "candidateId": "petgearbench:B001JQLNB4",
+    "siteId": "petgearbench",
+    "productName": "Starmark Treat Dispensing Bob-A-Lot",
+    "model": "SMBAL",
+    "variant": "Large, yellow/green/purple, one toy",
+    "asin": "B001JQLNB4",
+    "affiliateUrl": "https://www.amazon.com/dp/B001JQLNB4/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Give a food-motivated adult dog a short supervised indoor enrichment session without relying on a plush toy or implying that any toy is safe unattended.",
+    "decisionSlot": "other",
+    "bestFor": "A dog that benefits from adjustable dry-kibble release and has a clear, damage-tolerant play area where a heavy wobbling toy will not strike furniture or walls.",
+    "skipIf": "You live in a noise-sensitive apartment, need quick loading and thorough daily cleaning, or your dog chews the cap after the food is gone.",
+    "mainTradeoff": "Two adjustable openings can tune food release, but the large weighted body is noisy and awkward around furniture, while current owners repeatedly describe slow filling and difficult cleaning.",
+    "closestAlternative": "West Paw Toppl Large for simpler cleaning and frozen-food use, or KONG Wobbler if its separate safety concern is ever resolved.",
+    "editorialThesis": "Bob-A-Lot is meaningfully adjustable, but its apartment impact, cleaning burden, and limited current manufacturer product documentation keep it below recommendation quality.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B001JQLNB4",
+        "note": "Verified specification: the current Amazon detail page identifies ASIN B001JQLNB4 as the large yellow/green/purple Starmark Bob-A-Lot, a one-unit weighted interactive dispenser in the SMBAL family.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.starmarkacademy.com/wp-content/uploads/2023/09/Starmark-Covered-MAP-Bulletin_092723.pdf",
+        "note": "Manufacturer identity evidence with freshness limitation: Starmark's official bulletin maps Treat Dispensing Bob-A-Lot Large to UPC 837199000812 and model SMBAL. The exact document is dated 2023 and the current manufacturer site does not expose an equally complete product page, so it is insufficient for approval by itself.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.chewy.com/starmark-treat-dispensing-bob-lot-dog/product-reviews/45490",
+        "note": "Owner-reported pattern: current 2026 reviews describe sustained engagement and useful adjustable release, but repeatedly flag slow filling, difficult cleaning, heavy impacts against walls or furniture, noise, and chewing at the lid once empty.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official recall check: the CPSC full recall CSV downloaded on 2026-08-10, last modified 2026-07-31, contained no exact Starmark Bob-A-Lot, SMBAL, or B001JQLNB4 match. This dated no-match is not a safety certification.",
+        "checkedAt": "2026-08-10"
+      }
+    ],
+    "strengths": [
+      "The exact Amazon ASIN, large color variant, and SMBAL family are identifiable.",
+      "Two adjustable gates can tune both chamber flow and final food release.",
+      "The weighted base reduces the chance of rolling straight under furniture.",
+      "Current owners report repeated engagement for food-motivated dogs."
+    ],
+    "failureModes": [
+      "The weighted body can strike walls, cabinets, furniture, and feet during indoor play.",
+      "The narrow fill path is slow for full meals.",
+      "Owners report that the internal construction is harder to clean thoroughly than screw-apart or one-piece alternatives.",
+      "Dogs may chew the cap or lid after the food is gone, requiring immediate removal."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 20,
+      "evidenceConfidence": 15,
+      "ownershipLongevity": 9,
+      "meaningfulDifferentiation": 10,
+      "riskAndReturnFit": 8,
+      "demandSignal": 4,
+      "commercialValue": 2,
+      "total": 68
+    },
+    "decision": "hold",
+    "decisionReason": "Hold at 68. Adjustable release is a real distinction, but the current owner pattern makes the heavy, noisy, slow-to-fill, difficult-to-clean design a weak apartment recommendation, and the best exact manufacturer identity document is stale. Revisit only if current official product documentation and a cleaning-safe use case close those gaps; commercial value contributes only 2 points.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-10",
+    "researchedAt": "2026-08-10",
+    "lastVerifiedAt": "2026-08-10"
+  },
+  {
+    "candidateId": "petgearbench:B00EE1660O",
+    "siteId": "petgearbench",
+    "productName": "Planet Dog / Outward Hound Orbee-Tuff Snoop",
+    "model": "Large Snoop family; exact current color SKU unresolved",
+    "variant": "Large single toy; current Amazon color and package identity unresolved",
+    "asin": "B00EE1660O",
+    "affiliateUrl": "https://www.amazon.com/dp/B00EE1660O/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Give a food-motivated adult dog a short supervised indoor enrichment session without relying on a plush toy or implying that any toy is safe unattended.",
+    "decisionSlot": "constraint",
+    "bestFor": "A moderate chewer that prefers a flexible, quieter dry-treat dispenser, only after the exact Amazon color and current branded package can be tied to this ASIN.",
+    "skipIf": "You need a verified exact Amazon variant now, feed wet food, have multiple dogs that cannot share scattered treats safely, or your dog rapidly tears flexible rubber.",
+    "mainTradeoff": "The flexible crevice can be quieter and more approachable than a hard-plastic wobbler, but the exact Amazon page was blocked and current sources do not consistently tie B00EE1660O to one color and branded package.",
+    "closestAlternative": "West Paw Toppl Large for a fully verified current large flexible enrichment toy, especially for wet or frozen food.",
+    "editorialThesis": "Snoop may fill a quieter dry-treat constraint, but current Amazon variant identity is too uncertain to recommend or activate.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B00EE1660O",
+        "note": "Evidence blocker: the exact Amazon URL returned an automated-access challenge on 2026-08-10, so the page did not expose a current title, color, model, package, or featured-offer state. Historical indexed results associate this ASIN with the large Snoop family but conflict on color; no exact variant was inferred.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://outwardhound.com/think-n-thrive/",
+        "note": "Manufacturer family evidence: the current Outward Hound catalog lists Planet Dog Orbee-Tuff Snoop Large as a current treat-dispensing product, but the page does not map B00EE1660O to a single color or package SKU.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.chewy.com/planet-dog-orbee-tuff-snoop-treat/dp/103060",
+        "note": "Owner-reported pattern: current reviews describe engaging dry-kibble or treat play and a quieter flexible body, while also reporting food scatter, wear, and easy destruction for some chewers. This product-family evidence does not resolve the Amazon color/package identity.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official recall check: the CPSC full recall CSV downloaded on 2026-08-10, last modified 2026-07-31, contained no exact Orbee-Tuff Snoop, Planet Dog Snoop, B00EE1660O, or Outward Hound dog-toy match. This dated no-match is not a safety certification and cannot establish variant identity.",
+        "checkedAt": "2026-08-10"
+      }
+    ],
+    "strengths": [
+      "The current manufacturer catalog confirms that the large Snoop product family still exists.",
+      "The flexible crevice creates a distinct dry-treat interaction from an open frozen-food cup.",
+      "Current owner reports support repeated engagement for some dogs.",
+      "The softer body may reduce hard-floor impact noise compared with weighted plastic wobblers."
+    ],
+    "failureModes": [
+      "The exact Amazon ASIN could not be tied to one current color, model code, package, or featured offer.",
+      "Dry food can scatter under appliances or into multi-dog spaces.",
+      "Current owners report that determined chewers can wear through or destroy the flexible body.",
+      "Wet food is a poor fit for the dispensing crevice and the toy must be removed when damaged."
+    ],
+    "hardGates": {
+      "asinVerified": false,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 18,
+      "evidenceConfidence": 9,
+      "ownershipLongevity": 10,
+      "meaningfulDifferentiation": 11,
+      "riskAndReturnFit": 9,
+      "demandSignal": 3,
+      "commercialValue": 2,
+      "total": 62
+    },
+    "decision": "hold",
+    "decisionReason": "Hold at 62. The quieter flexible-dispenser slot is plausible, but the exact Amazon detail page was blocked and current sources do not consistently map B00EE1660O to one color and branded package. The ASIN and claim hard gates remain closed; commercial value contributes only 2 points and cannot compensate.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-10",
+    "researchedAt": "2026-08-10",
+    "lastVerifiedAt": "2026-08-10"
   }
 ]
