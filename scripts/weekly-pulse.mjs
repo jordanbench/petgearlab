@@ -105,6 +105,7 @@ async function inspectRemoteCatalog() {
 }
 
 const remoteCatalog = await inspectRemoteCatalog();
+const releaseResult = process.env.ADMIN_PULSE_RELEASE_RESULT || "not recorded for this report run";
 
 const credentialAvailability = [
   `Resend API key: ${process.env.RESEND_API_KEY ? "available" : "missing"}`,
@@ -151,6 +152,9 @@ const report = [
   ...(approvedAwaitingActivation.length
     ? approvedAwaitingActivation.map((candidate) => `- Awaiting activation: ${candidate.asin} — ${candidate.productName} — best for ${candidate.bestFor}`)
     : ["- Awaiting activation: none"]),
+  "",
+  "## Release and deploy result",
+  `- ${releaseResult}`,
   "",
   "## Latest changed pages",
   ...(latestChanged.length ? latestChanged.map((file) => `- ${file}`) : ["- No git changes detected in the last commit range."]),

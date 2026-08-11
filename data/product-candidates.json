@@ -1481,13 +1481,13 @@
     "decision": "approve",
     "decisionReason": "Approve at 89 for the default supervised fill-and-freeze slot. The exact Large Aqua Blue listing, current manufacturer specifications and warnings, current owner pattern, and official recall check align. The recommendation must remain bounded to moderate chewers under active supervision, with removal after food is gone; commercial value contributes only 3 points.",
     "activation": {
-      "status": "pending",
-      "activatedAt": null,
-      "guidePath": null
+      "status": "activated",
+      "activatedAt": "2026-08-11",
+      "guidePath": "/guides/best-indoor-dog-toys-working-owners/"
     },
     "sourceRun": "product-discovery:2026-08-10",
     "researchedAt": "2026-08-10",
-    "lastVerifiedAt": "2026-08-10"
+    "lastVerifiedAt": "2026-08-11"
   },
   {
     "candidateId": "petgearbench:B003ALMW0M",

@@ -163,6 +163,18 @@
         "https://www.reddit.com/r/PETKIT/comments/1v05vdt/would_you_buy_your_petkit_purobot_again_now/",
         "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv"
       ]
+    },
+    {
+      "asin": "B00N54E9MI",
+      "status": "keep",
+      "reason": "Added after the August 6 monthly snapshot: the exact Amazon page still maps B00N54E9MI to the West Paw Toppl Large in Aqua Blue, model ZG084AQA. Current manufacturer guidance limits it to moderate chewers, requires supervision, and requires removal after damage; current owners also report exposed-rim damage by power chewers. Those limits are explicit in the activated guide, and the current CPSC dataset returned no exact product, model, or ASIN match.",
+      "checkedAt": "2026-08-11",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B00N54E9MI",
+        "https://www.westpaw.com/products/toppl-treat-toy",
+        "https://www.chewy.com/west-paw-zogoflex-toppl-tough-treat/product-reviews/109833",
+        "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv"
+      ]
     }
   ]
 }
