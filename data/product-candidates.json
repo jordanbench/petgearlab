@@ -1734,5 +1734,468 @@
     "sourceRun": "product-discovery:2026-08-10",
     "researchedAt": "2026-08-10",
     "lastVerifiedAt": "2026-08-10"
+  },
+  {
+    "candidateId": "petgearbench:B08JQT939P",
+    "siteId": "petgearbench",
+    "productName": "Sleepypod Clickit Sport Plus",
+    "model": "CSX-CHR-L",
+    "variant": "Large, Charcoal Grey, one harness with S-Clip and Buckle Shield",
+    "asin": "B08JQT939P",
+    "affiliateUrl": "https://www.amazon.com/dp/B08JQT939P/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Keep a medium-to-large dog restrained on the rear seat during car rides without treating a hammock or ordinary walking harness as crash protection.",
+    "decisionSlot": "safety",
+    "bestFor": "A 28.5-to-34-inch-girth dog whose owner will measure carefully, train the loading routine, thread the vehicle belt through both side loops, and use the rear seat only.",
+    "skipIf": "Your dog is under 18 pounds, falls outside the Large girth range, backs out of harnesses, cannot tolerate a close padded vest, or you need a currently available featured Amazon offer.",
+    "mainTradeoff": "It has the clearest independent crash-test evidence in this set, but fit and belt routing are less forgiving than a tethered harness, owners report strap loosening or escape when fit drifts, and the exact variant currently has no featured Amazon offer while the manufacturer lists its colors sold out.",
+    "closestAlternative": "Ruffwear Load Up Medium for more standing and lying freedom on long rides, accepting that Ruffwear says its design would not meet the Center for Pet Safety excursion limits.",
+    "editorialThesis": "Clickit Sport Plus is the evidence leader for crash restraint, but recommendation should wait until the exact Large Charcoal Grey variant is buyable from a reliable current offer and the guide can explain its strict fit and rear-seat routing requirements.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B08JQT939P",
+        "note": "Verified specification and current offer limitation: Amazon identifies ASIN B08JQT939P as Sleepypod Clickit Sport Plus, model CSX-CHR-L, Large, Charcoal Grey, UPC 615953237207. On 2026-08-18 the page showed 208 ratings and no featured offer; no price or availability claim is made.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://sleepypod.com/products/sport-bundle",
+        "note": "Manufacturer documentation: the current Clickit Sport Plus page describes the Infinity Loop, three-point connection, rear-seat belt routing, included S-Clip and Buckle Shield, and hand-cleaning instructions. Its color selector showed all colors sold out during this check.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://shop.app/products/7441900503076/clickit-sport-plus",
+        "note": "Owner-reported pattern: current reviews support durable construction and a secure fit after careful adjustment, while other owners describe initial stiffness, confusing setup, straps needing periodic retightening, and dogs backing out when the fit loosens. These reports do not establish crash performance.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://www.centerforpetsafety.org/cps-certified/sleepypod-clickit-sport/",
+        "note": "Independent safety evidence: Center for Pet Safety lists Clickit Sport Medium, Large, and XL as materially equivalent and five-star certified under CPS-001-014.01, with the Large rated up to 90 pounds. The certification is for the harness family; Amazon identity ties this exact variant to the current Plus bundle.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official recall check: the CPSC full recall CSV downloaded on 2026-08-18, last modified 2026-07-31, contained no exact Sleepypod Clickit Sport Plus, CSX-CHR-L, or B08JQT939P match. An unrelated Discovery Toys phone row matched the word fragment 'clickit'; the no-match is not a safety certification.",
+        "checkedAt": "2026-08-18"
+      }
+    ],
+    "strengths": [
+      "Amazon currently maps the exact ASIN to Large, Charcoal Grey, model CSX-CHR-L and the canonical affiliate URL is deterministic.",
+      "Center for Pet Safety independently lists the Clickit Sport Large family at its five-star rating under a published protocol.",
+      "The three-point, direct-seat-belt design avoids relying on a long extension tether.",
+      "The manufacturer provides current fit, installation, cleaning, and crash-replacement documentation."
+    ],
+    "failureModes": [
+      "The exact Amazon child ASIN has no featured offer and the manufacturer currently shows all color options sold out.",
+      "Incorrect girth selection, incomplete belt routing, or loosened adjustment straps can undermine restraint and allow escape.",
+      "The padded vest and three-point routing can be restrictive for dogs that will not settle in one rear-seat position.",
+      "It is not a substitute for measuring the dog, checking strap tension before every ride, or avoiding front-seat airbag exposure."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 24,
+      "evidenceConfidence": 18,
+      "ownershipLongevity": 13,
+      "meaningfulDifferentiation": 14,
+      "riskAndReturnFit": 11,
+      "demandSignal": 4,
+      "commercialValue": 2,
+      "total": 86
+    },
+    "decision": "hold",
+    "decisionReason": "Hold at 86 despite the strongest safety evidence in the set. The exact Large Charcoal Grey ASIN is verified and the harness family has independent five-star CPS evidence, but the current Amazon page has no featured offer and Sleepypod shows its colors sold out. Do not create an activation that sends readers to an unreliable offer; recheck exact-variant availability and preserve the strict fit and rear-seat limitations. Commercial value contributes only 2 points.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-18",
+    "researchedAt": "2026-08-18",
+    "lastVerifiedAt": "2026-08-18"
+  },
+  {
+    "candidateId": "petgearbench:B0C7D11DT4",
+    "siteId": "petgearbench",
+    "productName": "Ruffwear Load Up Dog Car Harness",
+    "model": "3060 / manufacturer part 30602-413M",
+    "variant": "Medium, Slate Blue, one vehicle-only harness",
+    "asin": "B0C7D11DT4",
+    "affiliateUrl": "https://www.amazon.com/dp/B0C7D11DT4/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Keep a medium-to-large dog restrained on the rear seat during car rides without treating a hammock or ordinary walking harness as crash protection.",
+    "decisionSlot": "constraint",
+    "bestFor": "A dog with a 27-to-32-inch girth that needs a padded vehicle-only harness and enough controlled room to stand, sit, or lie down during a long rear-seat ride.",
+    "skipIf": "You require current Center for Pet Safety certification, need an everyday walking harness, cannot accept a hand-wash-only harness, or need a currently featured Amazon offer.",
+    "mainTradeoff": "The low seat-belt loop gives the dog more positional freedom and the current post-recall hardware is well specified, but Ruffwear states that the design would not meet current CPS forward-excursion limits.",
+    "closestAlternative": "Sleepypod Clickit Sport Plus Large for independent CPS certification and tighter movement control, once its exact Amazon offer becomes reliable.",
+    "editorialThesis": "Load Up has unusually transparent manufacturer testing and a comfortable long-ride geometry, but its disclosed CPS excursion limitation and current offer gap prevent a safety-slot recommendation.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0C7D11DT4",
+        "note": "Verified specification: Amazon maps B0C7D11DT4 to Ruffwear Load Up, Medium, Slate Blue, model 3060, manufacturer part 30602-413M, UPC 748960021887. The current page showed 133 ratings, recent purchase activity, and no featured offer.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://ruffwear.com/products/load-up-dog-car-harness",
+        "note": "Manufacturer documentation: the current Load Up page maps Medium to 27-32 inches of girth, specifies forged 6061 aluminum slide buckles, nylon webbing, PE foam, a universal seat-belt loop, hand washing, and vehicle-focused use. Slate Blue was marked out of stock during this check.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://fourleggedguests.com/gear-care/travel-car/ruffwear-load-up-harness-review/",
+        "note": "Independent research review dated 2026-07-26: the exact Load Up family is treated as a premium vehicle-only harness with strong materials and manufacturer-led MGA testing, but not CPS certification; it highlights fit measurement and the need for a separate walking harness.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://ruffwear.com/products/load-up-dog-car-harness",
+        "note": "Owner-reported pattern on the current manufacturer page: recent verified buyers of the Medium Slate Blue variant describe sturdy hardware, padding, and room to reposition, while setup requires training and owners cannot infer crash outcome from ordinary use reviews.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "safety",
+        "url": "https://ruffwear.com/pages/load-up-car-harness-testing-design",
+        "note": "Manufacturer-hosted test disclosure: MGA Research dynamically tested 25-, 45-, and 75-pound mannequins under FMVSS 213 conditions. Ruffwear explicitly says Load Up is not CPS certified and would not meet current CPS excursion limits because of its low attachment point.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "safety",
+        "url": "https://ruffwear.com/pages/load-up-voluntary-recall",
+        "note": "Official manufacturer recall check: Ruffwear recalled the single-side-release-buckle Load Up version launched in August 2021. The evaluated 2023 Amazon ASIN is documented with forged aluminum slide buckles, but buyers should still confirm the current hardware and stop using any recalled 2021 unit.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official recall database check: the CPSC CSV downloaded on 2026-08-18 contained no exact Ruffwear Load Up, 30602-413M, or B0C7D11DT4 match. The manufacturer recall remains controlling for the older 2021 buckle version; a CPSC no-match is not a safety certification.",
+        "checkedAt": "2026-08-18"
+      }
+    ],
+    "strengths": [
+      "Amazon currently ties the exact Medium Slate Blue variant to manufacturer part 30602-413M.",
+      "The current harness uses forged aluminum slide buckles rather than the recalled 2021 single side-release buckle.",
+      "The manufacturer publishes the test setup, mannequin weights, videos, and the reason it is not CPS certified.",
+      "Its low seat-belt loop and padding are designed to allow sitting, standing, and lying during extended rides."
+    ],
+    "failureModes": [
+      "Ruffwear says the design would exceed current CPS forward-excursion limits.",
+      "The exact Amazon page has no featured offer and the manufacturer's Slate Blue option is out of stock.",
+      "Confusing the current slide-buckle model with the recalled August 2021 single-buckle version creates a serious identity risk for secondhand buyers.",
+      "It is vehicle-focused and lacks a normal leash attachment, so owners need another harness for walks."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": false,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 23,
+      "evidenceConfidence": 17,
+      "ownershipLongevity": 13,
+      "meaningfulDifferentiation": 13,
+      "riskAndReturnFit": 8,
+      "demandSignal": 4,
+      "commercialValue": 2,
+      "total": 80
+    },
+    "decision": "hold",
+    "decisionReason": "Hold at 80. Exact identity, current hardware, and test disclosure are strong, but Ruffwear itself states that the Load Up would not meet current CPS excursion limits, and the evaluated Amazon child ASIN has no featured offer while the manufacturer marks Slate Blue out of stock. The safety hard gate remains closed for a crash-protection recommendation; commercial value contributes only 2 points.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-18",
+    "researchedAt": "2026-08-18",
+    "lastVerifiedAt": "2026-08-18"
+  },
+  {
+    "candidateId": "petgearbench:B01N55BUXN",
+    "siteId": "petgearbench",
+    "productName": "EzyDog Drive Dog Car Harness",
+    "model": "9885176",
+    "variant": "Medium, Black, one step-in vehicle harness",
+    "asin": "B01N55BUXN",
+    "affiliateUrl": "https://www.amazon.com/dp/B01N55BUXN/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Keep a medium-to-large dog restrained on the rear seat during car rides without treating a hammock or ordinary walking harness as crash protection.",
+    "decisionSlot": "maintenance",
+    "bestFor": "A medium dog that tolerates a stiff padded chest plate and whose owner will spend time on the initial symmetrical fit, then use the direct vehicle-seat-belt loops on every ride.",
+    "skipIf": "Your dog is deep-chested, backs out of harnesses, resists stiff gear, needs an easy first-time fit, or you want independently published CPS certification rather than a manufacturer conformity claim.",
+    "mainTradeoff": "The numbered one-time adjustment and dual buckles can make repeat use quick, but current owners repeatedly report stiffness, difficult fitting, and some dogs squirming out even after careful adjustment.",
+    "closestAlternative": "Kurgo Enhanced Strength Tru-Fit Medium for five-point adjustment and a separate tether, accepting its own fit and tether tradeoffs.",
+    "editorialThesis": "EzyDog Drive is a credible repeat-use design with a current exact ASIN, but unresolved fit-and-escape reports and the absence of an independently published certification record keep it below recommendation quality.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B01N55BUXN",
+        "note": "Verified specification: Amazon maps B01N55BUXN to EzyDog Drive, Medium, Black, model and manufacturer part 9885176, UPC 807203104678. The current page showed 1,045 ratings, recent purchase activity, and no featured offer.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://store.ezydog.com/products/dog-car-harness",
+        "note": "Manufacturer documentation: the current Drive page lists Small, Medium, and Large; vehicle-tested seat-belt webbing, aluminum adjusters, numbered symmetrical fitting, a padded molded chest plate, dual buckles, and direct vehicle-belt routing. FMVSS 213 conformity is a manufacturer claim.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://www.theguardian.com/thefilter-us/2026/jun/05/best-dog-harness",
+        "note": "Independent review dated 2026-06-05: the reviewer identifies EzyDog Drive as a purpose-built crash-tested car harness and emphasizes correct fitting. This is editorial evaluation, not an independent certification report for model 9885176.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.chewy.com/ezydog-drive-dog-car-harness/product-reviews/141103",
+        "note": "Owner-reported pattern: 2025-2026 reviews describe strong materials, repeat-use convenience, and effective restraint for some dogs, but multiple owners report a stiff chest plate, confusing initial adjustment, poor deep-chest fit, or dogs squirming out. These reports conflict on fit-dependent security.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official recall check: the CPSC CSV downloaded on 2026-08-18 contained no exact EzyDog Drive, 9885176, or B01N55BUXN match. This no-match does not independently validate the manufacturer's FMVSS 213 conformity claim or resolve escape reports.",
+        "checkedAt": "2026-08-18"
+      }
+    ],
+    "strengths": [
+      "The exact Medium Black ASIN, UPC, and model number align across Amazon and current manufacturer documentation.",
+      "The vehicle belt routes directly through two upper handles rather than through a long extension tether.",
+      "Numbered straps support repeatable left-right adjustment after the initial fit.",
+      "Current positive owners describe quick repeat use and dogs able to sit or lie within the seat."
+    ],
+    "failureModes": [
+      "Multiple current owners report dogs backing or squirming out despite attempted snug fitting.",
+      "The stiff molded chest plate can restrict or bother some dogs and can be difficult to fit on deep chests.",
+      "Incorrect vehicle-belt routing or uneven adjustment defeats the intended restraint geometry.",
+      "The current Amazon child ASIN has no featured offer, and no independent certification record tied to model 9885176 was found."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": false,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 23,
+      "evidenceConfidence": 17,
+      "ownershipLongevity": 12,
+      "meaningfulDifferentiation": 12,
+      "riskAndReturnFit": 7,
+      "demandSignal": 4,
+      "commercialValue": 2,
+      "total": 77
+    },
+    "decision": "hold",
+    "decisionReason": "Hold at 77. The repeat-use design and exact identity are clear, but current owner evidence conflicts on stiffness, fit, and escape, and the manufacturer conformity claim was not backed by a current independent certification record tied to model 9885176. The Amazon page also has no featured offer. Safety and claim gates remain closed; commercial value contributes only 2 points.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-18",
+    "researchedAt": "2026-08-18",
+    "lastVerifiedAt": "2026-08-18"
+  },
+  {
+    "candidateId": "petgearbench:B09S3XBR18",
+    "siteId": "petgearbench",
+    "productName": "Kurgo Enhanced Strength Tru-Fit Dog Car Harness",
+    "model": "ZOG30-17583",
+    "variant": "Medium, Ink Blue, harness with 10-inch seat-belt tether and steel carabiner",
+    "asin": "B09S3XBR18",
+    "affiliateUrl": "https://www.amazon.com/dp/B09S3XBR18/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Keep a medium-to-large dog restrained on the rear seat during car rides without treating a hammock or ordinary walking harness as crash protection.",
+    "decisionSlot": "compatibility",
+    "bestFor": "A 25-to-50-pound dog whose proportions suit five adjustment points and whose owner wants one harness for restrained car rides and short walks between stops.",
+    "skipIf": "Your dog needs room to stand with the included short tether, has a barrel or deep chest that shifts the plate, or you require current CPS certification and direct seat-belt routing.",
+    "mainTradeoff": "Five adjustment points and a walking attachment improve routine compatibility, but the included 10-inch tether adds another connection and current owner evidence conflicts on standing room, buckle handling, and fit stability.",
+    "closestAlternative": "EzyDog Drive Medium for direct vehicle-belt routing and a one-time-fit routine, after its escape and fit evidence is resolved.",
+    "editorialThesis": "Kurgo's current v3 test report is more transparent than most manufacturer claims, but the tether geometry, fit conflict, missing CPS certification, and current Amazon offer gap make it a hold rather than a compatibility recommendation.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B09S3XBR18",
+        "note": "Verified specification: Amazon maps B09S3XBR18 to Kurgo Enhanced Strength Tru-Fit, Medium, Ink Blue, model ZOG30-17583, UPC 729849175839, with a 10-inch tether. The current page showed 7,799 ratings, recent purchase activity, and no featured offer.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.kurgo.com/p/enhanced-strength-dog-car-harness/POG30-17568",
+        "note": "Manufacturer documentation: the current Enhanced Strength page lists five adjustment points, a padded chest plate, all-steel nesting buckles, Medium fit for 25-50 pounds, the included tether, and separate Medium crash-test video and report links.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "manual",
+        "url": "https://m.media-amazon.com/images/I/71dsdmRRxZS.pdf",
+        "note": "Official product instructions hosted by Amazon: the Enhanced Strength v3 manual illustrates harness fitting and the supported car attachment methods. The document is old, so current product-page and exact-ASIN evidence control identity.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://pawpick.co.nz/guides/kurgo-tru-fit-car-harness-review-nz/",
+        "note": "Independent research review dated 2026-05: the Enhanced Strength Tru-Fit is treated as a flexible car-and-walk option, with warnings about body-shape fit, nesting-buckle friction, and the difference between Kurgo's FMVSS-adapted test and CPS certification.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.desertcart.com.cy/products/51244875-kurgo-enhanced-strength-tru-fit-dog-car-harness-crash-tested",
+        "note": "Owner-reported pattern: current 2025 reviews praise adjustability and durable construction, while a separate large-dog owner reports that the included tether was too short for the dog to stand and returned it for a direct-seat-belt alternative. Fit and mobility remain dog- and vehicle-dependent.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.kurgo.com/content/HarnessCrashTestFinalReport.pdf",
+        "note": "Manufacturer-hosted independent-lab report: Calspan report 4762-18-01 records pass results for Enhanced Strength Tru-Fit v3 Small, Medium, and Large in 2018. It is a real lab report but is not a current CPS certification and predates this 2022 Ink Blue child ASIN.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official recall check: the CPSC CSV downloaded on 2026-08-18 contained no exact Kurgo Enhanced Strength Tru-Fit, ZOG30-17583, or B09S3XBR18 match. This no-match does not resolve tether excursion or fit concerns and is not a safety certification.",
+        "checkedAt": "2026-08-18"
+      }
+    ],
+    "strengths": [
+      "Amazon currently maps the exact Medium Ink Blue child ASIN to model ZOG30-17583.",
+      "Five adjustment points cover more body-shape variation than the one-time-fit EzyDog design.",
+      "Kurgo publishes a Calspan report with explicit v3 size results rather than only a marketing label.",
+      "The harness can remain useful for short walks between vehicle stops."
+    ],
+    "failureModes": [
+      "The included 10-inch tether can be too short for some dogs to stand or reposition and adds connection hardware to the restraint path.",
+      "The padded chest plate can shift on barrel- or deep-chested dogs even when the nominal weight range matches.",
+      "Steel nesting buckles and five adjustment points increase setup friction and misuse risk.",
+      "The exact Amazon page has no featured offer, and the product is not currently CPS certified."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": false,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 22,
+      "evidenceConfidence": 18,
+      "ownershipLongevity": 12,
+      "meaningfulDifferentiation": 11,
+      "riskAndReturnFit": 8,
+      "demandSignal": 4,
+      "commercialValue": 2,
+      "total": 77
+    },
+    "decision": "hold",
+    "decisionReason": "Hold at 77. Exact identity, five-point adjustment, and the published Calspan report are strengths, but the current owner pattern conflicts on fit and standing room with the included tether, the product lacks current CPS certification, and the Amazon child ASIN has no featured offer. The safety gate stays closed for now; commercial value contributes only 2 points.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-18",
+    "researchedAt": "2026-08-18",
+    "lastVerifiedAt": "2026-08-18"
+  },
+  {
+    "candidateId": "petgearbench:B00JZHRXJU",
+    "siteId": "petgearbench",
+    "productName": "PetSafe Happy Ride Dog Safety Harness",
+    "model": "62405",
+    "variant": "Medium, black/gray padded harness with seat-belt tether",
+    "asin": "B00JZHRXJU",
+    "affiliateUrl": "https://www.amazon.com/dp/B00JZHRXJU/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Keep a medium-to-large dog restrained on the rear seat during car rides without treating a hammock or ordinary walking harness as crash protection.",
+    "decisionSlot": "other",
+    "bestFor": "A shopper comparing lower-complexity padded tether harnesses who is willing to wait for current official documentation and direct Amazon identity to be re-established.",
+    "skipIf": "You need a recommendation now, require current manufacturer test documentation, have a large dog, or need direct vehicle-seat-belt routing with minimal extension.",
+    "mainTradeoff": "The padded vest and multiple tether points appear simple, but the current official product page is missing, the exact Amazon fetch failed, and the available manufacturer guide is from 2022, so present-day variant and test claims are not sufficiently grounded.",
+    "closestAlternative": "Kurgo Enhanced Strength Tru-Fit Medium for a currently documented exact ASIN and published lab report, though it remains held for tether and fit concerns.",
+    "editorialThesis": "Happy Ride cannot be recommended from stale first-party documentation and indirect Amazon mirrors when current exact-page and test identity are unavailable.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B00JZHRXJU",
+        "note": "Evidence blocker: the exact Amazon URL returned an internal fetch error on 2026-08-18. Current indexed Amazon-derived sources map B00JZHRXJU to PetSafe Happy Ride Medium model 62405, but the primary page did not expose a title, model, offer, or variant state during this run.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.petsafe.net/media/downloads/415-403-19_Online.pdf",
+        "note": "Stale manufacturer-family evidence: PetSafe's Spring 2022 guide lists the Happy Ride Safety Harness, included tether, and Medium sizing, but no current exact product page or current model 62405 test report was found. This cannot support present-day claims by itself.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://coolthings.us/B00JZHRXJU/petsafe-happy-ride-certified-crash-tested-comfortable-durable-dog-safety-harness-medium",
+        "note": "Independent catalog evidence last updated 2025-10-02 maps B00JZHRXJU to PetSafe model 62405, Medium, but mainly repeats seller/manufacturer claims and does not provide current hands-on or crash-test evidence.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "demand-signal",
+        "url": "https://bigbangprice.com/product/B00JZHRXJU/",
+        "note": "Current indexed demand signal: the exact ASIN appeared with more than 1,600 aggregated ratings two weeks before this run. This can show listing history only; it cannot verify current variant identity, product quality, safety, price, or availability.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official recall check: the CPSC CSV downloaded on 2026-08-18 contained no exact Happy Ride Safety Harness, model 62405, or B00JZHRXJU match. It did contain an unrelated 2010 Radio Systems/PetSafe heated-bed adapter recall, which does not apply; the no-match is not safety certification.",
+        "checkedAt": "2026-08-18"
+      }
+    ],
+    "strengths": [
+      "Multiple current indexed sources consistently associate B00JZHRXJU with PetSafe model 62405 in Medium.",
+      "The family design uses a padded breathable vest and includes a seat-belt tether.",
+      "The canonical affiliate URL can be formed without adding a price or availability claim."
+    ],
+    "failureModes": [
+      "The exact Amazon page could not be read during the run, so current variant and offer state are unverified.",
+      "The exact product no longer has a discoverable current manufacturer page or current first-party test report.",
+      "The available 2022 manufacturer guide is too stale to establish current construction or packaging.",
+      "A tethered vest with unclear current test geometry cannot be presented as crash protection based on listing copy alone."
+    ],
+    "hardGates": {
+      "asinVerified": false,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": false,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 18,
+      "evidenceConfidence": 10,
+      "ownershipLongevity": 9,
+      "meaningfulDifferentiation": 8,
+      "riskAndReturnFit": 5,
+      "demandSignal": 4,
+      "commercialValue": 2,
+      "total": 56
+    },
+    "decision": "reject",
+    "decisionReason": "Reject at 56. Current indexed sources agree on the historical Medium model 62405 identity, but the primary Amazon page failed, the exact current manufacturer page is absent, and the strongest first-party guide is from 2022. That is insufficient for a present-day crash-restraint recommendation. Identity, safety, and claim gates fail; commercial value contributes only 2 points.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-18",
+    "researchedAt": "2026-08-18",
+    "lastVerifiedAt": "2026-08-18"
   }
 ]
