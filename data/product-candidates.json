@@ -2197,5 +2197,415 @@
     "sourceRun": "product-discovery:2026-08-18",
     "researchedAt": "2026-08-18",
     "lastVerifiedAt": "2026-08-18"
+  },
+  {
+    "candidateId": "petgearbench:B01MDNDDYS",
+    "siteId": "petgearbench",
+    "productName": "GORILLA GRIP Cat Litter Box Mat",
+    "model": "Hills Point Industries coiled-mesh litter mat",
+    "variant": "35 x 23 inches, Gray",
+    "asin": "B01MDNDDYS",
+    "affiliateUrl": "https://www.amazon.com/dp/B01MDNDDYS/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Catch tracked litter along a compact apartment litter-box exit path without blocking a door, creating a curled-edge trip hazard, or adding a cleanup routine the reader will avoid.",
+    "decisionSlot": "default",
+    "bestFor": "A dry, predictable litter-box exit path with at least 35 by 23 inches of clear floor space, no door sweep, and no high-traffic human walkway.",
+    "skipIf": "The mat would cross a doorway or main walking path, the floor is often wet, your cat urinates outside the box, or any corner or edge will not remain completely flat.",
+    "mainTradeoff": "The coiled surface catches and holds dry granules well, but liquid mess is harder to remove from the mesh and the manufacturer says the mat is not slip-resistant and must be discontinued if its edges curl.",
+    "closestAlternative": "PetFusion ToughGrip Large for a wipeable silicone surface after its exact Large model code is reconciled with current first-party documentation.",
+    "editorialThesis": "This is the best-supported current replacement for the broken legacy Gorilla Grip ASIN when the reader needs dry-litter capture and can keep the mat flat, dry, and outside the main walking line.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B01MDNDDYS",
+        "note": "Verified specification: the current Amazon detail page identifies B01MDNDDYS as the GORILLA GRIP coiled-mesh cat litter mat in the 35 x 23 inch Gray variant, shows a featured Add to Cart offer, and states mild-soap, rinse, vacuum, and air-dry care. No price or availability claim is carried forward.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://gorillagrip.com/products/litter-mat",
+        "note": "Manufacturer documentation: the current product selector includes Gray in 35 x 23 inches and describes thick mesh coils, water-resistant construction, pour-back or vacuum cleanup, mild-soap hand washing, and air drying. The warning says the mat is not slip-resistant, must stay dry and flat, should not be used in high-traffic areas, and must be discontinued if edges curl.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-litter-mats/",
+        "note": "Independent review: Forbes Vetted names the exact 35 x 23 inch Gorilla Grip format its overall pick for dry-litter capture and easy shake-out, while warning that the coiled mesh is difficult to clean after sickness or an accident and is less durable than costlier designs. The manufacturer's stricter slip warning controls over the review's grip description.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official recall check: the CPSC full recall CSV checked on 2026-08-24 was last modified 2026-08-21 and contained no exact litter-mat, B01MDNDDYS, or 35 x 23 Gray match. It did contain a 2020 Gorilla Commerce oven-liner recall, which is a different product; the exact-product no-match is not a safety certification.",
+        "checkedAt": "2026-08-24"
+      }
+    ],
+    "strengths": [
+      "Amazon and the current manufacturer selector agree on the 35 x 23 inch Gray identity.",
+      "The coiled surface and deep grooves create a defined dry-litter capture zone across the first few exit steps.",
+      "Dry granules can be vacuumed, shaken out, or poured back without opening a two-layer pocket.",
+      "The current independent review confirms the exact size and the core capture-versus-cleaning tradeoff."
+    ],
+    "failureModes": [
+      "Water underneath or a mat placed in a high-traffic path can create a fall risk because the manufacturer does not call it slip-resistant.",
+      "A curled corner or edge is a stop-use condition, not a cosmetic defect to ignore.",
+      "Urine, vomit, or another wet mess can become difficult to remove from the mesh coils.",
+      "A cat can jump over the mat or exit around it, so placement still matters more than nominal size."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 23,
+      "evidenceConfidence": 18,
+      "ownershipLongevity": 12,
+      "meaningfulDifferentiation": 13,
+      "riskAndReturnFit": 11,
+      "demandSignal": 4,
+      "commercialValue": 2,
+      "total": 83
+    },
+    "decision": "approve",
+    "decisionReason": "Approve at 83 for the bounded default slot. The exact current Amazon child, current 35 x 23 Gray manufacturer variant, independent exact-size review, and current official recall check align. Recommendation language must preserve the manufacturer's flat, dry, low-traffic placement limits and treat curled edges as a stop-use condition. Commercial value contributes only 2 points.",
+    "activation": {
+      "status": "pending",
+      "activatedAt": null,
+      "guidePath": "/guides/best-cat-litter-mats-small-apartments/"
+    },
+    "sourceRun": "product-discovery:2026-08-24",
+    "researchedAt": "2026-08-24",
+    "lastVerifiedAt": "2026-08-24"
+  },
+  {
+    "candidateId": "petgearbench:B00WPZ63Q8",
+    "siteId": "petgearbench",
+    "productName": "iPrimio Cat Litter Trapper Mat",
+    "model": "XLBlackCatTrapper",
+    "variant": "Double layer, 30 x 23 inches, Black",
+    "asin": "B00WPZ63Q8",
+    "affiliateUrl": "https://www.amazon.com/dp/B00WPZ63Q8/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Catch tracked litter along a compact apartment litter-box exit path without blocking a door, creating a curled-edge trip hazard, or adding a cleanup routine the reader will avoid.",
+    "decisionSlot": "constraint",
+    "bestFor": "A reader who wants dry litter to fall into a separate lower layer for pour-back and has enough clearance for the listed 0.72-inch profile.",
+    "skipIf": "A nearby door has less than one inch of clearance, the cat avoids honeycomb texture, you need verified current manufacturer instructions, or material identity matters to the purchase.",
+    "mainTradeoff": "The open-edge double layer can contain loose granules out of sight, but the current exact Amazon page calls the material nylon while an independent current guide calls the 30 x 23 format EVA foam, and no current first-party product page or manual was found to resolve that conflict.",
+    "closestAlternative": "GORILLA GRIP B01MDNDDYS for a fully documented current coiled-mesh default, accepting that it must remain flat, dry, and out of high-traffic paths.",
+    "editorialThesis": "The double-layer pour-back mechanism is a meaningful constraint option, but material and first-party documentation must be reconciled before recommendation.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B00WPZ63Q8",
+        "note": "Verified specification with conflict: the current Amazon page maps B00WPZ63Q8 to model XLBlackCatTrapper, 30 x 23 x 0.72 inches, Black, a double-layer design, and lists the material as nylon. The page showed a featured Add to Cart offer; no price or availability claim is carried forward.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://www.tuftandpaw.com/en-ca/blogs/cat-guides/ultimate-guide-to-stop-cat-litter-tracking",
+        "note": "Independent product-family review: Tuft + Paw lists an iPrimio 30 x 23 litter trapper as durable, waterproof, paw-friendly, and effective at capture but hard to clean. It identifies the material as EVA foam, conflicting with the current exact Amazon page's nylon label, and does not publish the exact ASIN or model code.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.walmart.com/ip/471253376",
+        "note": "Owner-reported pattern and current retailer identity: Walmart's current 30 x 23 Black listing contains 22 ratings. Owners report useful capture and pour-back, while the retailer material field says plastic and historical reviews discuss shipping creases. This does not resolve the exact Amazon material conflict.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official recall check: the CPSC CSV last modified 2026-08-21 contained no exact iPrimio, XLBlackCatTrapper, or B00WPZ63Q8 match. This dated database no-match is not a safety certification and does not resolve material identity or door clearance.",
+        "checkedAt": "2026-08-24"
+      }
+    ],
+    "strengths": [
+      "The exact Amazon ASIN, model code, size, color, and double-layer mechanism are current.",
+      "Loose dry litter falls below the walking surface and can be poured out through the open edge.",
+      "The 30 x 23 footprint is smaller than several XL alternatives in this set.",
+      "Independent and owner evidence agree that the design can capture dry tracked litter."
+    ],
+    "failureModes": [
+      "Current sources conflict on whether the exact mat is nylon, EVA foam, or generic plastic.",
+      "No current official iPrimio product page or manufacturer manual was found for XLBlackCatTrapper.",
+      "The 0.72-inch listed height can interfere with a nearby door or invite a step-over in a narrow bathroom.",
+      "Litter and liquid inside the two-layer pocket can require more deliberate cleaning than a one-piece surface."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 22,
+      "evidenceConfidence": 12,
+      "ownershipLongevity": 10,
+      "meaningfulDifferentiation": 11,
+      "riskAndReturnFit": 9,
+      "demandSignal": 4,
+      "commercialValue": 2,
+      "total": 70
+    },
+    "decision": "hold",
+    "decisionReason": "Hold at 70. Exact Amazon identity and the double-layer mechanism are clear, but current sources conflict on material and no current manufacturer page or official manual was found for XLBlackCatTrapper. Revisit only when first-party documentation resolves the construction and care instructions; commercial value contributes only 2 points.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-24",
+    "researchedAt": "2026-08-24",
+    "lastVerifiedAt": "2026-08-24"
+  },
+  {
+    "candidateId": "petgearbench:B019ZSDDOC",
+    "siteId": "petgearbench",
+    "productName": "PetFusion ToughGrip Waterproof Cat Litter Mat",
+    "model": "PF-LMD1 on historical exact-ASIN sources; current first-party model mapping unresolved",
+    "variant": "Large, 30 x 23 inches, Grey silicone",
+    "asin": "B019ZSDDOC",
+    "affiliateUrl": "https://www.amazon.com/dp/B019ZSDDOC/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Catch tracked litter along a compact apartment litter-box exit path without blocking a door, creating a curled-edge trip hazard, or adding a cleanup routine the reader will avoid.",
+    "decisionSlot": "maintenance",
+    "bestFor": "A reader prioritizing a one-piece wipeable silicone surface and raised containment lip, after the exact Large model code is re-established in current first-party documentation.",
+    "skipIf": "The 0.25-inch outer lip would catch a door or foot, your cat avoids ridged silicone, or you need a recommendation whose current manufacturer SKU maps directly to the exact Amazon child.",
+    "mainTradeoff": "The one-piece silicone surface is easier to see and wipe than coiled or pocketed mats, but current first-party documentation names XL model PF-LMDL1 and UPC 859473002574 while the exact Amazon child is Large 30 x 23 and older sources map it to PF-LMD1.",
+    "closestAlternative": "GORILLA GRIP B01MDNDDYS for a current exact-size first-party match, or iPrimio B00WPZ63Q8 if a double-layer pocket is preferred after its material conflict is resolved.",
+    "editorialThesis": "ToughGrip has the strongest maintenance design in the set, but a current Large-versus-XL model mapping conflict blocks exact-product recommendation.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B019ZSDDOC",
+        "note": "Verified specification with model gap: the current Amazon page identifies B019ZSDDOC as PetFusion ToughGrip Large, Grey silicone, 30 x 23 inches with a 0.25-inch lip, side spout, inner ridges, and a featured Add to Cart offer. The visible current page did not expose a PetFusion model code; no price or availability claim is carried forward.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.petmatepartners.com/pf-lmdl1.html",
+        "note": "Current brand-owner documentation: Petmate's PetFusion page identifies ToughGrip model PF-LMDL1, UPC 859473002574, as an XL Grey silicone mat with ridges, border, side spout, and anti-slip traction. It does not map PF-LMDL1 or the UPC to Amazon child B019ZSDDOC, whose current title says Large 30 x 23.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://shopsavvy.com/products/petfusion-toughgrip-cat-litter-mat",
+        "note": "Independent exact-model summary updated in August 2026: ShopSavvy maps ToughGrip XL to PF-LMDL1 and UPC 859473002574 and summarizes owner praise for trapping, cleaning, and durability, with criticism for weight, footprint, incomplete tracking control, and occasional odor retention. This current source reinforces the XL mapping rather than resolving the exact Amazon Large child.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official recall check: the CPSC CSV last modified 2026-08-21 contained no exact PetFusion ToughGrip, PF-LMD1, PF-LMDL1, B019ZSDDOC, or UPC 859473002574 match. This no-match is not a safety certification and cannot resolve the model or size mapping.",
+        "checkedAt": "2026-08-24"
+      }
+    ],
+    "strengths": [
+      "The exact Amazon child clearly identifies the Large 30 x 23 Grey silicone variant.",
+      "The 0.25-inch lip, inner channels, and side spout create a distinct visible-surface cleanup workflow.",
+      "Current independent evidence supports a durable, wipeable design while naming its weight and footprint costs.",
+      "The one-piece surface avoids hidden litter and liquid inside a two-layer pocket."
+    ],
+    "failureModes": [
+      "The current first-party PF-LMDL1 XL identity does not cleanly map to the exact Large Amazon child.",
+      "The outer lip can catch a door sweep or foot in a narrow walking line.",
+      "Its weight and silicone friction can make frequent lifting or pour-back awkward in a small room.",
+      "Independent owner aggregation includes incomplete tracking control and occasional odor retention with heavy use."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 23,
+      "evidenceConfidence": 13,
+      "ownershipLongevity": 13,
+      "meaningfulDifferentiation": 14,
+      "riskAndReturnFit": 10,
+      "demandSignal": 4,
+      "commercialValue": 2,
+      "total": 79
+    },
+    "decision": "hold",
+    "decisionReason": "Hold at 79. The maintenance mechanism and current exact Amazon child are strong, but current first-party and independent sources map PF-LMDL1/UPC 859473002574 to XL while B019ZSDDOC is Large 30 x 23 and lacks a visible current model code. The claim gate remains closed until Petmate or PetFusion maps this child exactly; commercial value contributes only 2 points.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-24",
+    "researchedAt": "2026-08-24",
+    "lastVerifiedAt": "2026-08-24"
+  },
+  {
+    "candidateId": "petgearbench:B01MTQNK6H",
+    "siteId": "petgearbench",
+    "productName": "Pieviev Litter Box Mat",
+    "model": "PIE-003",
+    "variant": "Double layer, 30 x 24 inches, Gray",
+    "asin": "B01MTQNK6H",
+    "affiliateUrl": "https://www.amazon.com/dp/B01MTQNK6H/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Catch tracked litter along a compact apartment litter-box exit path without blocking a door, creating a curled-edge trip hazard, or adding a cleanup routine the reader will avoid.",
+    "decisionSlot": "other",
+    "bestFor": "A shopper comparing a 30 x 24 Gray honeycomb pocket mat who can wait for current exact manufacturer identity and an independent owner pattern.",
+    "skipIf": "You need a recommendation now, a nearby door has limited clearance, your cat chews foam, or you require a current official page that maps model PIE-003 and the exact ASIN.",
+    "mainTradeoff": "The 30 x 24 double-layer pocket can hide and pour back dry granules, but the current brand page is generic and does not identify size, color, model PIE-003, or ASIN B01MTQNK6H, while strong current independent exact-model evidence was not found.",
+    "closestAlternative": "iPrimio B00WPZ63Q8 for a current exact Amazon model code in the same mechanism class, though its material documentation also remains conflicted.",
+    "editorialThesis": "Pieviev is a recognizable honeycomb alternative, but generic brand documentation and thin current exact-model evidence keep it out of the shortlist.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B01MTQNK6H",
+        "note": "Verified specification: the current Amazon page maps B01MTQNK6H to Pieviev model PIE-003, Gray, 30 x 24 inches, double-layer EVA construction, with a featured Add to Cart offer. No price or availability claim is carried forward.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.pieviev.com.cn/detail?id=1",
+        "note": "Manufacturer-family claim with identity gap: Pieviev's current LITTER MAT page describes an EZ-open double-layer honeycomb design, large holes, and pour-back use. The page does not state size, color, material, model PIE-003, or Amazon ASIN, so it cannot establish the exact current variant.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.amazon.com/dp/B01MTQNK6H#customerReviews",
+        "note": "Owner-reported pattern from the exact current Amazon page: aggregate reviews support litter capture and the pour-back pocket, while negative themes include shipping folds that do not fully flatten, cats chewing EVA edges, and liquid or dirty litter becoming difficult to clean from between layers. This is retailer-hosted owner evidence, not independent testing.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official recall check: the CPSC CSV last modified 2026-08-21 contained no exact Pieviev, PIE-003, or B01MTQNK6H match. This no-match is not a safety certification and does not resolve chew, curl, or exact manufacturer-identity concerns.",
+        "checkedAt": "2026-08-24"
+      }
+    ],
+    "strengths": [
+      "The current Amazon page identifies the exact 30 x 24 Gray PIE-003 child.",
+      "The honeycomb pocket separates dry litter from the walking surface.",
+      "The open edge supports pour-back without lifting a heavy solid-silicone mat.",
+      "The footprint is oriented to cover several exit steps without reaching jumbo dimensions."
+    ],
+    "failureModes": [
+      "The current manufacturer page does not identify the exact size, color, model, material, or ASIN.",
+      "Folded shipping can leave raised edges that are unsuitable in a narrow apartment walking line.",
+      "Cats that chew or scratch EVA can damage the honeycomb edge and expose loose pieces.",
+      "Wet or soiled litter inside the two-layer pocket is harder to see and clean than debris on a one-piece surface."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 20,
+      "evidenceConfidence": 11,
+      "ownershipLongevity": 9,
+      "meaningfulDifferentiation": 10,
+      "riskAndReturnFit": 8,
+      "demandSignal": 4,
+      "commercialValue": 2,
+      "total": 64
+    },
+    "decision": "hold",
+    "decisionReason": "Hold at 64. The exact Amazon child and pocket mechanism are identifiable, but the current manufacturer page is product-family only and strong current independent exact-model evidence is absent. Curl, chew, and between-layer cleanup patterns also matter in a small apartment. Claims remain gated; commercial value contributes only 2 points.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-24",
+    "researchedAt": "2026-08-24",
+    "lastVerifiedAt": "2026-08-24"
+  },
+  {
+    "candidateId": "petgearbench:B099HBMZ67",
+    "siteId": "petgearbench",
+    "productName": "Drymate Original XL Cat Litter Mat",
+    "model": "Original XL Cat Litter Mat",
+    "variant": "28 x 36 inches, Dark Grey, one mat",
+    "asin": "B099HBMZ67",
+    "affiliateUrl": "https://www.amazon.com/dp/B099HBMZ67/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Catch tracked litter along a compact apartment litter-box exit path without blocking a door, creating a curled-edge trip hazard, or adding a cleanup routine the reader will avoid.",
+    "decisionSlot": "maintenance",
+    "bestFor": "A litter station with a wider dry exit path and occasional small liquid spills where the reader can machine-wash and air-dry a 28 x 36 absorbent mat.",
+    "skipIf": "Your floor area cannot spare 28 x 36 inches, the mat would sit on carpet or in a door path, or you need long-term backing durability and waterproof performance that current owner evidence consistently confirms.",
+    "mainTradeoff": "The absorbent washable surface handles liquid better than open mesh, but current exact-page owner feedback is mixed on tracking control, staying flat or in place, waterproof performance, and the backing separating after repeated washing.",
+    "closestAlternative": "GORILLA GRIP B01MDNDDYS for stronger dry-granule capture in a 35 x 23 footprint, or PetFusion ToughGrip for wipeable wet-mess maintenance after exact model mapping is resolved.",
+    "editorialThesis": "Drymate has a distinct washable wet-mess role, but mixed exact-product durability and floor-protection reports keep it below recommendation quality for now.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B099HBMZ67",
+        "note": "Verified specification: the current Amazon page identifies B099HBMZ67 as Drymate Original Cat Litter Mat, Dark Grey, 28 x 36 XL, polyester, one mat, and shows a featured Add to Cart offer. It states vacuum, pour-back, machine-wash or hand-wash, and hang-dry care. No price or availability claim is carried forward.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://drymate.com/shop/pets/cat/cat-litter-mat/",
+        "note": "Manufacturer documentation: Drymate's current Original Cat Litter Mat page describes an absorbent top, waterproof and slip-resistant bottom layer, minimum 50 percent recycled fiber, optional trimming, machine washing without an agitator, and hang drying. These are manufacturer claims rather than independent performance findings.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.amazon.com/dp/B099HBMZ67#customerReviews",
+        "note": "Owner-reported pattern from the exact Amazon page: aggregate feedback praises size and washability but is mixed on litter capture, staying in place, and water resistance. Negative themes include a thin mat moving on carpet, backing or fabric separating after repeated washes, and some liquid reaching the floor. These reports do not prove a universal failure.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official recall check: the CPSC CSV last modified 2026-08-21 contained no exact Drymate Original XL, B099HBMZ67, or 28 x 36 Dark Grey litter-mat match. This no-match is not a safety certification and does not resolve backing durability, slip, or soak-through reports.",
+        "checkedAt": "2026-08-24"
+      }
+    ],
+    "strengths": [
+      "The exact Amazon size, color, material, and Original XL family are current.",
+      "The absorbent top and washable routine create a distinct role for occasional small wet messes.",
+      "The mat can be vacuumed or rolled for dry-litter pour-back before washing.",
+      "The current manufacturer publishes specific washing and drying instructions."
+    ],
+    "failureModes": [
+      "Exact-product owner feedback is mixed on whether litter stays captured or continues tracking beyond the mat.",
+      "The thin absorbent mat can move or bunch on carpet and may not suit a doorway or main walking path.",
+      "Repeated washing can separate the fabric from the waterproof backing according to multiple owner reports.",
+      "Owner reports conflict with the blanket waterproof claim, so urine containment should not be promised."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 21,
+      "evidenceConfidence": 16,
+      "ownershipLongevity": 9,
+      "meaningfulDifferentiation": 10,
+      "riskAndReturnFit": 8,
+      "demandSignal": 4,
+      "commercialValue": 2,
+      "total": 70
+    },
+    "decision": "hold",
+    "decisionReason": "Hold at 70. Exact identity and the washable absorbent role are clear, but current owner evidence is too mixed on tracking, staying flat, waterproof performance, and backing durability for an apartment recommendation. Revisit if a newer construction or stronger independent exact-model review resolves those patterns; commercial value contributes only 2 points.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-24",
+    "researchedAt": "2026-08-24",
+    "lastVerifiedAt": "2026-08-24"
   }
 ]
