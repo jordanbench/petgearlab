@@ -175,6 +175,18 @@
         "https://www.chewy.com/west-paw-zogoflex-toppl-tough-treat/product-reviews/109833",
         "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv"
       ]
+    },
+    {
+      "asin": "B01MDNDDYS",
+      "status": "keep",
+      "reason": "Added after the August 6 monthly snapshot: the exact Amazon page still maps B01MDNDDYS to the GORILLA GRIP coiled-mesh cat litter mat in Large 35 x 23 inches and Gray. Current manufacturer guidance says the mat is not slip-resistant, must remain dry and flat outside high-traffic areas, and must be discontinued if edges curl. Those limits are explicit in the activated guide, and the current CPSC dataset returned no exact product, model, or ASIN match.",
+      "checkedAt": "2026-08-25",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B01MDNDDYS",
+        "https://gorillagrip.com/products/litter-mat",
+        "https://www.forbes.com/sites/forbes-personal-shopper/article/best-litter-mats/",
+        "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv"
+      ]
     }
   ]
 }

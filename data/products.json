@@ -103,5 +103,12 @@
     "positioning": "Supervised fill-and-freeze enrichment default",
     "category": "toy",
     "affiliateUrl": "https://www.amazon.com/dp/B00N54E9MI/ref=nosim?tag=abbeybench-20"
+  },
+  {
+    "asin": "B01MDNDDYS",
+    "name": "GORILLA GRIP Cat Litter Box Mat, 35 x 23 Inches, Gray",
+    "positioning": "Flat, dry apartment litter-box exit-path default",
+    "category": "litter",
+    "affiliateUrl": "https://www.amazon.com/dp/B01MDNDDYS/ref=nosim?tag=abbeybench-20"
   }
 ]

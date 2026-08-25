@@ -2218,14 +2218,14 @@
       {
         "type": "amazon-listing",
         "url": "https://www.amazon.com/dp/B01MDNDDYS",
-        "note": "Verified specification: the current Amazon detail page identifies B01MDNDDYS as the GORILLA GRIP coiled-mesh cat litter mat in the 35 x 23 inch Gray variant, shows a featured Add to Cart offer, and states mild-soap, rinse, vacuum, and air-dry care. No price or availability claim is carried forward.",
-        "checkedAt": "2026-08-24"
+        "note": "Verified specification: the current Amazon detail page identifies B01MDNDDYS as the GORILLA GRIP coiled-mesh cat litter mat in the 35 x 23 inch Gray variant and states mild-soap, rinse, vacuum, and air-dry care. No price, availability, or offer-state claim is carried forward.",
+        "checkedAt": "2026-08-25"
       },
       {
         "type": "manufacturer",
         "url": "https://gorillagrip.com/products/litter-mat",
         "note": "Manufacturer documentation: the current product selector includes Gray in 35 x 23 inches and describes thick mesh coils, water-resistant construction, pour-back or vacuum cleanup, mild-soap hand washing, and air drying. The warning says the mat is not slip-resistant, must stay dry and flat, should not be used in high-traffic areas, and must be discontinued if edges curl.",
-        "checkedAt": "2026-08-24"
+        "checkedAt": "2026-08-25"
       },
       {
         "type": "independent-review",
@@ -2236,8 +2236,8 @@
       {
         "type": "safety",
         "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
-        "note": "Official recall check: the CPSC full recall CSV checked on 2026-08-24 was last modified 2026-08-21 and contained no exact litter-mat, B01MDNDDYS, or 35 x 23 Gray match. It did contain a 2020 Gorilla Commerce oven-liner recall, which is a different product; the exact-product no-match is not a safety certification.",
-        "checkedAt": "2026-08-24"
+        "note": "Official recall check: the CPSC full recall CSV checked on 2026-08-25 was last modified 2026-08-21 and contained no exact litter-mat, B01MDNDDYS, or 35 x 23 Gray match. It did contain a 2020 Gorilla Commerce oven-liner recall, which is a different product; the exact-product no-match is not a safety certification.",
+        "checkedAt": "2026-08-25"
       }
     ],
     "strengths": [
@@ -2272,13 +2272,13 @@
     "decision": "approve",
     "decisionReason": "Approve at 83 for the bounded default slot. The exact current Amazon child, current 35 x 23 Gray manufacturer variant, independent exact-size review, and current official recall check align. Recommendation language must preserve the manufacturer's flat, dry, low-traffic placement limits and treat curled edges as a stop-use condition. Commercial value contributes only 2 points.",
     "activation": {
-      "status": "pending",
-      "activatedAt": null,
+      "status": "activated",
+      "activatedAt": "2026-08-25",
       "guidePath": "/guides/best-cat-litter-mats-small-apartments/"
     },
     "sourceRun": "product-discovery:2026-08-24",
     "researchedAt": "2026-08-24",
-    "lastVerifiedAt": "2026-08-24"
+    "lastVerifiedAt": "2026-08-25"
   },
   {
     "candidateId": "petgearbench:B00WPZ63Q8",
