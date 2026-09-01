@@ -2688,9 +2688,9 @@
     "decision": "approve",
     "decisionReason": "Approve as the bounded default for fresh urine on colorfast carpet or water-safe upholstery. Exact identity, first-party technique, two current independent tests, and the dated CPSC no-match clear every gate. Any Tuesday placement must preserve the colorfastness test, full-depth wetting, dwell, extraction, ventilation, and dry-before-pet-return limits; commercial value contributes only 2 points.",
     "activation": {
-      "status": "pending",
-      "activatedAt": null,
-      "guidePath": null
+      "status": "activated",
+      "activatedAt": "2026-09-01",
+      "guidePath": "/guides/best-enzyme-cleaners-pet-stains/"
     },
     "sourceRun": "product-discovery:2026-08-31",
     "researchedAt": "2026-08-31",

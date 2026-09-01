@@ -23,7 +23,7 @@ Pet Gear Bench helps dog and cat owners choose feeders, fountains, travel gear, 
 - `/guides/new-puppy-starter-kit-amazon/` - New Puppy Starter Kit on Amazon
 - `/guides/best-pet-water-bottles-travel/` - Best Portable Dog Water Bottles for Travel
 - `/guides/cat-fountain-vs-water-bowl/` - Cat Fountain vs Water Bowl
-- `/guides/best-enzyme-cleaners-pet-stains/` - Best Enzyme Cleaners for Pet Stains
+- `/guides/best-enzyme-cleaners-pet-stains/` - Best Enzyme Cleaner for Fresh Pet Urine
 - `/guides/best-cat-trees-small-spaces/` - Best Cat Trees for Small Spaces
 - `/guides/pet-travel-checklist-car-rides/` - Pet Travel Checklist for Car Rides
 

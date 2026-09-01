@@ -187,6 +187,19 @@
         "https://www.forbes.com/sites/forbes-personal-shopper/article/best-litter-mats/",
         "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv"
       ]
+    },
+    {
+      "asin": "B00CKFL93K",
+      "status": "keep",
+      "reason": "Added after the August 6 monthly snapshot: the exact Amazon page maps B00CKFL93K to the Rocco & Roxie Original 32-fluid-ounce pack of one and model fsec. Current manufacturer instructions preserve the colorfastness, full-depth wetting, stream-setting, extraction, and at-least-10-minute dwell limits; independent testing preserves the scent and saturation tradeoffs. Those boundaries are explicit in the activated guide, and the current CPSC dataset returned no exact product, model, or ASIN match.",
+      "checkedAt": "2026-09-01",
+      "evidenceUrls": [
+        "https://www.amazon.com/dp/B00CKFL93K",
+        "https://roccoandroxie.com/pages/stain-and-odor-instructions",
+        "https://www.goodhousekeeping.com/home-products/g2291/best-carpet-stain-removers/",
+        "https://www.today.com/shop/ranked-best-carpet-cleaners-rcna227743",
+        "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv"
+      ]
     }
   ]
 }
