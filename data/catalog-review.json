@@ -1,11 +1,11 @@
 {
-  "reviewedAt": "2026-08-06",
+  "reviewedAt": "2026-09-03",
   "products": [
     {
       "asin": "B07N1B7JY4",
       "status": "retire-review",
-      "reason": "The exact Amazon ASIN now returns Page Not Found, so readers cannot verify or buy the named PETLIBRO feeder and the catalog does not identify a defensible model or variant behind this legacy row. The shared-schedule slot still matters, but it needs a new evidence-gated candidate rather than an inferred replacement.",
-      "checkedAt": "2026-08-06",
+      "reason": "The exact Amazon ASIN still does not yield a usable product detail page, so readers cannot verify the named PETLIBRO feeder or a defensible model and variant behind this legacy row. The shared dry-food scheduling slot still matters, but the current PETLIBRO One RFID candidate remains on hold because collar-tag, lid, and sensing evidence is unresolved; no replacement is approved.",
+      "checkedAt": "2026-09-03",
       "evidenceUrls": [
         "https://www.amazon.com/dp/B07N1B7JY4",
         "https://designlibro.zendesk.com/hc/en-us/articles/7124197519769-Comparison-between-PETLIBRO-Automatic-Feeders",
@@ -15,8 +15,8 @@
     {
       "asin": "B09DSVFNRW",
       "status": "retire-review",
-      "reason": "The exact ASIN now resolves to a Tomxcute 3.2-liter fountain, not the named Veken fountain. Sending a reader to a different brand and variant defeats the easy-clean Veken recommendation even though Veken still sells a current stainless fountain family.",
-      "checkedAt": "2026-08-06",
+      "reason": "The exact ASIN still resolves to a Tomxcute 3.2-liter/108-ounce fountain, not the named Veken fountain. Veken still documents a current 95-ounce stainless family and its cleaning, filter, and pump burden, but a manufacturer family page cannot repair a reader-facing brand and variant mismatch or establish an approved replacement.",
+      "checkedAt": "2026-09-03",
       "evidenceUrls": [
         "https://www.amazon.com/dp/B09DSVFNRW",
         "https://vekenus.com/product/stainless-steel-automatic-pet-fountain/",
@@ -26,8 +26,8 @@
     {
       "asin": "B07G642RMQ",
       "status": "retire-review",
-      "reason": "The exact ASIN now resolves to an Active Pets black standard hammock rather than the named URPOWER cover. The hammock-versus-bench decision remains useful, but the current link no longer supports the catalog identity or URPOWER-specific positioning.",
-      "checkedAt": "2026-08-06",
+      "reason": "The exact ASIN still resolves to an Active Pets black standard hammock rather than the named URPOWER cover. URPOWER continues to sell seat-cover and extender families with model-specific fit, cleaning, and restraint limits, but the current link cannot support URPOWER-specific positioning and no exact replacement has cleared the candidate registry.",
+      "checkedAt": "2026-09-03",
       "evidenceUrls": [
         "https://www.amazon.com/dp/B07G642RMQ",
         "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv"
@@ -36,42 +36,45 @@
     {
       "asin": "B01MS6PLM6",
       "status": "retire-review",
-      "reason": "The exact Amazon ASIN now returns Page Not Found. Gorilla Grip still documents current litter mats and their curl, slip, floor, and cleaning limitations, but no current public evidence ties this dead ASIN to a specific size and color readers can verify.",
-      "checkedAt": "2026-08-06",
+      "reason": "The exact Amazon ASIN still does not yield a usable product detail page. The catalog now separately carries the verified 35-by-23-inch gray Gorilla Grip mat at B01MDNDDYS with current curl, slip, floor, and cleaning limits, so this unverifiable legacy row no longer adds distinct reader value and should be retired after human review.",
+      "checkedAt": "2026-09-03",
       "evidenceUrls": [
         "https://www.amazon.com/dp/B01MS6PLM6",
         "https://gorillagrip.com/products/litter-mat",
+        "https://www.amazon.com/dp/B01MDNDDYS",
         "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv"
       ]
     },
     {
       "asin": "B0002AR0II",
       "status": "retire-review",
-      "reason": "The exact ASIN now resolves to a large black KONG Extreme, not the red KONG Classic named throughout the catalog. That substitution changes rubber strength, intended chewer, color, and size, so the current link cannot support the Classic enrichment recommendation or its supervision guidance.",
-      "checkedAt": "2026-08-06",
+      "reason": "The exact ASIN still resolves to a large black KONG Extreme, not the red KONG Classic named in the catalog. That changes rubber strength, intended chewer, color, and size; the verified West Paw Toppl now covers the supervised fill-and-freeze slot, while the exact red KONG Classic candidate remains on hold over durability evidence, leaving no basis to keep this mismatched row.",
+      "checkedAt": "2026-09-03",
       "evidenceUrls": [
         "https://www.amazon.com/dp/B0002AR0II",
         "https://www.kongcompany.com/kong-classic/",
+        "https://www.westpaw.com/products/toppl-treat-toy",
         "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv"
       ]
     },
     {
       "asin": "B08P75GZ5M",
       "status": "retire-review",
-      "reason": "The exact Amazon ASIN now returns Page Not Found while Furbo still supports the broader 360-degree camera family. Readers need a currently purchasable exact variant, clear subscription boundaries, and current treat-jam and connectivity evidence before this treat-tossing alternative can remain active.",
-      "checkedAt": "2026-08-06",
+      "reason": "The exact Amazon ASIN still does not yield a usable product detail page while Furbo continues to support the broader 360-degree family and its treat-jam troubleshooting. The verified eufy E30 now covers the local-recording camera default, but it does not replace treat tossing; that narrower Furbo slot needs a new exact candidate with subscription, connectivity, and jam evidence before it can return.",
+      "checkedAt": "2026-09-03",
       "evidenceUrls": [
         "https://www.amazon.com/dp/B08P75GZ5M",
         "https://help.furbo.com/hc/en-us/categories/6148726107545-Furbo-360-Dog-Camera",
         "https://help.furbo.com/hc/en-gb/articles/17467942964121-Fail-to-Toss-Treats",
+        "https://www.eufy.com/products/t8417121",
         "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv"
       ]
     },
     {
       "asin": "B0BQN8TNHH",
       "status": "keep",
-      "reason": "The exact listing remains the 12-ounce navy MalsiPree bottle and current manufacturer and owner evidence supports its compact short-outing slot. The small bowl, stiff lock, scuffing, and limited capacity are meaningful but already fit the guide's reason to choose it over larger bottles; no exact recall match or clearly superior compact replacement was found.",
-      "checkedAt": "2026-08-06",
+      "reason": "The exact listing remains the 12-ounce navy MalsiPree bottle, and current manufacturer and owner evidence still supports its compact short-outing slot. The small bowl, stiff lock, scuffing, and limited capacity remain meaningful but are disclosed and fit the guide's reason to choose it over larger bottles; no exact recall match or clearly superior compact replacement was found.",
+      "checkedAt": "2026-09-03",
       "evidenceUrls": [
         "https://www.amazon.com/dp/B0BQN8TNHH",
         "https://www.malsipree.com/",
@@ -82,8 +85,8 @@
     {
       "asin": "B09CH9W2XS",
       "status": "keep",
-      "reason": "The exact listing remains the blue 22-ounce Springer Classic with one-hand squeeze-and-return operation, and the manufacturer continues to position that size as its versatile default. Current owner discussion still favors its workflow while acknowledging that large dogs and long outings may require more capacity; no exact recall match or better all-around replacement displaced it.",
-      "checkedAt": "2026-08-06",
+      "reason": "The exact listing remains the blue 22-ounce Springer bottle with one-hand squeeze-and-return operation, and the manufacturer continues to support the 22-ounce Classic family. Current owner discussion still favors its workflow while noting backflow, integrated-bowl, leak, and large-dog capacity tradeoffs; no exact recall match or better all-around replacement displaced it.",
+      "checkedAt": "2026-09-03",
       "evidenceUrls": [
         "https://www.amazon.com/dp/B09CH9W2XS",
         "https://springerpets.com/products/classic-travel-bottle?variant=42462812864702",
@@ -93,9 +96,9 @@
     },
     {
       "asin": "B07Q56TTD4",
-      "status": "refresh",
-      "reason": "The exact listing remains a blue lesotc squeeze bottle, but its current verified capacity is 18 ounces, below the 22-ounce Springer default. Current owner reports also surface residual water, leaks, heat deformation, and small-bowl constraints, so the guide's longer-outing decision slot needs re-positioning or an evidence-gated higher-capacity replacement.",
-      "checkedAt": "2026-08-06",
+      "status": "keep",
+      "reason": "The exact listing remains the blue 18-ounce lesotc squeeze bottle, below the 22-ounce Springer default, and current owner reports still surface residual water, leaks, heat deformation, and small-bowl constraints. The guide now explicitly limits it to readers who prefer its attached fold-out bowl geometry and discloses those failures, resolving last month's positioning refresh; no clearly better exact replacement for that narrow preference slot was found.",
+      "checkedAt": "2026-09-03",
       "evidenceUrls": [
         "https://www.amazon.com/dp/B07Q56TTD4",
         "https://lesotc.com/",
@@ -106,8 +109,8 @@
     {
       "asin": "B00O0UIPTY",
       "status": "keep",
-      "reason": "The exact Amazon listing and current manual still identify the white SureFeed MPF001 selective bowl for wet or dry food. Battery upkeep, microchip compatibility, training, and rear reach-around remain disclosed failure patterns, while MiBowl is the distinct enclosed alternative rather than a universal replacement; no exact recall match was found.",
-      "checkedAt": "2026-08-06",
+      "reason": "The exact Amazon listing and current support still identify the SureFeed MPF001 selective bowl for wet or dry food. Battery upkeep, microchip compatibility, training, and rear reach-around remain current disclosed failure patterns, while MiBowl is a distinct enclosed alternative rather than a universal replacement; no exact recall match or meaningfully better default was found.",
+      "checkedAt": "2026-09-03",
       "evidenceUrls": [
         "https://www.amazon.com/dp/B00O0UIPTY",
         "https://www.surepetcare.com/en-us/support/microchip-pet-feeder",
@@ -118,8 +121,8 @@
     {
       "asin": "B09ZLJCYSR",
       "status": "keep",
-      "reason": "The exact listing remains the Closer Pets MiBowl CP500 and current product, manual, and owner evidence supports the enclosed persistent-food-thief slot. Setup, battery, tag or chip compatibility, and pet acclimation remain real ownership burdens, but SureFeed does not replace its enclosed geometry and no exact recall match was found.",
-      "checkedAt": "2026-08-06",
+      "reason": "The exact listing remains the Closer Pets MiBowl selective feeder and current product, support, and owner evidence supports the CP500 enclosed persistent-food-thief slot. Setup, battery, tag or chip compatibility, acclimation, and service complaints remain real burdens, but SureFeed does not replace its enclosed geometry and no exact recall match or better enclosed alternative was found.",
+      "checkedAt": "2026-09-03",
       "evidenceUrls": [
         "https://www.amazon.com/dp/B09ZLJCYSR",
         "https://closerpets.com/products/mibowl-automatic-microchip-pet-feeder-cp500",
@@ -130,8 +133,8 @@
     {
       "asin": "B0DJVGZQW7",
       "status": "keep",
-      "reason": "The exact listing and manufacturer support still identify the eufy Indoor Cam E30 and model T8417, with local microSD recording, pet tracking, and pan-and-tilt coverage preserving its no-required-cloud-plan slot. Current owners still report Wi-Fi, server, audio, and 24/7-recording load issues, but those dependencies are disclosed and no better local-recording replacement or exact recall match displaced it.",
-      "checkedAt": "2026-08-06",
+      "reason": "The exact listing and current manufacturer support still identify the eufy Indoor Cam E30 and model T8417, with local microSD recording, pet tracking, and pan-and-tilt coverage preserving its no-required-cloud-plan slot. Current owners still report Wi-Fi, server, audio, tracking, and 24/7-recording load issues, but those dependencies are disclosed and no better local-recording replacement or exact recall match displaced it.",
+      "checkedAt": "2026-09-03",
       "evidenceUrls": [
         "https://www.amazon.com/dp/B0DJVGZQW7",
         "https://www.eufy.com/products/t8417121",
@@ -142,8 +145,8 @@
     {
       "asin": "B0BH6MD3DJ",
       "status": "keep",
-      "reason": "The exact black Litter-Robot 4 package with step, fence, and one year of WhiskerCare remains current, and manufacturer and independent evidence still supports its parts, service, sifting, and odor-control advantages. Enclosure rejection, the 14-inch bed, sensor care, cycling errors, and cleaning remain meaningful limits; the newer LR5 Pro adds cameras and identification but does not improve the apartment footprint enough to displace this slot, and no exact recall match was found.",
-      "checkedAt": "2026-08-06",
+      "reason": "The exact black Litter-Robot 4 package with step and fence remains current, and manufacturer and independent evidence still supports its parts, service, sifting, and odor-control advantages. Enclosure rejection, the 14-inch bed, sensor care, cycling errors, and cleaning remain meaningful limits; newer camera features do not improve the apartment-fit decision enough to displace this slot, and no exact recall match was found.",
+      "checkedAt": "2026-09-03",
       "evidenceUrls": [
         "https://www.amazon.com/dp/B0BH6MD3DJ",
         "https://www.whisker.com/litter-robot-4",
@@ -154,8 +157,8 @@
     {
       "asin": "B0DFYF2D7D",
       "status": "keep",
-      "reason": "The exact listing remains the PETKIT PuraMax 2 Basic Bundle and current manual still identifies model P9902, its shallow body, always-open entrance, placement limits, and age and weight scope. Independent and owner evidence confirms tedious emptying and deep cleaning, size limits, sensor errors, and leak reports, but newer camera-equipped PETKIT models do not replace its narrower depth-and-entry constraint slot; no exact recall match was found.",
-      "checkedAt": "2026-08-06",
+      "reason": "The exact listing remains the PETKIT PuraMax 2 Basic Bundle, and current manual and independent evidence still support model P9902's shallow body, always-open entrance, placement limits, and age and weight scope. Tedious emptying and deep cleaning, size limits, sensor errors, and leak reports remain material, but newer camera-equipped models do not replace its depth-and-entry constraint slot; no exact recall match was found.",
+      "checkedAt": "2026-09-03",
       "evidenceUrls": [
         "https://www.amazon.com/dp/B0DFYF2D7D",
         "https://instructions.petkit.com/App%20Manual/T4-2/T4-2_User%20Manual_EN_V1.1_250305_%20.pdf",
@@ -167,8 +170,8 @@
     {
       "asin": "B00N54E9MI",
       "status": "keep",
-      "reason": "Added after the August 6 monthly snapshot: the exact Amazon page still maps B00N54E9MI to the West Paw Toppl Large in Aqua Blue, model ZG084AQA. Current manufacturer guidance limits it to moderate chewers, requires supervision, and requires removal after damage; current owners also report exposed-rim damage by power chewers. Those limits are explicit in the activated guide, and the current CPSC dataset returned no exact product, model, or ASIN match.",
-      "checkedAt": "2026-08-11",
+      "reason": "The exact Amazon page still maps B00N54E9MI to the West Paw Toppl Large in Aqua Blue. Current manufacturer guidance limits it to moderate chewers, requires supervision, and requires removal after damage; current owners also report exposed-rim damage by power chewers. Those limits are explicit in the activated guide, no better supervised fill-and-freeze default emerged, and the current CPSC dataset returned no exact product, model, or ASIN match.",
+      "checkedAt": "2026-09-03",
       "evidenceUrls": [
         "https://www.amazon.com/dp/B00N54E9MI",
         "https://www.westpaw.com/products/toppl-treat-toy",
@@ -179,8 +182,8 @@
     {
       "asin": "B01MDNDDYS",
       "status": "keep",
-      "reason": "Added after the August 6 monthly snapshot: the exact Amazon page still maps B01MDNDDYS to the GORILLA GRIP coiled-mesh cat litter mat in Large 35 x 23 inches and Gray. Current manufacturer guidance says the mat is not slip-resistant, must remain dry and flat outside high-traffic areas, and must be discontinued if edges curl. Those limits are explicit in the activated guide, and the current CPSC dataset returned no exact product, model, or ASIN match.",
-      "checkedAt": "2026-08-25",
+      "reason": "The exact Amazon page still maps B01MDNDDYS to the GORILLA GRIP coiled-mesh cat litter mat in 35 by 23 inches and gray. Current manufacturer guidance says the mat is not slip-resistant, must remain dry and flat outside high-traffic areas, and must be discontinued if edges curl. Those limits are explicit in the activated guide, this row supersedes the unverifiable legacy Gorilla Grip ASIN, and the current CPSC dataset returned no exact product, model, or ASIN match.",
+      "checkedAt": "2026-09-03",
       "evidenceUrls": [
         "https://www.amazon.com/dp/B01MDNDDYS",
         "https://gorillagrip.com/products/litter-mat",
@@ -191,8 +194,8 @@
     {
       "asin": "B00CKFL93K",
       "status": "keep",
-      "reason": "Added after the August 6 monthly snapshot: the exact Amazon page maps B00CKFL93K to the Rocco & Roxie Original 32-fluid-ounce pack of one and model fsec. Current manufacturer instructions preserve the colorfastness, full-depth wetting, stream-setting, extraction, and at-least-10-minute dwell limits; independent testing preserves the scent and saturation tradeoffs. Those boundaries are explicit in the activated guide, and the current CPSC dataset returned no exact product, model, or ASIN match.",
-      "checkedAt": "2026-09-01",
+      "reason": "The exact Amazon page still maps B00CKFL93K to the Rocco & Roxie enzyme stain and odor eliminator in the 32-fluid-ounce bottle. Current manufacturer instructions preserve the colorfastness, full-depth wetting, stream-setting, extraction, and at-least-10-minute dwell limits; current independent testing preserves the scent and saturation tradeoffs. Those boundaries are explicit in the activated guide, no meaningfully better fresh-urine default displaced it, and the current CPSC dataset returned no exact product, model, or ASIN match.",
+      "checkedAt": "2026-09-03",
       "evidenceUrls": [
         "https://www.amazon.com/dp/B00CKFL93K",
         "https://roccoandroxie.com/pages/stain-and-odor-instructions",
