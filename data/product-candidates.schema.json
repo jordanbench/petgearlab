@@ -1,0 +1,121 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://affiliate-sites.local/schemas/product-candidates.schema.json",
+  "title": "Affiliate Product Candidate Registry",
+  "description": "Evidence-backed product candidates. One current record per ASIN per site.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+      "candidateId",
+      "siteId",
+      "productName",
+      "model",
+      "variant",
+      "asin",
+      "affiliateUrl",
+      "buyerProblem",
+      "decisionSlot",
+      "bestFor",
+      "skipIf",
+      "mainTradeoff",
+      "closestAlternative",
+      "editorialThesis",
+      "experienceBasis",
+      "evidence",
+      "strengths",
+      "failureModes",
+      "hardGates",
+      "score",
+      "decision",
+      "decisionReason",
+      "activation",
+      "sourceRun",
+      "researchedAt",
+      "lastVerifiedAt"
+    ],
+    "properties": {
+      "candidateId": { "type": "string", "minLength": 1 },
+      "siteId": { "type": "string", "minLength": 1 },
+      "productName": { "type": "string", "minLength": 1 },
+      "model": { "type": "string", "minLength": 1 },
+      "variant": { "type": "string", "minLength": 1 },
+      "asin": { "type": "string", "pattern": "^[A-Z0-9]{10}$" },
+      "affiliateUrl": { "type": "string", "format": "uri" },
+      "buyerProblem": { "type": "string", "minLength": 1 },
+      "decisionSlot": {
+        "type": "string",
+        "enum": ["default", "budget", "upgrade", "constraint", "maintenance", "compatibility", "safety", "other"]
+      },
+      "bestFor": { "type": "string", "minLength": 1 },
+      "skipIf": { "type": "string", "minLength": 1 },
+      "mainTradeoff": { "type": "string", "minLength": 1 },
+      "closestAlternative": { "type": "string", "minLength": 1 },
+      "editorialThesis": { "type": "string", "minLength": 1 },
+      "experienceBasis": { "type": "string", "enum": ["research-only", "hands-on"] },
+      "evidence": {
+        "type": "array",
+        "minItems": 1,
+        "items": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["type", "url", "note", "checkedAt"],
+          "properties": {
+            "type": {
+              "type": "string",
+              "enum": ["manufacturer", "manual", "amazon-listing", "independent-review", "owner-pattern", "safety", "demand-signal", "hands-on"]
+            },
+            "url": { "type": "string", "format": "uri" },
+            "note": { "type": "string", "minLength": 1 },
+            "checkedAt": { "type": "string", "format": "date" }
+          }
+        }
+      },
+      "strengths": { "type": "array", "minItems": 1, "items": { "type": "string", "minLength": 1 } },
+      "failureModes": { "type": "array", "minItems": 1, "items": { "type": "string", "minLength": 1 } },
+      "hardGates": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["asinVerified", "distinctDecisionSlot", "noUnresolvedSafetyIssue", "claimsSupportable", "affiliateCompliance"],
+        "properties": {
+          "asinVerified": { "type": "boolean" },
+          "distinctDecisionSlot": { "type": "boolean" },
+          "noUnresolvedSafetyIssue": { "type": "boolean" },
+          "claimsSupportable": { "type": "boolean" },
+          "affiliateCompliance": { "type": "boolean" }
+        }
+      },
+      "score": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["readerProblemFit", "evidenceConfidence", "ownershipLongevity", "meaningfulDifferentiation", "riskAndReturnFit", "demandSignal", "commercialValue", "total"],
+        "properties": {
+          "readerProblemFit": { "type": "integer", "minimum": 0, "maximum": 25 },
+          "evidenceConfidence": { "type": "integer", "minimum": 0, "maximum": 20 },
+          "ownershipLongevity": { "type": "integer", "minimum": 0, "maximum": 15 },
+          "meaningfulDifferentiation": { "type": "integer", "minimum": 0, "maximum": 15 },
+          "riskAndReturnFit": { "type": "integer", "minimum": 0, "maximum": 15 },
+          "demandSignal": { "type": "integer", "minimum": 0, "maximum": 5 },
+          "commercialValue": { "type": "integer", "minimum": 0, "maximum": 5 },
+          "total": { "type": "integer", "minimum": 0, "maximum": 100 }
+        }
+      },
+      "decision": { "type": "string", "enum": ["approve", "hold", "reject"] },
+      "decisionReason": { "type": "string", "minLength": 1 },
+      "activation": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["status", "activatedAt", "guidePath"],
+        "properties": {
+          "status": { "type": "string", "enum": ["pending", "activated", "not-applicable", "retired"] },
+          "activatedAt": { "type": ["string", "null"], "format": "date" },
+          "guidePath": { "type": ["string", "null"] }
+        }
+      },
+      "sourceRun": { "type": "string", "minLength": 1 },
+      "researchedAt": { "type": "string", "format": "date" },
+      "lastVerifiedAt": { "type": "string", "format": "date" }
+    }
+  }
+}

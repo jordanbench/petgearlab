@@ -1,0 +1,3039 @@
+[
+  {
+    "candidateId": "petgearbench:B00O0UIPTY",
+    "siteId": "petgearbench",
+    "productName": "SureFeed Microchip Pet Feeder",
+    "model": "MPF001 / manufacturer item 194705",
+    "variant": "Standard version, white, one feeder",
+    "asin": "B00O0UIPTY",
+    "affiliateUrl": "https://www.amazon.com/dp/B00O0UIPTY/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Keep two cats on separate foods when one cat steals meals or one cat needs a different diet.",
+    "decisionSlot": "default",
+    "bestFor": "A grazing cat that needs protected access to wet or dry food without wearing a collar tag, provided its implanted microchip is compatible and readable.",
+    "skipIf": "You need timed dispensing from a hopper, refuse C-cell battery upkeep, or have a persistent thief that can reach around an open feeder.",
+    "mainTradeoff": "It controls bowl access but does not dispense scheduled portions, and the open back can require an accessory guard for a determined food thief.",
+    "closestAlternative": "Closer Pets MiBowl CP500 for a more enclosed bowl-access design.",
+    "editorialThesis": "The strongest default is the simpler microchip bowl for households that need food separation more than scheduled dispensing or app features.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B00O0UIPTY",
+        "note": "Verified specification: the current listing identifies ASIN B00O0UIPTY as the SureFeed Microchip Pet Feeder MPF001 standard version, white, manufacturer item 194705, for wet or dry food.",
+        "checkedAt": "2026-07-21"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.surepetcare.com/en-us/support/microchip-pet-feeder",
+        "note": "Manufacturer documentation: official setup, cleaning, dimensions, serial-specific manuals, and training resources support the standard non-connected feeder identity and ownership requirements.",
+        "checkedAt": "2026-07-21"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.reddit.com/r/CatAdvice/comments/1s70j63/questions_for_anyone_who_uses_the_surepet/",
+        "note": "Owner-reported pattern: multiple long-term users describe successful separate-diet feeding and easy daily use; repeated tradeoffs are C-cell battery replacement and the need to train some cats.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=SureFeed&format=json",
+        "note": "Official recall check: the CPSC recall API returned no matching SureFeed product recall records on 2026-07-20. This is a database check, not a safety certification.",
+        "checkedAt": "2026-07-20"
+      }
+    ],
+    "strengths": [
+      "Reads a compatible implanted microchip or the supplied RFID collar tag.",
+      "Supports both wet and dry food in a covered bowl.",
+      "Training mode and a long-running product family reduce adoption uncertainty.",
+      "The non-connected design avoids an app, hub, and account dependency."
+    ],
+    "failureModes": [
+      "A persistent cat may reach food from the rear while the authorized cat keeps the lid open.",
+      "A migrated or incompatible implanted microchip may not read reliably.",
+      "Four C-cell batteries add recurring upkeep and there is no corded fallback.",
+      "It does not schedule or dispense meals, so owners must refill the bowl manually."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 24,
+      "evidenceConfidence": 19,
+      "ownershipLongevity": 13,
+      "meaningfulDifferentiation": 13,
+      "riskAndReturnFit": 12,
+      "demandSignal": 4,
+      "commercialValue": 3,
+      "total": 88
+    },
+    "decision": "approve",
+    "decisionReason": "Approve as the default food-separation candidate. The exact ASIN and standard variant are current, the evidence mix clears every hard gate, and it solves the reader's actual problem without making an app or collar tag mandatory. The guide must still disclose that it is a protected bowl rather than a scheduled hopper and that determined cats may require a rear guard.",
+    "activation": {
+      "status": "activated",
+      "activatedAt": "2026-07-21",
+      "guidePath": "/guides/best-automatic-cat-feeders-two-cats/"
+    },
+    "sourceRun": "product-discovery:2026-07-20",
+    "researchedAt": "2026-07-20",
+    "lastVerifiedAt": "2026-07-21"
+  },
+  {
+    "candidateId": "petgearbench:B09ZLJCYSR",
+    "siteId": "petgearbench",
+    "productName": "Closer Pets MiBowl Smart Selective Microchip Pet Feeder",
+    "model": "CP500",
+    "variant": "White, one feeder, 12-ounce bowl",
+    "asin": "B09ZLJCYSR",
+    "affiliateUrl": "https://www.amazon.com/dp/B09ZLJCYSR/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Keep two cats on separate foods when one cat steals meals or one cat needs a different diet.",
+    "decisionSlot": "constraint",
+    "bestFor": "Small or medium cats whose food thief is persistent enough that an enclosed rear and side design matters more than scheduled dispensing.",
+    "skipIf": "Your pet lacks a compatible 15-digit implanted microchip and will not tolerate the supplied collar tag, or you need app tracking or hopper-fed scheduled meals.",
+    "mainTradeoff": "The enclosed access design is stronger against side and rear stealing, but it is still a manually filled bowl powered by four C-cell batteries.",
+    "closestAlternative": "SureFeed Microchip Pet Feeder MPF001 for the more established and simpler default.",
+    "editorialThesis": "MiBowl earns a separate shortlist slot for households where enclosure geometry is the deciding constraint, not as a generic second microchip feeder.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B09ZLJCYSR",
+        "note": "Verified specification: the current listing identifies ASIN B09ZLJCYSR as Closer Pets MiBowl model CP500, white, one unit, with the manufacturer selling the listing and a 12-ounce bowl.",
+        "checkedAt": "2026-07-21"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://closerpets.com/products/mibowl-automatic-microchip-pet-feeder-cp500",
+        "note": "Manufacturer claim: the CP500 uses a compatible implanted microchip or supplied electronic ID disc and encloses the rear and sides to limit unauthorized access to wet or dry food.",
+        "checkedAt": "2026-07-21"
+      },
+      {
+        "type": "manual",
+        "url": "https://closerpets.com/pages/support_mibowl_and_mibowl_plus_cp500",
+        "note": "Manufacturer documentation: official CP500 support confirms wet-or-dry use, 12-ounce bowl capacity, compatible implanted chips or ID discs, programming, cleaning, and battery-life caveats.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.ebay.com/urw/-/product-reviews/24060821130",
+        "note": "Owner-reported pattern: reviewers repeatedly cite the enclosed design as useful against a larger greedy cat, while setup and pet acclimation remain household-dependent.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=MiBowl&format=json",
+        "note": "Official recall check: the CPSC recall API returned no matching MiBowl product recall records on 2026-07-20. This is a database check, not a safety certification.",
+        "checkedAt": "2026-07-20"
+      }
+    ],
+    "strengths": [
+      "The enclosed back and sides directly address reach-around food theft.",
+      "Works with compatible implanted microchips or an included electronic ID disc.",
+      "Accepts wet or dry food and keeps the feeding posture relatively open at the front.",
+      "The manufacturer provides current CP500 support and replacement-bowl guidance."
+    ],
+    "failureModes": [
+      "It does not dispense scheduled portions and must be filled manually.",
+      "A non-compatible or migrated implanted chip can force collar-tag use.",
+      "A cautious cat may resist the moving lid without gradual training.",
+      "Four C-cell batteries and bowl cleaning remain recurring ownership tasks."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 23,
+      "evidenceConfidence": 18,
+      "ownershipLongevity": 12,
+      "meaningfulDifferentiation": 14,
+      "riskAndReturnFit": 12,
+      "demandSignal": 2,
+      "commercialValue": 2,
+      "total": 83
+    },
+    "decision": "approve",
+    "decisionReason": "Approve for the persistent-thief constraint slot. The exact CP500 listing is current and manufacturer-sold, the evidence mix clears every hard gate, and the enclosed geometry is a meaningful difference from the default rather than redundant feature churn. Activation copy must avoid promising that any feeder can defeat every determined cat.",
+    "activation": {
+      "status": "activated",
+      "activatedAt": "2026-07-21",
+      "guidePath": "/guides/best-automatic-cat-feeders-two-cats/"
+    },
+    "sourceRun": "product-discovery:2026-07-20",
+    "researchedAt": "2026-07-20",
+    "lastVerifiedAt": "2026-07-21"
+  },
+  {
+    "candidateId": "petgearbench:B0FJMFYPNH",
+    "siteId": "petgearbench",
+    "productName": "PETLIBRO One RFID Smart Feeder",
+    "model": "PLAF301 / Amazon item AF301-W",
+    "variant": "White, 3-liter, pack of one, included proprietary RFID collar tag",
+    "asin": "B0FJMFYPNH",
+    "affiliateUrl": "https://www.amazon.com/dp/B0FJMFYPNH/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Keep two cats on separate foods when one cat steals meals or one cat needs a different diet.",
+    "decisionSlot": "upgrade",
+    "bestFor": "A dry-food household that wants scheduled dispensing and feeding logs and whose cat reliably wears the proprietary PETLIBRO collar tag.",
+    "skipIf": "Your cat will not wear a collar, you require implanted-microchip access, you feed wet food, or the food thief persistently pries at feeder lids.",
+    "mainTradeoff": "It combines scheduling with access control, but recognition depends on the included collar tag and current owner reports conflict on lid resistance and tag reliability.",
+    "closestAlternative": "SureFeed Microchip Pet Feeder MPF001 when implanted-microchip access and wet-food compatibility matter more than app scheduling.",
+    "editorialThesis": "The One RFID is the feature-rich upgrade only after collar tolerance and dry-food-only use are confirmed; it should not displace the microchip-bowl default.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0FJMFYPNH",
+        "note": "Verified specification: the current listing identifies ASIN B0FJMFYPNH as the white 3-liter pack-of-one PETLIBRO feeder, item AF301-W, with one dedicated RFID collar tag and no implanted-microchip support.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://petlibro.com/pages/faq-product/one-rfid-smart-feeder",
+        "note": "Manufacturer documentation: official PLAF301 support covers tag binding, lid behavior, scheduled dispensing, cleaning, connection failures, and rotor or low-food alerts.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "manual",
+        "url": "https://m.media-amazon.com/images/I/91jIGdVsPOL.pdf",
+        "note": "Official manual: identifies the One RFID Pet Feeder and documents electrical, cleaning, tag, and operating constraints for the PLAF301 family.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.chewy.com/petlibro-one-rfid-automatic-wifi-app/product-reviews/2481470",
+        "note": "Owner-reported pattern: recent reviews include successful individual feeding in two-cat homes, but other current owner reports describe collar rejection, tag or sensor issues, and determined cats forcing the lid.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=PETLIBRO&format=json",
+        "note": "Official recall check: the CPSC recall API returned no matching PETLIBRO product recall records on 2026-07-20. This is a database check, not a safety certification.",
+        "checkedAt": "2026-07-20"
+      }
+    ],
+    "strengths": [
+      "Combines dry-food scheduling, individual access control, and app feeding logs.",
+      "The current listing supports dual-band Wi-Fi and battery backup for scheduled dispensing.",
+      "A stainless steel bowl and removable food-contact parts reduce cleaning friction.",
+      "The exact current Amazon variant and official PLAF301 support are identifiable."
+    ],
+    "failureModes": [
+      "It cannot read an implanted microchip or third-party tag.",
+      "A cat that rejects collars cannot use the access-control feature.",
+      "Current owners report some persistent cats can force the lid or eat beside the authorized cat.",
+      "Connectivity, tag sensing, low-food alerts, and rotor jams add more failure points than a covered bowl."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 22,
+      "evidenceConfidence": 17,
+      "ownershipLongevity": 10,
+      "meaningfulDifferentiation": 13,
+      "riskAndReturnFit": 8,
+      "demandSignal": 4,
+      "commercialValue": 3,
+      "total": 77
+    },
+    "decision": "hold",
+    "decisionReason": "Hold despite a score above the approval threshold. The exact current variant is verified and the feature set fits, but current owner evidence conflicts with the broad anti-stealing claim: collar tolerance, tag sensing, and forced-lid reports remain meaningful. A future run should look for variant-specific durability evidence before activation.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-07-20",
+    "researchedAt": "2026-07-20",
+    "lastVerifiedAt": "2026-07-20"
+  },
+  {
+    "candidateId": "petgearbench:B0D6GVDP4Q",
+    "siteId": "petgearbench",
+    "productName": "PawsPik PortionPro Rx RFID Automatic Pet Feeder",
+    "model": "PPRX1700",
+    "variant": "Upgraded gray feeder, new white tag with silicone loops, 32-cup dry-food hopper",
+    "asin": "B0D6GVDP4Q",
+    "affiliateUrl": "https://www.amazon.com/dp/B0D6GVDP4Q/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Keep two cats on separate foods when one cat steals meals or one cat needs a different diet.",
+    "decisionSlot": "other",
+    "bestFor": "A dry-food household that needs both scheduled portions and active-tag access control and can use the feeder's one-half-cup minimum daily setting.",
+    "skipIf": "Your cat needs less than one-half cup per day, will not wear an active RFID tag, eats wet food, or you need implanted-microchip recognition.",
+    "mainTradeoff": "Its large hopper and scheduled access control are unusual, but the portion range, large powered tag, footprint, and dry-food-only design narrow the cat fit.",
+    "closestAlternative": "PETLIBRO One RFID for a smaller tag-based scheduled feeder, or SureFeed MPF001 for implanted-microchip bowl access.",
+    "editorialThesis": "PortionPro Rx is a specialist scheduled-dry-food option, not a default two-cat recommendation, because its minimum portions and tag burden can be a poor fit for smaller cats.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0D6GVDP4Q",
+        "note": "Verified specification: the current listing title maps ASIN B0D6GVDP4Q to the upgraded PortionPro Rx with the new silicone-loop tag and scheduled RFID access control.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://pawspik.com/products/portionprorx-automatic-pet-feeder",
+        "note": "Manufacturer claim: the current PawsPik product page identifies model PPRX1700 features including active RFID access, 32-cup dry-food capacity, and a one-half to six-cup daily portion range.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "manual",
+        "url": "https://manuals.plus/asin/B0D6GVDP4Q.pdf",
+        "note": "Manual evidence: the ASIN-specific PPRX1700 guide documents tag pairing, dry-food-only operation, spatial separation, portion increments, cleaning, and jam troubleshooting.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://www.catfooddispensersreviews.com/portionpro-rx-automatic-pet-feeder-review/",
+        "note": "Independent review: the reviewer reports effective food-theft control but flags the tag size and limited fine-grained portioning for smaller cats as material drawbacks.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=PortionPro&format=json",
+        "note": "Official recall check: the CPSC recall API returned no matching PortionPro product recall records on 2026-07-20. This is a database check, not a safety certification.",
+        "checkedAt": "2026-07-20"
+      }
+    ],
+    "strengths": [
+      "Combines a large dry-food hopper, scheduled portions, and active RFID access control.",
+      "Open and closed modes support different household access strategies.",
+      "The current owner, PawsPik, publishes setup and troubleshooting resources.",
+      "A pet-proof lid and removable food-contact parts address common hopper upkeep needs."
+    ],
+    "failureModes": [
+      "The one-half-cup minimum daily amount can be too coarse for a small cat's diet.",
+      "The active RFID tag is larger than a passive tag and requires a replaceable battery.",
+      "It does not read implanted microchips and cannot dispense wet food.",
+      "The large footprint and six-foot spacing guidance increase setup burden in small homes."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 18,
+      "evidenceConfidence": 17,
+      "ownershipLongevity": 10,
+      "meaningfulDifferentiation": 12,
+      "riskAndReturnFit": 8,
+      "demandSignal": 3,
+      "commercialValue": 4,
+      "total": 72
+    },
+    "decision": "hold",
+    "decisionReason": "Hold at 72. The identity and evidence are adequate, but the one-half-cup minimum daily portion, active-tag burden, dry-food limitation, and footprint make it a specialist fit rather than a strong general recommendation for two cats. Commercial value remains only 4 points and does not lift it over the reader-fit threshold.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-07-20",
+    "researchedAt": "2026-07-20",
+    "lastVerifiedAt": "2026-07-20"
+  },
+  {
+    "candidateId": "petgearbench:B07RHZHHGN",
+    "siteId": "petgearbench",
+    "productName": "SureFeed Microchip Pet Feeder Connect",
+    "model": "Manufacturer item 394540",
+    "variant": "Connect version, white, feeder only; Sure Petcare Hub sold separately",
+    "asin": "B07RHZHHGN",
+    "affiliateUrl": "https://www.amazon.com/dp/B07RHZHHGN/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Keep two cats on separate foods when one cat steals meals or one cat needs a different diet.",
+    "decisionSlot": "compatibility",
+    "bestFor": "An existing Sure Petcare Hub household that specifically wants manual portion weighing and feeding-history data with microchip-controlled bowl access.",
+    "skipIf": "You do not already own or cannot verify a compatible Sure Petcare Hub, or the standard SureFeed solves the food-separation problem without connected overhead.",
+    "mainTradeoff": "The connected version adds tracking and scales but requires a separately sold hub while retaining the standard feeder's manual filling, batteries, and rear-access weakness.",
+    "closestAlternative": "SureFeed Microchip Pet Feeder MPF001, which solves the core access-control problem without a hub dependency.",
+    "editorialThesis": "The Connect variant is too dependent and redundant for the current shortlist unless a reader already owns the required hub and values tracking enough to accept the extra system burden.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B07RHZHHGN",
+        "note": "Verified specification: the current listing identifies ASIN B07RHZHHGN as the white SureFeed Connect version, manufacturer item 394540, and repeatedly states that the required hub is sold separately.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.surepetcare.com/en-us/support/microchip-pet-feeder-connect",
+        "note": "Manufacturer documentation: official Connect support exists for setup, feeding data, cleaning, and troubleshooting, confirming that this is a separate connected feeder workflow.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "manual",
+        "url": "https://i00.eu/file/403/18214-manual-en.pdf",
+        "note": "Manual evidence: the Connect manual documents hub pairing, microchip enrollment, portion indicators, batteries, and bowl-access behavior.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.reddit.com/r/CatAdvice/comments/1oof33t/surefeed_microchip_feeder_worth_it/",
+        "note": "Owner-reported pattern: owners often prefer the basic version because it solves separate feeding without hub overhead; persistent cats may still steal from the rear while the lid is open.",
+        "checkedAt": "2026-07-20"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.saferproducts.gov/RestWebServices/Recall?ProductName=SureFeed&format=json",
+        "note": "Official recall check: the CPSC recall API returned no matching SureFeed product recall records on 2026-07-20. This is a database check, not a safety certification.",
+        "checkedAt": "2026-07-20"
+      }
+    ],
+    "strengths": [
+      "Reads compatible implanted microchips and supports wet or dry food.",
+      "Adds portion-weight guidance and feeding-history data for compatible hub owners.",
+      "The exact Connect listing, model, and hub requirement are clear.",
+      "Official support and a full manual remain available."
+    ],
+    "failureModes": [
+      "The hub is required for connected features and is not included with the exact listing.",
+      "The feeder still requires manual bowl filling and four C-cell batteries.",
+      "The open rear can allow a persistent thief to reach food beside the authorized cat.",
+      "It duplicates the approved standard feeder's core recommendation while adding account and hardware dependencies."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 18,
+      "evidenceConfidence": 16,
+      "ownershipLongevity": 10,
+      "meaningfulDifferentiation": 5,
+      "riskAndReturnFit": 4,
+      "demandSignal": 2,
+      "commercialValue": 3,
+      "total": 58
+    },
+    "decision": "reject",
+    "decisionReason": "Reject for this run. The exact variant is verified, but the separately sold hub, connected-account burden, manual filling, and overlap with the stronger standard SureFeed make it redundant for the unresolved reader problem. Its 58-point score is below the hold threshold, and commercial value cannot rescue that weak incremental fit.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-07-20",
+    "researchedAt": "2026-07-20",
+    "lastVerifiedAt": "2026-07-20"
+  },
+  {
+    "candidateId": "petgearbench:B0DJVGZQW7",
+    "siteId": "petgearbench",
+    "productName": "eufy Indoor Cam E30",
+    "model": "T8417",
+    "variant": "White, one camera, 4K pan-and-tilt indoor model",
+    "asin": "B0DJVGZQW7",
+    "affiliateUrl": "https://www.amazon.com/dp/B0DJVGZQW7/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Check whether a dog or cat settled while you are away and review useful clips without a mandatory cloud-recording subscription.",
+    "decisionSlot": "default",
+    "bestFor": "A one-room pet-monitoring setup that needs local event or continuous recording, pet detection, and pan-and-tilt coverage without a required monthly camera plan.",
+    "skipIf": "You will not install and maintain a microSD card, you need battery power, or you require full 4K and pan-and-tilt control inside Apple Home rather than the eufy app.",
+    "mainTradeoff": "Local storage avoids a required cloud plan, but the microSD card is sold separately and HomeKit limits the stream to 1080p while camera movement remains in the eufy app.",
+    "closestAlternative": "Wyze Cam Pan v3 for a lower-cost local-recording path if manual footage review and paid pet-specific alerts are acceptable.",
+    "editorialThesis": "The E30 is the strongest default for owners who want to confirm that a pet settled and review local clips without making a cloud subscription part of the basic workflow.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0DJVGZQW7",
+        "note": "Verified specification: the current Amazon listing maps ASIN B0DJVGZQW7 to one white eufy Indoor Cam E30, model T8417, with 4K video, pan and tilt, pet tracking, two-way audio, and a microSD slot.",
+        "checkedAt": "2026-07-28"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.eufy.com/products/t8417121",
+        "note": "Manufacturer claim: the official E30 page documents 4K recording, 360-degree room coverage, on-device human and pet detection, pet auto tracking, HomeKit support, and local microSD recording without a monthly fee.",
+        "checkedAt": "2026-07-28"
+      },
+      {
+        "type": "manual",
+        "url": "https://service.eufy.com/product-description/a08J1000000YShNIAW/eufy-indoor-cam-e30",
+        "note": "Manufacturer documentation: the official support page identifies the E30 user guide as T8417 and provides model-specific setup, storage, and troubleshooting resources.",
+        "checkedAt": "2026-07-28"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.reddit.com/r/EufyCam/comments/1mjhgos/thinking_about_buying_an_eufy_e30_indoor_cam_to/",
+        "note": "Owner-reported pattern: a current E30 owner describes nearly silent slow-speed pan and tilt, usable auto tracking, a configurable home position, and an audible click when night mode changes.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official recall check: the CPSC full recall dataset downloaded on 2026-07-27 contained no match for eufy, T8417, or Indoor Cam E30. This is a dated database check, not a safety certification.",
+        "checkedAt": "2026-07-27"
+      }
+    ],
+    "strengths": [
+      "Records events or continuous video to an optional microSD card without requiring a cloud plan.",
+      "On-device pet detection and auto tracking reduce reliance on generic motion alerts.",
+      "Pan-and-tilt coverage can follow a pet between a resting spot, doorway, and nearby floor area.",
+      "The current Amazon listing and official T8417 support identity are consistent."
+    ],
+    "failureModes": [
+      "A failed, full, or removed microSD card can eliminate the local clip history.",
+      "HomeKit reduces video to 1080p and does not expose the eufy app's pan-and-tilt controls.",
+      "Automatic tracking can lose a pet behind furniture or outside the camera's vertical range.",
+      "The wired camera still depends on household power, Wi-Fi, an account, and app availability for remote viewing."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 24,
+      "evidenceConfidence": 19,
+      "ownershipLongevity": 13,
+      "meaningfulDifferentiation": 14,
+      "riskAndReturnFit": 12,
+      "demandSignal": 3,
+      "commercialValue": 2,
+      "total": 87
+    },
+    "decision": "approve",
+    "decisionReason": "Approve as the default local-recording candidate. The exact T8417 variant and ASIN are current, the evidence clears every hard gate, and local microSD recording plus on-device pet detection solves the reader's clip-review problem without a mandatory camera subscription. Activation copy must disclose the separate card, app and Wi-Fi dependence, and HomeKit limitations.",
+    "activation": {
+      "status": "activated",
+      "activatedAt": "2026-07-28",
+      "guidePath": "/guides/best-pet-cameras-while-away/"
+    },
+    "sourceRun": "product-discovery:2026-07-27",
+    "researchedAt": "2026-07-27",
+    "lastVerifiedAt": "2026-07-28"
+  },
+  {
+    "candidateId": "petgearbench:B0B9TWY11Q",
+    "siteId": "petgearbench",
+    "productName": "Wyze Cam Pan v3",
+    "model": "WYZECPAN3",
+    "variant": "White, one camera, 1080p corded pan-and-tilt model",
+    "asin": "B0B9TWY11Q",
+    "affiliateUrl": "https://www.amazon.com/dp/B0B9TWY11Q/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Check whether a dog or cat settled while you are away and review useful clips without a mandatory cloud-recording subscription.",
+    "decisionSlot": "budget",
+    "bestFor": "A price-sensitive owner willing to add a microSD card, scrub local footage manually, and use general motion tracking instead of relying on paid pet-specific alerts.",
+    "skipIf": "You expect free pet or bark classification, need dependable automatic event search, or have low tolerance for app, waypoint, or SD-card troubleshooting.",
+    "mainTradeoff": "It supports free local continuous or event recording and wide pan-and-tilt coverage, but smart pet and sound alerts require a plan and current owners report uneven app, waypoint, and image reliability.",
+    "closestAlternative": "eufy Indoor Cam E30 for higher-resolution local recording and on-device pet detection without a required plan.",
+    "editorialThesis": "Wyze is a plausible budget path only when the reader accepts manual local review and feature limits; the current evidence is not consistent enough to recommend it alongside the stronger default.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0B9TWY11Q",
+        "note": "Verified specification: the current listing maps ASIN B0B9TWY11Q to one white Wyze Cam Pan v3, model WYZECPAN3, with 1080p video, pan and tilt, motion tracking, two-way audio, and corded power.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.wyze.com/pages/pet-cameras",
+        "note": "Manufacturer documentation: Wyze says live viewing and microSD recording work without Cam Plus, while pet-sound alerts such as bark and meow detection require a paid plan.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "manual",
+        "url": "https://support.wyze.com/hc/en-us/article_attachments/23616191055899",
+        "note": "Manufacturer documentation: the Wyze Cam Pan v3 quick-start guide identifies the exact model family, one-camera package, microSD slot, privacy mode, and mounting requirements.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.chewy.com/wyze-cam-pan-v3-indoor-outdoor-wi-fi/product-reviews/1337134",
+        "note": "Owner-reported pattern: current pet-use reviews include successful no-subscription monitoring, but also reports of grainy footage, failed waypoints, app problems, and pressure to pay for useful extras.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://www.safewise.com/home-security-systems/wyze/cameras/pan-v3/",
+        "note": "Independent hands-on review: local event or continuous recording and motion tracking are useful, but 1080p detail falls off with distance and smart detection features remain tied to cloud plans.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official recall check: the CPSC dataset had no exact WYZECPAN3 or Wyze Cam Pan v3 match on 2026-07-27. It does list recall 26-524 for the battery-powered Solar Cam Pan model WYZESCPWH, which is a different product. This is not a safety certification.",
+        "checkedAt": "2026-07-27"
+      }
+    ],
+    "strengths": [
+      "Supports continuous or event-based microSD recording without a cloud plan.",
+      "Pan, tilt, motion tracking, and privacy mode cover more of one room than a fixed camera.",
+      "The current exact Amazon variant and model number are identifiable.",
+      "Current owner evidence includes real pet-monitoring use without a subscription."
+    ],
+    "failureModes": [
+      "Free local footage lacks the paid service's pet classification and easier smart-event search.",
+      "Current owners report failed waypoints, app problems, grainy video, and SD-card recognition issues.",
+      "1080p detail degrades with distance, glare, and digital zoom.",
+      "A related but different Wyze solar camera was recalled in 2026, so model identity must remain explicit."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 22,
+      "evidenceConfidence": 17,
+      "ownershipLongevity": 11,
+      "meaningfulDifferentiation": 12,
+      "riskAndReturnFit": 9,
+      "demandSignal": 4,
+      "commercialValue": 3,
+      "total": 78
+    },
+    "decision": "hold",
+    "decisionReason": "Hold despite a score above 75. The exact model and free local recording are verified, but current owner evidence conflicts on app, waypoint, and image reliability, and the useful pet-specific alert layer remains paid. A future run should recheck firmware behavior and recent exact-model owner reports before activation.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-07-27",
+    "researchedAt": "2026-07-27",
+    "lastVerifiedAt": "2026-07-27"
+  },
+  {
+    "candidateId": "petgearbench:B09J2CP8YS",
+    "siteId": "petgearbench",
+    "productName": "Aqara Camera Hub G3",
+    "model": "CH-H03",
+    "variant": "White, one 2K camera hub with removable cat-ear accessory",
+    "asin": "B09J2CP8YS",
+    "affiliateUrl": "https://www.amazon.com/dp/B09J2CP8YS/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Check whether a dog or cat settled while you are away and review useful clips without a mandatory cloud-recording subscription.",
+    "decisionSlot": "compatibility",
+    "bestFor": "An existing Aqara or Apple Home household that also needs a Zigbee hub and values local pet recognition, local microSD recording, and a physical privacy mask.",
+    "skipIf": "You only need a straightforward pet camera, want current independent evidence, or expect 2K pan-and-tilt control inside HomeKit Secure Video.",
+    "mainTradeoff": "It combines local pet recognition, local storage, a Zigbee hub, and broad ecosystem support, but that complexity is unnecessary for most pet check-ins and HomeKit drops the feed to 1080p without pan-and-tilt control.",
+    "closestAlternative": "eufy Indoor Cam E30 for a simpler current pet-monitoring default with local storage and fewer ecosystem dependencies.",
+    "editorialThesis": "The G3 belongs only in an Aqara or HomeKit compatibility slot; its extra hub and automation features do not justify a general pet-camera recommendation.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B09J2CP8YS",
+        "note": "Verified specification: the current listing maps ASIN B09J2CP8YS to one white Aqara Camera Hub G3, model CH-H03, with 2K video, pan and tilt, pet recognition, HomeKit compatibility, and the camera-hub package.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.aqara.com/product/camera-hub-g3/",
+        "note": "Manufacturer claim: the official page documents local pet recognition, local or cloud recording, 2K video, a physical privacy mask, a Zigbee 3.0 hub, and HomeKit's 1080p and pan-and-tilt limitations.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "manual",
+        "url": "https://www.aqara.com/wp-content/uploads/2023/09/Camera-Hub-G3_User-Mannual.pdf",
+        "note": "Manufacturer documentation: the official manual identifies model CH-H03 and documents setup, local microSD storage, privacy behavior, power, and operating constraints.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://www.safewise.com/au/aqara-camera-hub-g3-review/",
+        "note": "Independent hands-on review: two-week testing found strong video and broad compatibility but a narrow vertical range, higher cost, and slower command response. The review is older and is an evidence limitation for current reliability.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official recall check: the CPSC full recall dataset downloaded on 2026-07-27 contained no match for Aqara, CH-H03, or Camera Hub G3. This is a dated database check, not a safety certification.",
+        "checkedAt": "2026-07-27"
+      }
+    ],
+    "strengths": [
+      "Performs pet recognition locally and records to an optional microSD card.",
+      "The physical privacy mask makes camera state visible in the room.",
+      "Dual-band Wi-Fi, HomeKit, and a built-in Aqara Zigbee hub suit an established smart-home system.",
+      "The exact CH-H03 Amazon listing and official manual remain available."
+    ],
+    "failureModes": [
+      "HomeKit Secure Video reduces the feed to 1080p and does not expose pan-and-tilt control.",
+      "The hub, infrared controller, automations, and account setup add burden unrelated to basic pet check-ins.",
+      "Independent hands-on evidence for the exact model is older than the other candidates in this run.",
+      "The limited vertical tilt can miss a pet on furniture or directly below the camera."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 19,
+      "evidenceConfidence": 15,
+      "ownershipLongevity": 10,
+      "meaningfulDifferentiation": 10,
+      "riskAndReturnFit": 9,
+      "demandSignal": 2,
+      "commercialValue": 2,
+      "total": 67
+    },
+    "decision": "hold",
+    "decisionReason": "Hold at 67. The exact model and official local features are verified, but the best independent exact-model testing is older, the HomeKit mode removes important camera controls, and the hub complexity narrows the reader fit. It should be reconsidered only for a clearly defined Aqara or HomeKit household slot with fresher reliability evidence.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-07-27",
+    "researchedAt": "2026-07-27",
+    "lastVerifiedAt": "2026-07-27"
+  },
+  {
+    "candidateId": "petgearbench:B0BWX39R5W",
+    "siteId": "petgearbench",
+    "productName": "Blink Mini 2",
+    "model": "Mini 2",
+    "variant": "Black, one 1080p plug-in camera",
+    "asin": "B0BWX39R5W",
+    "affiliateUrl": "https://www.amazon.com/dp/B0BWX39R5W/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Check whether a dog or cat settled while you are away and review useful clips without a mandatory cloud-recording subscription.",
+    "decisionSlot": "budget",
+    "bestFor": "An existing Blink household that already owns a compatible Sync Module 2 and USB drive and only needs a compact fixed-angle camera.",
+    "skipIf": "You need local recording from the camera itself, pan-and-tilt room coverage, pet classification, Google Home or HomeKit support, or fast rich alerts without extra hardware or a plan.",
+    "mainTradeoff": "The camera is compact and inexpensive, but subscription-free recording requires a separately sold Sync Module 2 and USB drive while person detection remains paid.",
+    "closestAlternative": "Wyze Cam Pan v3 for in-camera microSD recording and pan-and-tilt coverage, or eufy E30 for the stronger local pet-monitoring default.",
+    "editorialThesis": "Blink Mini 2 is not a clean no-subscription pet-camera answer because the low camera price hides a separate hub-and-drive requirement for local clips.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0BWX39R5W",
+        "note": "Verified specification: the current listing maps ASIN B0BWX39R5W to one black Blink Mini 2 plug-in 1080p camera with motion detection, two-way audio, and a built-in spotlight.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://support.blinkforhome.com/mini-2-faq",
+        "note": "Manufacturer documentation: Blink identifies Mini 2 as a 1080p plug-in camera and states that local storage requires a Sync Module 2 while person detection requires a subscription.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "manual",
+        "url": "https://support.blinkforhome.com/using-your-sync-module/sync-module-2-local-storage-operation",
+        "note": "Manufacturer documentation: local clips require the separate Sync Module 2 and a compatible USB drive; cloud recording and rapid access features remain part of the subscription workflow.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://www.reviewed.com/smarthome/content/blink-mini-2-security-camera-review",
+        "note": "Independent hands-on review: the fixed camera has usable 1080p coverage and a simple app, but local storage requires extra hardware, rich notifications are absent, and smart person detection requires a plan.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official recall check: the CPSC full recall dataset downloaded on 2026-07-27 contained no match for Blink Mini 2 or ASIN B0BWX39R5W. This is a dated database check, not a safety certification.",
+        "checkedAt": "2026-07-27"
+      }
+    ],
+    "strengths": [
+      "The fixed camera is compact and the exact black one-camera listing is current.",
+      "A compatible existing Blink system can store motion clips locally.",
+      "Two-way audio, 1080p video, and a wide fixed view support simple live check-ins.",
+      "The official FAQ clearly separates free, paid, and extra-hardware behavior."
+    ],
+    "failureModes": [
+      "Local recording requires a separately sold Sync Module 2 and USB drive.",
+      "The fixed camera cannot follow a pet between resting areas.",
+      "Person detection and richer recording features require a subscription.",
+      "Local clip access is slower and more hardware-dependent than in-camera microSD recording."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": false,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 14,
+      "evidenceConfidence": 17,
+      "ownershipLongevity": 10,
+      "meaningfulDifferentiation": 6,
+      "riskAndReturnFit": 6,
+      "demandSignal": 3,
+      "commercialValue": 3,
+      "total": 59
+    },
+    "decision": "reject",
+    "decisionReason": "Reject at 59. Identity and limitations are clear, but the exact one-camera package does not provide local recording by itself, and the added Sync Module 2 and USB drive erase its clean budget slot. The fixed view and paid smart features make it weaker than both the approved default and the held Wyze option.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-07-27",
+    "researchedAt": "2026-07-27",
+    "lastVerifiedAt": "2026-07-27"
+  },
+  {
+    "candidateId": "petgearbench:B0B6GLQJMV",
+    "siteId": "petgearbench",
+    "productName": "Ring Indoor Cam (2nd Gen)",
+    "model": "Indoor Cam (2nd Gen)",
+    "variant": "White, one 1080p plug-in camera with manual privacy cover",
+    "asin": "B0B6GLQJMV",
+    "affiliateUrl": "https://www.amazon.com/dp/B0B6GLQJMV/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Check whether a dog or cat settled while you are away and review useful clips without a mandatory cloud-recording subscription.",
+    "decisionSlot": "compatibility",
+    "bestFor": "An existing Ring household that values one app and accepts a paid Ring plan for saved and replayable clips.",
+    "skipIf": "Avoiding a recording subscription is a hard requirement, you want in-camera local storage, or you need pan-and-tilt pet tracking.",
+    "mainTradeoff": "Live view, motion alerts, and a physical privacy cover are straightforward, but saving and replaying pet clips requires a Ring plan and Ring's local-storage path still requires paid service plus Ring Alarm Pro hardware.",
+    "closestAlternative": "eufy Indoor Cam E30 for local microSD clip review without a required camera plan.",
+    "editorialThesis": "Ring is a clear reject for this problem because ecosystem familiarity does not overcome the mandatory paid recording path.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0B6GLQJMV",
+        "note": "Verified specification: the current listing maps ASIN B0B6GLQJMV to one white Ring Indoor Cam, the newest 1080p plug-in model, with color night vision, motion alerts, two-way audio, and a manual privacy cover.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://ring.com/products/indoor-cam-window-door-sensor",
+        "note": "Manufacturer documentation: Ring's current Indoor Cam (2nd Gen) specifications confirm 1080p live view, motion detection, two-way audio, a manual privacy cover, plug-in power, and 2.4 GHz Wi-Fi.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "manual",
+        "url": "https://ring.com/support/articles/e1siy/Ring-Home-Trial-Information",
+        "note": "Manufacturer documentation: saved, shared, and replayable recorded video is a trial feature, and Ring states that continued video history after the trial requires a compatible paid plan.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://www.tomsguide.com/home/smart-home/i-tested-four-ai-enabled-home-security-cameras-but-this-is-the-one-id-actually-buy",
+        "note": "Independent comparison: the 2nd Gen camera is a compact fixed-view budget device with useful privacy and motion features, but its main value is ecosystem simplicity rather than subscription-free pet clip review.",
+        "checkedAt": "2026-07-27"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official recall check: the CPSC full recall dataset downloaded on 2026-07-27 contained no exact Ring Indoor Cam or ASIN B0B6GLQJMV match. This is a dated database check, not a safety certification.",
+        "checkedAt": "2026-07-27"
+      }
+    ],
+    "strengths": [
+      "The physical privacy cover visibly disables the camera and microphone.",
+      "The current exact white one-camera listing and official 2nd Gen specifications align.",
+      "Live view, two-way audio, motion zones, and Ring ecosystem integration are straightforward.",
+      "Ring clearly documents the trial and ongoing recording-plan requirement."
+    ],
+    "failureModes": [
+      "Saved and replayable video history requires an ongoing Ring plan after the trial.",
+      "The fixed view cannot follow a pet around the room.",
+      "Ring Edge local storage requires additional Ring Alarm Pro hardware and a compatible paid subscription.",
+      "The camera's strongest fit is an existing Ring ecosystem, not the no-subscription reader problem."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": false,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 11,
+      "evidenceConfidence": 17,
+      "ownershipLongevity": 12,
+      "meaningfulDifferentiation": 5,
+      "riskAndReturnFit": 5,
+      "demandSignal": 4,
+      "commercialValue": 3,
+      "total": 57
+    },
+    "decision": "reject",
+    "decisionReason": "Reject at 57. The exact current listing is verifiable and Ring is clear about the paid recording model, but that model directly fails the unresolved reader problem. Existing Ring ownership does not create a distinct enough decision slot to overcome the subscription and fixed-view burden.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-07-27",
+    "researchedAt": "2026-07-27",
+    "lastVerifiedAt": "2026-07-27"
+  },
+  {
+    "candidateId": "petgearbench:B0BH6MD3DJ",
+    "siteId": "petgearbench",
+    "productName": "Whisker Litter-Robot 4 with Step & Fence",
+    "model": "Litter-Robot 4 (LR4)",
+    "variant": "Black, one Litter-Robot 4 with step, fence, and one year of WhiskerCare",
+    "asin": "B0BH6MD3DJ",
+    "affiliateUrl": "https://www.amazon.com/dp/B0BH6MD3DJ/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Reduce daily litter scooping in an apartment without replacing it with an unsafe, cramped, or harder-to-clean routine.",
+    "decisionSlot": "default",
+    "bestFor": "An adult cat that accepts an enclosed globe and an owner with a firm, level 22-by-27-inch station who values established support, replacement parts, and a predictable cleaning routine.",
+    "skipIf": "Your cat avoids enclosed boxes, the 14-inch litter bed is too tight, you cannot leave clearance around a 22-by-27-inch footprint, or the purchase cost would crowd out a manual backup box.",
+    "mainTradeoff": "It has the strongest current support and reliability evidence in this run, but it is expensive, nightstand-sized, and still needs drawer emptying, sensor care, and periodic globe cleaning.",
+    "closestAlternative": "PETKIT PuraMax 2 for a lower, shallower setup that preserves an always-open entrance but is more tedious to empty and deep clean.",
+    "editorialThesis": "Litter-Robot 4 is the default automatic-box candidate only for readers who measure the station first and accept that automation replaces daily scooping with scheduled drawer, sensor, and globe maintenance.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0BH6MD3DJ",
+        "note": "Verified specification: the live Amazon detail page maps B0BH6MD3DJ to the black Litter-Robot 4 package with step, fence, and one year of WhiskerCare.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.whisker.com/litter-robot-4",
+        "note": "Manufacturer claim: the current LR4 page documents a 22-by-27-inch footprint, 29.5-inch height, 15.75-inch entry, firm-surface requirement, SafeCat sensor system, app features, and modular construction.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "manual",
+        "url": "https://www.litter-robot.com/manual_pdf/Litter-Robot-4-Manual-EN-DE-FR-IT_LR4-8018-0B.pdf",
+        "note": "Manufacturer documentation: the official LR4 manual requires a firm level surface, at least a three-pound cat for automatic mode, clearance from walls, compatible clumping litter, and unplugging before service.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://cats.com/litter-robot-4-review",
+        "note": "Independent hands-on finding: multi-unit testing found consistent sifting, useful odor control and sensor behavior, while also documenting the 14-inch litter bed, enclosure rejection by some cats, and ongoing maintenance needs.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official recall check: the CPSC full recall CSV downloaded on 2026-08-03 contained no match for Whisker, Litter-Robot, LR4, or B0BH6MD3DJ. This dated no-match is not a safety certification.",
+        "checkedAt": "2026-08-03"
+      }
+    ],
+    "strengths": [
+      "Exact Amazon package identity and current manufacturer documentation align.",
+      "Laser, weight, anti-pinch, and over-torque systems are documented in official LR4 materials.",
+      "Independent testing covers cat acceptance, sifting, odor, noise, and real cleaning work rather than specifications alone.",
+      "Whisker publishes replacement-part, disassembly, cleaning, and troubleshooting documentation."
+    ],
+    "failureModes": [
+      "A cat that dislikes enclosed boxes or the 14-inch litter bed may refuse it even when the entrance is wide.",
+      "Dust, fur, liners, an uneven floor, or wall contact can affect sensor and drawer readings.",
+      "The 22-by-27-inch body plus the included step requires more usable floor depth than a simple pan.",
+      "Drawer emptying, basic cleaning, quarterly deep cleaning, and a manual fallback still belong in the ownership routine."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 21,
+      "evidenceConfidence": 20,
+      "ownershipLongevity": 14,
+      "meaningfulDifferentiation": 12,
+      "riskAndReturnFit": 11,
+      "demandSignal": 3,
+      "commercialValue": 2,
+      "total": 83
+    },
+    "decision": "approve",
+    "decisionReason": "Approve at 83 for the default slot. Exact identity, official safety and care documentation, current independent testing, parts support, and the dated recall check clear every gate. Approval is conditional on Tuesday re-verification and guide language that states the footprint, enclosed-box fit, three-pound automatic-mode minimum, and real maintenance burden. Commercial value contributes only 2 points.",
+    "activation": {
+      "status": "activated",
+      "activatedAt": "2026-08-04",
+      "guidePath": "/guides/best-automatic-litter-boxes-apartments/"
+    },
+    "sourceRun": "product-discovery:2026-08-03",
+    "researchedAt": "2026-08-03",
+    "lastVerifiedAt": "2026-08-04"
+  },
+  {
+    "candidateId": "petgearbench:B0DFYF2D7D",
+    "siteId": "petgearbench",
+    "productName": "PETKIT PuraMax 2 Automatic Self-Cleaning Cat Litter Box",
+    "model": "P9902",
+    "variant": "Basic Bundle with trash bags, low entrance, and 2.4 GHz Wi-Fi",
+    "asin": "B0DFYF2D7D",
+    "affiliateUrl": "https://www.amazon.com/dp/B0DFYF2D7D/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Reduce daily litter scooping in an apartment without replacing it with an unsafe, cramped, or harder-to-clean routine.",
+    "decisionSlot": "constraint",
+    "bestFor": "A smaller adult cat in a depth-limited apartment station where an always-open entrance, lower body, and support for compatible clumping litter matter more than the easiest possible deep-cleaning routine.",
+    "skipIf": "Your cat is under six months old, prefers a large open pan, needs more interior turning room, or you want litter emptying and deep cleaning to be as simple as the daily cycle.",
+    "mainTradeoff": "The always-open entrance and 21.73-inch depth suit a specific space-and-cat-fit constraint, but independent testing found litter emptying and deep cleaning unusually tedious.",
+    "closestAlternative": "Whisker Litter-Robot 4 for the better-supported default when a 27-inch-deep station and higher purchase cost are acceptable.",
+    "editorialThesis": "PuraMax 2 earns a constraint slot for a smaller adult cat and a shallower station, not a blanket apartment recommendation; the deep-clean routine and interior fit must be explicit.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0DFYF2D7D",
+        "note": "Verified specification: the live Amazon detail page maps B0DFYF2D7D to the PETKIT PuraMax 2 Basic Bundle with app control, safety sensors, trash bags, low entrance, and 2.4 GHz Wi-Fi.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.petkit-eu.com/products/puramax-2-automatic-cat-litter-box-premium",
+        "note": "Manufacturer claim: the exact PuraMax 2 page documents an always-open anti-pinch entrance, 11 sensors, firm-level placement with wall clearance, a 7-liter waste bin, and two sifter options for compatible clumping litter.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "manual",
+        "url": "https://instructions.petkit.com/App%20Manual/T4-2/T4-2_User%20Manual_EN_V1.1_250305_%20.pdf",
+        "note": "Manufacturer documentation: the official manual identifies model P9902, dimensions 24.41 by 21.18 by 21.73 inches, Wi-Fi and BLE, and scope limited to cats older than six months, with detailed safety and cleaning instructions.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://cats.com/petkit-puramax-2-automatic-litter-box-review",
+        "note": "Independent hands-on finding: a current exact-model review found easy setup, effective cycling, an always-open entrance, and successful leak control in testing, but smaller-cat preference and a notably tedious litter-emptying and deep-clean process.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official recall check: the CPSC full recall CSV downloaded on 2026-08-03 contained no match for PETKIT, PuraMax 2, P9902, or B0DFYF2D7D. This dated no-match is not a safety certification.",
+        "checkedAt": "2026-08-03"
+      }
+    ],
+    "strengths": [
+      "The exact Amazon Basic Bundle, official P9902 manual, and manufacturer page align.",
+      "The entrance remains open during rotation and official materials document proximity and weight sensors.",
+      "At 21.73 inches deep, the body fits a different apartment station than the 27-inch-deep LR4.",
+      "Current independent testing covers leak control, cat acceptance, daily cycling, and the deep-clean process."
+    ],
+    "failureModes": [
+      "A larger cat or a cat that prefers an open pan may reject the enclosed interior.",
+      "Cats under six months are outside the manual's automatic-use scope.",
+      "Removing all litter and deep cleaning requires an extra magnetic piece and more handling than competing models.",
+      "Soft stool, unsuitable litter, wall contact, or an uneven floor can reduce cleanliness or sensor accuracy."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 22,
+      "evidenceConfidence": 19,
+      "ownershipLongevity": 11,
+      "meaningfulDifferentiation": 11,
+      "riskAndReturnFit": 11,
+      "demandSignal": 3,
+      "commercialValue": 2,
+      "total": 79
+    },
+    "decision": "approve",
+    "decisionReason": "Approve at 79 for a narrow constraint slot. The exact P9902 Basic Bundle, current manual, independent testing, and dated recall search clear the gates, while the shallower body and always-open entrance add decision coverage distinct from LR4. Tuesday must reverify the bundle and keep the smaller-cat fit and tedious deep-cleaning tradeoff prominent. Commercial value contributes only 2 points.",
+    "activation": {
+      "status": "activated",
+      "activatedAt": "2026-08-04",
+      "guidePath": "/guides/best-automatic-litter-boxes-apartments/"
+    },
+    "sourceRun": "product-discovery:2026-08-03",
+    "researchedAt": "2026-08-03",
+    "lastVerifiedAt": "2026-08-04"
+  },
+  {
+    "candidateId": "petgearbench:B0D4GHS7V6",
+    "siteId": "petgearbench",
+    "productName": "PetSafe ScoopFree SmartSpin Self-Cleaning Litter Box",
+    "model": "PAL00-17985",
+    "variant": "White, app-controlled SmartSpin single unit",
+    "asin": "B0D4GHS7V6",
+    "affiliateUrl": "https://www.amazon.com/dp/B0D4GHS7V6/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Reduce daily litter scooping in an apartment without replacing it with an unsafe, cramped, or harder-to-clean routine.",
+    "decisionSlot": "maintenance",
+    "bestFor": "A smaller adult cat and an owner prioritizing a compact footprint, smooth removable parts, and a simpler deep-clean path over approach detection and large-cat interior room.",
+    "skipIf": "Your cat is under six months, has mobility trouble with a roughly 12-inch entry, is large-bodied, or you require the cycle to stop when a cat merely approaches rather than enters the globe.",
+    "mainTradeoff": "It is compact and easier to disassemble than several rivals, but current testing found limited large-cat room, substantial initial assembly, mixed owner reliability, and no approach-level stop behavior.",
+    "closestAlternative": "PETKIT PuraMax 2 for an always-open entrance with stronger approach sensing, or Litter-Robot 4 for the better-supported default.",
+    "editorialThesis": "SmartSpin is a credible maintenance-first alternative, but its current sensor behavior and mixed ownership evidence are not strong enough for approval.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0D4GHS7V6",
+        "note": "Verified specification: the live Amazon page maps B0D4GHS7V6 to one white PetSafe ScoopFree SmartSpin with app control and cat weight and usage monitoring.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://support.petsafe.net/product-support/scoopfree-smartspin-self-cleaning-litter-box/",
+        "note": "Manufacturer claim: the current support page lists model PAL00-17985 and documents a six-liter drawer, 12-inch entry, cat-exit sensing, smooth removable parts, app monitoring, and clumping-litter preference.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "manual",
+        "url": "https://cdn.sanity.io/files/d075r9p6/production/cf8710e7a43fdf462cbeb47ef6f07a74f41778c8.pdf",
+        "note": "Manufacturer documentation: the official SmartSpin guide identifies PAL00-17985, requires manual mode until a kitten is both six months old and 2.5 pounds, documents weight-triggered entry sensing, and shows the full assembly and cleaning process.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://cats.com/petsafe-scoopfree-smartspin-review",
+        "note": "Independent hands-on finding: month-long multi-cat testing found a compact 20.9-by-18.9-inch footprint, easy disassembly, quiet cycling, and a simple app, but limited large-cat room, difficult assembly, mixed reliability reports, and no stop until a cat enters.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official recall check: the CPSC full recall CSV downloaded on 2026-08-03 contained no SmartSpin, PAL00-17985, or B0D4GHS7V6 match. A 2010 PetSafe recall concerns an unrelated heated-bed adapter. This is not a safety certification.",
+        "checkedAt": "2026-08-03"
+      }
+    ],
+    "strengths": [
+      "The exact Amazon listing and official PAL00-17985 documentation align.",
+      "Its 20.9-by-18.9-inch tested footprint is the smallest of the fully verified models in this run.",
+      "Smooth removable components make deep cleaning more approachable.",
+      "The official manual states kitten limits, assembly, sensor behavior, and cleaning steps clearly."
+    ],
+    "failureModes": [
+      "The weight-triggered system may not stop merely because a cat approaches the rotating globe.",
+      "A roughly 12-inch entry and constrained interior can be a poor fit for senior, disabled, or large cats.",
+      "Initial sphere assembly has many pieces and current owners report sifter, app, and mess failures alongside successful use.",
+      "The drum does not self-empty for deep cleaning and some litter types or soft waste can stick."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 20,
+      "evidenceConfidence": 18,
+      "ownershipLongevity": 10,
+      "meaningfulDifferentiation": 10,
+      "riskAndReturnFit": 9,
+      "demandSignal": 3,
+      "commercialValue": 2,
+      "total": 72
+    },
+    "decision": "hold",
+    "decisionReason": "Hold at 72. The compact footprint and easier deep-clean path are useful, but current hands-on evidence identifies an approach-detection gap, limited large-cat fit, and mixed assembly and reliability outcomes. A longer exact-model ownership pattern or clearer approach-sensor behavior is needed before approval.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-03",
+    "researchedAt": "2026-08-03",
+    "lastVerifiedAt": "2026-08-03"
+  },
+  {
+    "candidateId": "petgearbench:B0CSKBWBF6",
+    "siteId": "petgearbench",
+    "productName": "Neakasa M1 Plus Open-Top Self-Cleaning Cat Litter Box",
+    "model": "M1 Plus / PS0120 family",
+    "variant": "Gray M1 Plus with litter mat and two rolls of refill bags",
+    "asin": "B0CSKBWBF6",
+    "affiliateUrl": "https://www.amazon.com/dp/B0CSKBWBF6/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Reduce daily litter scooping in an apartment without replacing it with an unsafe, cramped, or harder-to-clean routine.",
+    "decisionSlot": "constraint",
+    "bestFor": "A large or enclosure-averse adult cat whose owner is prepared for open-top litter scatter and can verify that the delivered unit is the current M1 Plus hardware before use.",
+    "skipIf": "You cannot confirm the delivered hardware version, want low litter scatter, need strong domestic parts support, or expect a public manufacturer explanation of the safety-related gear and sensor changes.",
+    "mainTradeoff": "The open top offers unusually generous cat room, but current evidence conflicts on Amazon fulfillment, safety-version identification, sensor longevity, litter scatter, and replacement support.",
+    "closestAlternative": "Litter-Robot 4 for stronger identity, support, and long-term evidence if the cat accepts an enclosed globe.",
+    "editorialThesis": "The M1 Plus solves a real large-cat and open-top constraint, but it must not enter a recommendation until exact delivered-unit identity and the safety-version transition are independently verifiable.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0CSKBWBF6",
+        "note": "Verified listing identity with limitation: Amazon search mapped B0CSKBWBF6 to the gray M1 Plus package with mat and two refill-bag rolls, but the direct detail page did not reliably render during the check and current owners report variant fulfillment conflicts.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://neakasa.com/products/neakasa-m1-cat-litter-box",
+        "note": "Manufacturer claim: the current M1 Plus page documents six infrared sensor sets, four weight sensors, a controlled-rotation gear, 20.67-by-23.26-by-20.2-inch dimensions, and open-top room for cats up to about 33 pounds.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "manual",
+        "url": "https://cdn.shopify.com/s/files/1/0600/4736/0185/files/Neakasa_M1_Manual.pdf?v=1706772466",
+        "note": "Manufacturer documentation with limitation: the manual linked from the current M1 Plus page is labeled Neakasa M1 rather than M1 Plus and documents kitten mode, level placement, litter limits, calibration, and cleaning without a clear current-hardware identifier.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://neakasa.com/blogs/news-and-events/important-notice-beware-of-fake-neakasa-m1-listings",
+        "note": "Manufacturer warning: Neakasa says counterfeit M1 offers exist on Amazon and tells buyers to use the Neakasa Official store, adding a seller-verification burden to exact-product identity.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.reddit.com/r/neakasa/comments/1qlxmz9/ordered_m1_plus_from_neakasas_store_front_on/",
+        "note": "Owner-reported pattern: a current buyer says an order from the Neakasa Amazon storefront advertised as M1 Plus arrived as an original M1 and support said direct purchase was the only definite M1 Plus path. This unverified report is a blocker, not proof about every order.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official recall check: the CPSC full recall CSV downloaded on 2026-08-03 contained no Neakasa, M1, M1 Plus, PS0120, or B0CSKBWBF6 match. The no-match does not resolve current hardware-version or owner-reported safety concerns and is not a certification.",
+        "checkedAt": "2026-08-03"
+      }
+    ],
+    "strengths": [
+      "The open-top pan provides substantially more visible turning room than enclosed-globe models.",
+      "The official current product page documents six infrared sensor sets, four weight sensors, and a controlled-rotation design.",
+      "The 20.2-inch body height may fit under surfaces that cannot accommodate taller enclosed robots.",
+      "The exact M1 Plus package is named in the current Amazon search result and manufacturer catalog."
+    ],
+    "failureModes": [
+      "The current Amazon detail page was not consistently readable and recent owner evidence alleges M1-for-M1-Plus fulfillment even through the branded storefront.",
+      "The manual linked from the M1 Plus page is still labeled M1 and does not provide a simple delivered-unit safety-version check.",
+      "Open-top use can create substantial litter scatter and current owner reports conflict on sensors, liners, bags, and support.",
+      "A CPSC no-match cannot resolve non-public incidents or substitute for exact hardware-version evidence."
+    ],
+    "hardGates": {
+      "asinVerified": false,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": false,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 22,
+      "evidenceConfidence": 13,
+      "ownershipLongevity": 7,
+      "meaningfulDifferentiation": 13,
+      "riskAndReturnFit": 3,
+      "demandSignal": 4,
+      "commercialValue": 2,
+      "total": 64
+    },
+    "decision": "reject",
+    "decisionReason": "Reject at 64 despite strong open-top fit. The current listing, linked manual, owner fulfillment report, counterfeit warning, and publicly unexplained hardware transition do not establish that a buyer will receive the current M1 Plus safety version. A dated CPSC no-match cannot repair that hard-gate failure, and commercial value contributes only 2 points.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-03",
+    "researchedAt": "2026-08-03",
+    "lastVerifiedAt": "2026-08-03"
+  },
+  {
+    "candidateId": "petgearbench:B0HB41VTJX",
+    "siteId": "petgearbench",
+    "productName": "Casa Leo Leo's Loo Too Automatic Self-Cleaning Cat Litter Box",
+    "model": "Leo's Loo Too / 3753 family",
+    "variant": "Single-unit current Amazon listing; color is not exposed in the current detail-page title",
+    "asin": "B0HB41VTJX",
+    "affiliateUrl": "https://www.amazon.com/dp/B0HB41VTJX/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Reduce daily litter scooping in an apartment without replacing it with an unsafe, cramped, or harder-to-clean routine.",
+    "decisionSlot": "other",
+    "bestFor": "A smaller adult cat in a noise-sensitive apartment where quiet cycling and an enclosed waste drawer matter, after the exact current color and package are reverified.",
+    "skipIf": "Your cat is large or enclosure-averse, you need a fully verified Amazon color/package, or mixed long-term reports about sensors, error states, parts, and support are unacceptable.",
+    "mainTradeoff": "It is quiet and comparatively tidy, but the interior is cramped for some cats, the current Amazon ASIN is newly redirected, and long-term owner evidence conflicts on reliability and support.",
+    "closestAlternative": "PETKIT PuraMax 2 for stronger current exact-model evidence or Litter-Robot 4 for the established default.",
+    "editorialThesis": "Leo's Loo Too is a plausible quiet-apartment slot, but current listing continuity and mixed long-term ownership evidence require a hold.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0HB41VTJX",
+        "note": "Verified listing identity with limitation: Amazon redirected the prior Leo's Loo Too ASIN to B0HB41VTJX and identified the current single-unit Casa Leo product, but the page title did not expose the color or a model-number field.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://casaleopet.com/",
+        "note": "Manufacturer claim: the current Leo's Loo Too page documents 30 dB cycling, a 9.5-liter drawer, weight detection, app controls, and current color options, while making broader safety and odor claims that this research does not repeat as verified facts.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "manual",
+        "url": "https://media.tractorsupply.com/is/content/TractorSupplyCompany/tsc/product/2/27/42/86/2274286_Man1.pdf",
+        "note": "Manufacturer documentation: the Leo's Loo Too manual requires clumping clay litter, a solid level surface, weekly drawer emptying for one cat, 2.4 GHz Wi-Fi, dry electronics, and manual handling for cats at or below one pound.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.chewy.com/casa-leo-leos-loo-too-wifi-enabled/product-reviews/355654",
+        "note": "Owner-reported pattern: current multi-year reviews praise quiet cycling, odor control, and successful warranty repairs, while other owners report recurring error mode, sensor or part failures, app legibility, and slow or ineffective support.",
+        "checkedAt": "2026-08-03"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official recall check: the CPSC full recall CSV downloaded on 2026-08-03 contained no Casa Leo, Smarty Pear, Leo's Loo Too, model 3753, or B0HB41VTJX match. This dated no-match is not a safety certification.",
+        "checkedAt": "2026-08-03"
+      }
+    ],
+    "strengths": [
+      "Current official documentation covers setup, safety limits, litter, drawer maintenance, and Wi-Fi behavior.",
+      "The enclosed design and current owner reports support a quiet, lower-scatter apartment use case.",
+      "Several current owners report multi-year service and successful repairs.",
+      "The current Amazon page resolves to a specific Casa Leo Leo's Loo Too product rather than a generic category listing."
+    ],
+    "failureModes": [
+      "The current Amazon ASIN is newly redirected and does not expose color or a model number in the page title.",
+      "The smaller enclosed opening and interior can cause refusal or cramped use for larger cats.",
+      "Current owner evidence conflicts sharply on sensors, error states, replacement parts, and warranty support.",
+      "Manufacturer safety and odor superlatives exceed what this research can independently verify."
+    ],
+    "hardGates": {
+      "asinVerified": false,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 18,
+      "evidenceConfidence": 15,
+      "ownershipLongevity": 8,
+      "meaningfulDifferentiation": 10,
+      "riskAndReturnFit": 8,
+      "demandSignal": 4,
+      "commercialValue": 3,
+      "total": 66
+    },
+    "decision": "hold",
+    "decisionReason": "Hold at 66. The quiet, lower-scatter use case is distinct and current owner history is substantial, but the new redirected ASIN does not expose the exact color or model number and long-term support evidence conflicts. Reconsider only after the current package is stable and its ownership pattern can be tied to that exact listing.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-03",
+    "researchedAt": "2026-08-03",
+    "lastVerifiedAt": "2026-08-03"
+  },
+  {
+    "candidateId": "petgearbench:B000AYN7LU",
+    "siteId": "petgearbench",
+    "productName": "KONG Classic Stuffable Dog Toy",
+    "model": "T2 / T2E",
+    "variant": "Medium, red, standard packaging, pack of one",
+    "asin": "B000AYN7LU",
+    "affiliateUrl": "https://www.amazon.com/dp/B000AYN7LU/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Give a food-motivated adult dog a short supervised indoor enrichment session without relying on a plush toy or implying that any toy is safe unattended.",
+    "decisionSlot": "compatibility",
+    "bestFor": "An average-chewing dog in the manufacturer's 15-to-35-pound medium-size range whose owner wants a compact fill-and-freeze rubber toy and will inspect it after every session.",
+    "skipIf": "Your dog is a power chewer, you need unattended enrichment, or current owner reports of early tearing, surface residue, and odor make the material-quality uncertainty unacceptable.",
+    "mainTradeoff": "The familiar stuffable shape is compact and easy to rotate through the freezer, but current owner reports conflict with the broad durability reputation and require close inspection and prompt disposal after damage.",
+    "closestAlternative": "West Paw Toppl Large for a more open, easier-to-fill frozen-food format with an equally explicit supervision requirement.",
+    "editorialThesis": "The current medium red KONG is a plausible size-specific replacement for the site's drifted KONG row, but it should stay on hold until recent material and early-failure reports are better resolved.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B000AYN7LU",
+        "note": "Verified specification: the current Amazon detail page identifies ASIN B000AYN7LU as the KONG Classic natural-rubber stuffable toy for medium dogs, with Medium (Pack of 1) selected and item model T2E.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.kongcompany.com/kong-classic/",
+        "note": "Manufacturer documentation: the current KONG page maps the medium red Classic to SKU T2 and UPC 035585111216, sizes it for 15-to-35-pound dogs, and requires supervised use, disposal after damage, and a larger or Extreme toy for power chewers.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.chewy.com/kong-classic-dog-toy/dp/38484",
+        "note": "Owner-reported pattern: the current medium-product review corpus includes successful frozen-food sessions, but repeated 2025-2026 reports describe early tearing, chalky or powdery surfaces, chemical odor, and lower perceived durability than older units. These reports are not proof about every unit.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official recall check: the CPSC full recall CSV downloaded on 2026-08-10, last modified 2026-07-31, contained no exact KONG Classic, T2/T2E, B000AYN7LU, or KONG Company dog-toy match. This dated no-match is not a safety certification and does not resolve owner-reported quality concerns.",
+        "checkedAt": "2026-08-10"
+      }
+    ],
+    "strengths": [
+      "The exact current Amazon child ASIN, medium selection, red color, and T2E model are identifiable.",
+      "The manufacturer publishes current size guidance and explicit supervision, damage-discard, and power-chewer warnings.",
+      "The compact opening supports stuffed or frozen food without adding moving parts.",
+      "The medium variant earns a specific compatibility slot rather than a generic indestructible-toy claim."
+    ],
+    "failureModes": [
+      "A power chewer can tear or remove rubber, creating an ingestion risk if the toy is not taken away promptly.",
+      "Current owners report inconsistent surface finish, odor, and durability across recent units.",
+      "The narrow opening can be slower to fill and clean than an open-cup design.",
+      "No toy should be presented as safe for unattended use, even when a prior unit lasted for years."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 24,
+      "evidenceConfidence": 16,
+      "ownershipLongevity": 10,
+      "meaningfulDifferentiation": 12,
+      "riskAndReturnFit": 10,
+      "demandSignal": 4,
+      "commercialValue": 3,
+      "total": 79
+    },
+    "decision": "hold",
+    "decisionReason": "Hold at 79 despite clearing the numerical approval threshold. The exact medium red T2/T2E variant and affiliate URL are current, but recent owner evidence conflicts with the broad durability expectation through early tearing, residue, and odor reports. That unresolved claim gate matters more than commercial value, which contributes only 3 points.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-10",
+    "researchedAt": "2026-08-10",
+    "lastVerifiedAt": "2026-08-10"
+  },
+  {
+    "candidateId": "petgearbench:B00N54E9MI",
+    "siteId": "petgearbench",
+    "productName": "West Paw Zogoflex Toppl Treat Toy",
+    "model": "ZG084AQA",
+    "variant": "Large, Aqua Blue, one toy",
+    "asin": "B00N54E9MI",
+    "affiliateUrl": "https://www.amazon.com/dp/B00N54E9MI/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Give a food-motivated adult dog a short supervised indoor enrichment session without relying on a plush toy or implying that any toy is safe unattended.",
+    "decisionSlot": "default",
+    "bestFor": "A moderate chewer whose owner wants a wide-opening, dishwasher-safe toy for wet, dry, or frozen food and can remove it as soon as the food is gone.",
+    "skipIf": "Your dog is a power chewer that targets rims, you need a toy that is safe unattended, or the large 3/4-cup size is poorly matched to the dog's mouth or food allowance.",
+    "mainTradeoff": "The open cup is easier to fill and clean than a narrow rubber cavity, but the exposed rim gives determined chewers an edge to damage and liquid fillings can leak through the side hole without a separate stopper.",
+    "closestAlternative": "KONG Classic Medium for a narrower, more compact rubber cavity, after its current quality evidence is resolved.",
+    "editorialThesis": "Toppl Large is the strongest researched default for supervised fill-and-freeze enrichment because current identity, use limits, cleaning guidance, and owner failures are all specific enough to make a bounded recommendation.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B00N54E9MI",
+        "note": "Verified specification: the current Amazon detail page identifies ASIN B00N54E9MI as the West Paw Zogoflex Toppl in the Large, Aqua Blue variant for kibble, treats, licking, freezing, and top-rack dishwasher cleaning.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.westpaw.com/products/toppl-treat-toy",
+        "note": "Manufacturer documentation: the current Toppl page identifies the Large as a 3/4-cup, 3.5-by-4-by-3.5-inch toy for moderate chewers; it supports filling, freezing, and top-rack dishwashing and explicitly says no dog toy is indestructible, supervision is required, and damaged toys must be removed.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.chewy.com/west-paw-zogoflex-toppl-tough-treat/product-reviews/109833",
+        "note": "Owner-reported pattern: current reviews repeatedly describe successful frozen-food sessions and easy loading, while power-chewer owners report chipping at the exposed rim, sometimes on first use. Owners commonly remove the empty toy rather than leave it available for chewing.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official recall check: the CPSC full recall CSV downloaded on 2026-08-10, last modified 2026-07-31, contained no exact West Paw, Zogoflex Toppl, ZG084AQA, or B00N54E9MI match. This dated no-match is not a safety certification.",
+        "checkedAt": "2026-08-10"
+      }
+    ],
+    "strengths": [
+      "The exact Large Aqua Blue Amazon child ASIN is current and matches the manufacturer product family.",
+      "The wide opening supports wet, dry, and frozen fillings with less loading friction than a narrow cavity.",
+      "Top-rack dishwasher guidance and a simple one-piece body reduce routine cleaning burden.",
+      "The manufacturer and current owners agree on the critical limit: it is a supervised moderate-chewer toy, not an indestructible chew."
+    ],
+    "failureModes": [
+      "Power chewers can chip or remove pieces from the exposed rim.",
+      "The side opening can leak thin mixtures during filling or freezing unless the owner uses a separate stopper or a thicker mixture.",
+      "A single Large Toppl is an open licking vessel; linking sizes for rolling treat play requires another purchase.",
+      "Its 3/4-cup capacity can encourage overfeeding unless the filling is counted within the dog's normal food allowance."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 24,
+      "evidenceConfidence": 19,
+      "ownershipLongevity": 13,
+      "meaningfulDifferentiation": 14,
+      "riskAndReturnFit": 12,
+      "demandSignal": 4,
+      "commercialValue": 3,
+      "total": 89
+    },
+    "decision": "approve",
+    "decisionReason": "Approve at 89 for the default supervised fill-and-freeze slot. The exact Large Aqua Blue listing, current manufacturer specifications and warnings, current owner pattern, and official recall check align. The recommendation must remain bounded to moderate chewers under active supervision, with removal after food is gone; commercial value contributes only 3 points.",
+    "activation": {
+      "status": "activated",
+      "activatedAt": "2026-08-11",
+      "guidePath": "/guides/best-indoor-dog-toys-working-owners/"
+    },
+    "sourceRun": "product-discovery:2026-08-10",
+    "researchedAt": "2026-08-10",
+    "lastVerifiedAt": "2026-08-11"
+  },
+  {
+    "candidateId": "petgearbench:B003ALMW0M",
+    "siteId": "petgearbench",
+    "productName": "KONG Wobbler Treat-Dispensing Dog Toy",
+    "model": "PW1 / Amazon item PW1E",
+    "variant": "Large, red, one toy for medium and large dogs",
+    "asin": "B003ALMW0M",
+    "affiliateUrl": "https://www.amazon.com/dp/B003ALMW0M/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Give a food-motivated adult dog a short supervised indoor enrichment session without relying on a plush toy or implying that any toy is safe unattended.",
+    "decisionSlot": "maintenance",
+    "bestFor": "A medium or large dog that bats rather than chews a hard-plastic kibble dispenser, on a clear floor and under uninterrupted supervision.",
+    "skipIf": "Your dog paws into openings, chews hard plastic, is easily frustrated by low food release, or you need quiet apartment play or any unattended-use option.",
+    "mainTradeoff": "The screw-apart, dishwasher-safe body is easy to refill and clean, but it is noisy on hard floors and repeated current owner reports describe toes becoming trapped in the dispensing opening.",
+    "closestAlternative": "West Paw Toppl Large for a softer, open fill-and-freeze routine without a paw-level dispensing hole.",
+    "editorialThesis": "The Wobbler's cleaning and dry-kibble workflow are strong, but unresolved toe-entrapment reports make it unsuitable for recommendation in this supervised indoor shortlist.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B003ALMW0M",
+        "note": "Verified specification: the current Amazon detail page identifies ASIN B003ALMW0M as the large KONG Wobbler for medium and large dogs, item model PW1E, with a 7.5-inch height and hard-plastic wobbling form.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.kongcompany.com/wobbler/",
+        "note": "Manufacturer documentation: the current large Wobbler is SKU PW1, UPC 035585034003, a screw-apart top-rack-dishwasher-safe dry-food dispenser. KONG states that it is not a chew toy, requires supervised use, and must be discontinued if damaged.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.chewy.com/kong-wobbler-dog-toy/product-reviews/44086",
+        "note": "Owner-reported pattern: current 2025-2026 reviews include successful slower meals and easy cleaning, but multiple separate reports describe a toe becoming trapped in the dispensing hole, alongside noise, frustration, and dogs chewing through the top. These reports are not an official incident determination.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official recall check: the CPSC full recall CSV downloaded on 2026-08-10, last modified 2026-07-31, contained no exact KONG Wobbler, PW1/PW1E, or B003ALMW0M match. The no-match does not resolve the repeated owner-reported toe-entrapment pattern and is not a safety certification.",
+        "checkedAt": "2026-08-10"
+      }
+    ],
+    "strengths": [
+      "The exact large ASIN and PW1/PW1E identity are current and consistent across Amazon and KONG.",
+      "The top unscrews for filling and top-rack dishwasher cleaning.",
+      "The weighted shape returns upright and dispenses dry food when pushed.",
+      "Current owners report that it can extend meals for dogs that learn to bat it appropriately."
+    ],
+    "failureModes": [
+      "Multiple current owner reports describe a paw or toe becoming stuck in the dispensing opening.",
+      "Hard plastic striking cabinets, walls, or flooring is noisy and can damage an apartment interior.",
+      "Dogs that bite instead of bat can damage the plastic or unscrew the body.",
+      "Some dogs receive too little feedback from the opening and abandon the toy."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": false,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 21,
+      "evidenceConfidence": 15,
+      "ownershipLongevity": 9,
+      "meaningfulDifferentiation": 12,
+      "riskAndReturnFit": 5,
+      "demandSignal": 4,
+      "commercialValue": 2,
+      "total": 68
+    },
+    "decision": "reject",
+    "decisionReason": "Reject at 68. Exact identity and maintenance advantages do not overcome repeated current toe-entrapment reports in a toy designed to be pawed. The official recall dataset has no exact match, but a no-match is not evidence that the owner pattern is harmless. The unresolved safety hard gate controls the decision; commercial value contributes only 2 points.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-10",
+    "researchedAt": "2026-08-10",
+    "lastVerifiedAt": "2026-08-10"
+  },
+  {
+    "candidateId": "petgearbench:B001JQLNB4",
+    "siteId": "petgearbench",
+    "productName": "Starmark Treat Dispensing Bob-A-Lot",
+    "model": "SMBAL",
+    "variant": "Large, yellow/green/purple, one toy",
+    "asin": "B001JQLNB4",
+    "affiliateUrl": "https://www.amazon.com/dp/B001JQLNB4/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Give a food-motivated adult dog a short supervised indoor enrichment session without relying on a plush toy or implying that any toy is safe unattended.",
+    "decisionSlot": "other",
+    "bestFor": "A dog that benefits from adjustable dry-kibble release and has a clear, damage-tolerant play area where a heavy wobbling toy will not strike furniture or walls.",
+    "skipIf": "You live in a noise-sensitive apartment, need quick loading and thorough daily cleaning, or your dog chews the cap after the food is gone.",
+    "mainTradeoff": "Two adjustable openings can tune food release, but the large weighted body is noisy and awkward around furniture, while current owners repeatedly describe slow filling and difficult cleaning.",
+    "closestAlternative": "West Paw Toppl Large for simpler cleaning and frozen-food use, or KONG Wobbler if its separate safety concern is ever resolved.",
+    "editorialThesis": "Bob-A-Lot is meaningfully adjustable, but its apartment impact, cleaning burden, and limited current manufacturer product documentation keep it below recommendation quality.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B001JQLNB4",
+        "note": "Verified specification: the current Amazon detail page identifies ASIN B001JQLNB4 as the large yellow/green/purple Starmark Bob-A-Lot, a one-unit weighted interactive dispenser in the SMBAL family.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.starmarkacademy.com/wp-content/uploads/2023/09/Starmark-Covered-MAP-Bulletin_092723.pdf",
+        "note": "Manufacturer identity evidence with freshness limitation: Starmark's official bulletin maps Treat Dispensing Bob-A-Lot Large to UPC 837199000812 and model SMBAL. The exact document is dated 2023 and the current manufacturer site does not expose an equally complete product page, so it is insufficient for approval by itself.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.chewy.com/starmark-treat-dispensing-bob-lot-dog/product-reviews/45490",
+        "note": "Owner-reported pattern: current 2026 reviews describe sustained engagement and useful adjustable release, but repeatedly flag slow filling, difficult cleaning, heavy impacts against walls or furniture, noise, and chewing at the lid once empty.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official recall check: the CPSC full recall CSV downloaded on 2026-08-10, last modified 2026-07-31, contained no exact Starmark Bob-A-Lot, SMBAL, or B001JQLNB4 match. This dated no-match is not a safety certification.",
+        "checkedAt": "2026-08-10"
+      }
+    ],
+    "strengths": [
+      "The exact Amazon ASIN, large color variant, and SMBAL family are identifiable.",
+      "Two adjustable gates can tune both chamber flow and final food release.",
+      "The weighted base reduces the chance of rolling straight under furniture.",
+      "Current owners report repeated engagement for food-motivated dogs."
+    ],
+    "failureModes": [
+      "The weighted body can strike walls, cabinets, furniture, and feet during indoor play.",
+      "The narrow fill path is slow for full meals.",
+      "Owners report that the internal construction is harder to clean thoroughly than screw-apart or one-piece alternatives.",
+      "Dogs may chew the cap or lid after the food is gone, requiring immediate removal."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 20,
+      "evidenceConfidence": 15,
+      "ownershipLongevity": 9,
+      "meaningfulDifferentiation": 10,
+      "riskAndReturnFit": 8,
+      "demandSignal": 4,
+      "commercialValue": 2,
+      "total": 68
+    },
+    "decision": "hold",
+    "decisionReason": "Hold at 68. Adjustable release is a real distinction, but the current owner pattern makes the heavy, noisy, slow-to-fill, difficult-to-clean design a weak apartment recommendation, and the best exact manufacturer identity document is stale. Revisit only if current official product documentation and a cleaning-safe use case close those gaps; commercial value contributes only 2 points.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-10",
+    "researchedAt": "2026-08-10",
+    "lastVerifiedAt": "2026-08-10"
+  },
+  {
+    "candidateId": "petgearbench:B00EE1660O",
+    "siteId": "petgearbench",
+    "productName": "Planet Dog / Outward Hound Orbee-Tuff Snoop",
+    "model": "Large Snoop family; exact current color SKU unresolved",
+    "variant": "Large single toy; current Amazon color and package identity unresolved",
+    "asin": "B00EE1660O",
+    "affiliateUrl": "https://www.amazon.com/dp/B00EE1660O/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Give a food-motivated adult dog a short supervised indoor enrichment session without relying on a plush toy or implying that any toy is safe unattended.",
+    "decisionSlot": "constraint",
+    "bestFor": "A moderate chewer that prefers a flexible, quieter dry-treat dispenser, only after the exact Amazon color and current branded package can be tied to this ASIN.",
+    "skipIf": "You need a verified exact Amazon variant now, feed wet food, have multiple dogs that cannot share scattered treats safely, or your dog rapidly tears flexible rubber.",
+    "mainTradeoff": "The flexible crevice can be quieter and more approachable than a hard-plastic wobbler, but the exact Amazon page was blocked and current sources do not consistently tie B00EE1660O to one color and branded package.",
+    "closestAlternative": "West Paw Toppl Large for a fully verified current large flexible enrichment toy, especially for wet or frozen food.",
+    "editorialThesis": "Snoop may fill a quieter dry-treat constraint, but current Amazon variant identity is too uncertain to recommend or activate.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B00EE1660O",
+        "note": "Evidence blocker: the exact Amazon URL returned an automated-access challenge on 2026-08-10, so the page did not expose a current title, color, model, package, or featured-offer state. Historical indexed results associate this ASIN with the large Snoop family but conflict on color; no exact variant was inferred.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://outwardhound.com/think-n-thrive/",
+        "note": "Manufacturer family evidence: the current Outward Hound catalog lists Planet Dog Orbee-Tuff Snoop Large as a current treat-dispensing product, but the page does not map B00EE1660O to a single color or package SKU.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.chewy.com/planet-dog-orbee-tuff-snoop-treat/dp/103060",
+        "note": "Owner-reported pattern: current reviews describe engaging dry-kibble or treat play and a quieter flexible body, while also reporting food scatter, wear, and easy destruction for some chewers. This product-family evidence does not resolve the Amazon color/package identity.",
+        "checkedAt": "2026-08-10"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official recall check: the CPSC full recall CSV downloaded on 2026-08-10, last modified 2026-07-31, contained no exact Orbee-Tuff Snoop, Planet Dog Snoop, B00EE1660O, or Outward Hound dog-toy match. This dated no-match is not a safety certification and cannot establish variant identity.",
+        "checkedAt": "2026-08-10"
+      }
+    ],
+    "strengths": [
+      "The current manufacturer catalog confirms that the large Snoop product family still exists.",
+      "The flexible crevice creates a distinct dry-treat interaction from an open frozen-food cup.",
+      "Current owner reports support repeated engagement for some dogs.",
+      "The softer body may reduce hard-floor impact noise compared with weighted plastic wobblers."
+    ],
+    "failureModes": [
+      "The exact Amazon ASIN could not be tied to one current color, model code, package, or featured offer.",
+      "Dry food can scatter under appliances or into multi-dog spaces.",
+      "Current owners report that determined chewers can wear through or destroy the flexible body.",
+      "Wet food is a poor fit for the dispensing crevice and the toy must be removed when damaged."
+    ],
+    "hardGates": {
+      "asinVerified": false,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 18,
+      "evidenceConfidence": 9,
+      "ownershipLongevity": 10,
+      "meaningfulDifferentiation": 11,
+      "riskAndReturnFit": 9,
+      "demandSignal": 3,
+      "commercialValue": 2,
+      "total": 62
+    },
+    "decision": "hold",
+    "decisionReason": "Hold at 62. The quieter flexible-dispenser slot is plausible, but the exact Amazon detail page was blocked and current sources do not consistently map B00EE1660O to one color and branded package. The ASIN and claim hard gates remain closed; commercial value contributes only 2 points and cannot compensate.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-10",
+    "researchedAt": "2026-08-10",
+    "lastVerifiedAt": "2026-08-10"
+  },
+  {
+    "candidateId": "petgearbench:B08JQT939P",
+    "siteId": "petgearbench",
+    "productName": "Sleepypod Clickit Sport Plus",
+    "model": "CSX-CHR-L",
+    "variant": "Large, Charcoal Grey, one harness with S-Clip and Buckle Shield",
+    "asin": "B08JQT939P",
+    "affiliateUrl": "https://www.amazon.com/dp/B08JQT939P/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Keep a medium-to-large dog restrained on the rear seat during car rides without treating a hammock or ordinary walking harness as crash protection.",
+    "decisionSlot": "safety",
+    "bestFor": "A 28.5-to-34-inch-girth dog whose owner will measure carefully, train the loading routine, thread the vehicle belt through both side loops, and use the rear seat only.",
+    "skipIf": "Your dog is under 18 pounds, falls outside the Large girth range, backs out of harnesses, cannot tolerate a close padded vest, or you need a currently available featured Amazon offer.",
+    "mainTradeoff": "It has the clearest independent crash-test evidence in this set, but fit and belt routing are less forgiving than a tethered harness, owners report strap loosening or escape when fit drifts, and the exact variant currently has no featured Amazon offer while the manufacturer lists its colors sold out.",
+    "closestAlternative": "Ruffwear Load Up Medium for more standing and lying freedom on long rides, accepting that Ruffwear says its design would not meet the Center for Pet Safety excursion limits.",
+    "editorialThesis": "Clickit Sport Plus is the evidence leader for crash restraint, but recommendation should wait until the exact Large Charcoal Grey variant is buyable from a reliable current offer and the guide can explain its strict fit and rear-seat routing requirements.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B08JQT939P",
+        "note": "Verified specification and current offer limitation: Amazon identifies ASIN B08JQT939P as Sleepypod Clickit Sport Plus, model CSX-CHR-L, Large, Charcoal Grey, UPC 615953237207. On 2026-08-18 the page showed 208 ratings and no featured offer; no price or availability claim is made.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://sleepypod.com/products/sport-bundle",
+        "note": "Manufacturer documentation: the current Clickit Sport Plus page describes the Infinity Loop, three-point connection, rear-seat belt routing, included S-Clip and Buckle Shield, and hand-cleaning instructions. Its color selector showed all colors sold out during this check.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://shop.app/products/7441900503076/clickit-sport-plus",
+        "note": "Owner-reported pattern: current reviews support durable construction and a secure fit after careful adjustment, while other owners describe initial stiffness, confusing setup, straps needing periodic retightening, and dogs backing out when the fit loosens. These reports do not establish crash performance.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://www.centerforpetsafety.org/cps-certified/sleepypod-clickit-sport/",
+        "note": "Independent safety evidence: Center for Pet Safety lists Clickit Sport Medium, Large, and XL as materially equivalent and five-star certified under CPS-001-014.01, with the Large rated up to 90 pounds. The certification is for the harness family; Amazon identity ties this exact variant to the current Plus bundle.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official recall check: the CPSC full recall CSV downloaded on 2026-08-18, last modified 2026-07-31, contained no exact Sleepypod Clickit Sport Plus, CSX-CHR-L, or B08JQT939P match. An unrelated Discovery Toys phone row matched the word fragment 'clickit'; the no-match is not a safety certification.",
+        "checkedAt": "2026-08-18"
+      }
+    ],
+    "strengths": [
+      "Amazon currently maps the exact ASIN to Large, Charcoal Grey, model CSX-CHR-L and the canonical affiliate URL is deterministic.",
+      "Center for Pet Safety independently lists the Clickit Sport Large family at its five-star rating under a published protocol.",
+      "The three-point, direct-seat-belt design avoids relying on a long extension tether.",
+      "The manufacturer provides current fit, installation, cleaning, and crash-replacement documentation."
+    ],
+    "failureModes": [
+      "The exact Amazon child ASIN has no featured offer and the manufacturer currently shows all color options sold out.",
+      "Incorrect girth selection, incomplete belt routing, or loosened adjustment straps can undermine restraint and allow escape.",
+      "The padded vest and three-point routing can be restrictive for dogs that will not settle in one rear-seat position.",
+      "It is not a substitute for measuring the dog, checking strap tension before every ride, or avoiding front-seat airbag exposure."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 24,
+      "evidenceConfidence": 18,
+      "ownershipLongevity": 13,
+      "meaningfulDifferentiation": 14,
+      "riskAndReturnFit": 11,
+      "demandSignal": 4,
+      "commercialValue": 2,
+      "total": 86
+    },
+    "decision": "hold",
+    "decisionReason": "Hold at 86 despite the strongest safety evidence in the set. The exact Large Charcoal Grey ASIN is verified and the harness family has independent five-star CPS evidence, but the current Amazon page has no featured offer and Sleepypod shows its colors sold out. Do not create an activation that sends readers to an unreliable offer; recheck exact-variant availability and preserve the strict fit and rear-seat limitations. Commercial value contributes only 2 points.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-18",
+    "researchedAt": "2026-08-18",
+    "lastVerifiedAt": "2026-08-18"
+  },
+  {
+    "candidateId": "petgearbench:B0C7D11DT4",
+    "siteId": "petgearbench",
+    "productName": "Ruffwear Load Up Dog Car Harness",
+    "model": "3060 / manufacturer part 30602-413M",
+    "variant": "Medium, Slate Blue, one vehicle-only harness",
+    "asin": "B0C7D11DT4",
+    "affiliateUrl": "https://www.amazon.com/dp/B0C7D11DT4/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Keep a medium-to-large dog restrained on the rear seat during car rides without treating a hammock or ordinary walking harness as crash protection.",
+    "decisionSlot": "constraint",
+    "bestFor": "A dog with a 27-to-32-inch girth that needs a padded vehicle-only harness and enough controlled room to stand, sit, or lie down during a long rear-seat ride.",
+    "skipIf": "You require current Center for Pet Safety certification, need an everyday walking harness, cannot accept a hand-wash-only harness, or need a currently featured Amazon offer.",
+    "mainTradeoff": "The low seat-belt loop gives the dog more positional freedom and the current post-recall hardware is well specified, but Ruffwear states that the design would not meet current CPS forward-excursion limits.",
+    "closestAlternative": "Sleepypod Clickit Sport Plus Large for independent CPS certification and tighter movement control, once its exact Amazon offer becomes reliable.",
+    "editorialThesis": "Load Up has unusually transparent manufacturer testing and a comfortable long-ride geometry, but its disclosed CPS excursion limitation and current offer gap prevent a safety-slot recommendation.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0C7D11DT4",
+        "note": "Verified specification: Amazon maps B0C7D11DT4 to Ruffwear Load Up, Medium, Slate Blue, model 3060, manufacturer part 30602-413M, UPC 748960021887. The current page showed 133 ratings, recent purchase activity, and no featured offer.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://ruffwear.com/products/load-up-dog-car-harness",
+        "note": "Manufacturer documentation: the current Load Up page maps Medium to 27-32 inches of girth, specifies forged 6061 aluminum slide buckles, nylon webbing, PE foam, a universal seat-belt loop, hand washing, and vehicle-focused use. Slate Blue was marked out of stock during this check.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://fourleggedguests.com/gear-care/travel-car/ruffwear-load-up-harness-review/",
+        "note": "Independent research review dated 2026-07-26: the exact Load Up family is treated as a premium vehicle-only harness with strong materials and manufacturer-led MGA testing, but not CPS certification; it highlights fit measurement and the need for a separate walking harness.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://ruffwear.com/products/load-up-dog-car-harness",
+        "note": "Owner-reported pattern on the current manufacturer page: recent verified buyers of the Medium Slate Blue variant describe sturdy hardware, padding, and room to reposition, while setup requires training and owners cannot infer crash outcome from ordinary use reviews.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "safety",
+        "url": "https://ruffwear.com/pages/load-up-car-harness-testing-design",
+        "note": "Manufacturer-hosted test disclosure: MGA Research dynamically tested 25-, 45-, and 75-pound mannequins under FMVSS 213 conditions. Ruffwear explicitly says Load Up is not CPS certified and would not meet current CPS excursion limits because of its low attachment point.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "safety",
+        "url": "https://ruffwear.com/pages/load-up-voluntary-recall",
+        "note": "Official manufacturer recall check: Ruffwear recalled the single-side-release-buckle Load Up version launched in August 2021. The evaluated 2023 Amazon ASIN is documented with forged aluminum slide buckles, but buyers should still confirm the current hardware and stop using any recalled 2021 unit.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official recall database check: the CPSC CSV downloaded on 2026-08-18 contained no exact Ruffwear Load Up, 30602-413M, or B0C7D11DT4 match. The manufacturer recall remains controlling for the older 2021 buckle version; a CPSC no-match is not a safety certification.",
+        "checkedAt": "2026-08-18"
+      }
+    ],
+    "strengths": [
+      "Amazon currently ties the exact Medium Slate Blue variant to manufacturer part 30602-413M.",
+      "The current harness uses forged aluminum slide buckles rather than the recalled 2021 single side-release buckle.",
+      "The manufacturer publishes the test setup, mannequin weights, videos, and the reason it is not CPS certified.",
+      "Its low seat-belt loop and padding are designed to allow sitting, standing, and lying during extended rides."
+    ],
+    "failureModes": [
+      "Ruffwear says the design would exceed current CPS forward-excursion limits.",
+      "The exact Amazon page has no featured offer and the manufacturer's Slate Blue option is out of stock.",
+      "Confusing the current slide-buckle model with the recalled August 2021 single-buckle version creates a serious identity risk for secondhand buyers.",
+      "It is vehicle-focused and lacks a normal leash attachment, so owners need another harness for walks."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": false,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 23,
+      "evidenceConfidence": 17,
+      "ownershipLongevity": 13,
+      "meaningfulDifferentiation": 13,
+      "riskAndReturnFit": 8,
+      "demandSignal": 4,
+      "commercialValue": 2,
+      "total": 80
+    },
+    "decision": "hold",
+    "decisionReason": "Hold at 80. Exact identity, current hardware, and test disclosure are strong, but Ruffwear itself states that the Load Up would not meet current CPS excursion limits, and the evaluated Amazon child ASIN has no featured offer while the manufacturer marks Slate Blue out of stock. The safety hard gate remains closed for a crash-protection recommendation; commercial value contributes only 2 points.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-18",
+    "researchedAt": "2026-08-18",
+    "lastVerifiedAt": "2026-08-18"
+  },
+  {
+    "candidateId": "petgearbench:B01N55BUXN",
+    "siteId": "petgearbench",
+    "productName": "EzyDog Drive Dog Car Harness",
+    "model": "9885176",
+    "variant": "Medium, Black, one step-in vehicle harness",
+    "asin": "B01N55BUXN",
+    "affiliateUrl": "https://www.amazon.com/dp/B01N55BUXN/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Keep a medium-to-large dog restrained on the rear seat during car rides without treating a hammock or ordinary walking harness as crash protection.",
+    "decisionSlot": "maintenance",
+    "bestFor": "A medium dog that tolerates a stiff padded chest plate and whose owner will spend time on the initial symmetrical fit, then use the direct vehicle-seat-belt loops on every ride.",
+    "skipIf": "Your dog is deep-chested, backs out of harnesses, resists stiff gear, needs an easy first-time fit, or you want independently published CPS certification rather than a manufacturer conformity claim.",
+    "mainTradeoff": "The numbered one-time adjustment and dual buckles can make repeat use quick, but current owners repeatedly report stiffness, difficult fitting, and some dogs squirming out even after careful adjustment.",
+    "closestAlternative": "Kurgo Enhanced Strength Tru-Fit Medium for five-point adjustment and a separate tether, accepting its own fit and tether tradeoffs.",
+    "editorialThesis": "EzyDog Drive is a credible repeat-use design with a current exact ASIN, but unresolved fit-and-escape reports and the absence of an independently published certification record keep it below recommendation quality.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B01N55BUXN",
+        "note": "Verified specification: Amazon maps B01N55BUXN to EzyDog Drive, Medium, Black, model and manufacturer part 9885176, UPC 807203104678. The current page showed 1,045 ratings, recent purchase activity, and no featured offer.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://store.ezydog.com/products/dog-car-harness",
+        "note": "Manufacturer documentation: the current Drive page lists Small, Medium, and Large; vehicle-tested seat-belt webbing, aluminum adjusters, numbered symmetrical fitting, a padded molded chest plate, dual buckles, and direct vehicle-belt routing. FMVSS 213 conformity is a manufacturer claim.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://www.theguardian.com/thefilter-us/2026/jun/05/best-dog-harness",
+        "note": "Independent review dated 2026-06-05: the reviewer identifies EzyDog Drive as a purpose-built crash-tested car harness and emphasizes correct fitting. This is editorial evaluation, not an independent certification report for model 9885176.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.chewy.com/ezydog-drive-dog-car-harness/product-reviews/141103",
+        "note": "Owner-reported pattern: 2025-2026 reviews describe strong materials, repeat-use convenience, and effective restraint for some dogs, but multiple owners report a stiff chest plate, confusing initial adjustment, poor deep-chest fit, or dogs squirming out. These reports conflict on fit-dependent security.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official recall check: the CPSC CSV downloaded on 2026-08-18 contained no exact EzyDog Drive, 9885176, or B01N55BUXN match. This no-match does not independently validate the manufacturer's FMVSS 213 conformity claim or resolve escape reports.",
+        "checkedAt": "2026-08-18"
+      }
+    ],
+    "strengths": [
+      "The exact Medium Black ASIN, UPC, and model number align across Amazon and current manufacturer documentation.",
+      "The vehicle belt routes directly through two upper handles rather than through a long extension tether.",
+      "Numbered straps support repeatable left-right adjustment after the initial fit.",
+      "Current positive owners describe quick repeat use and dogs able to sit or lie within the seat."
+    ],
+    "failureModes": [
+      "Multiple current owners report dogs backing or squirming out despite attempted snug fitting.",
+      "The stiff molded chest plate can restrict or bother some dogs and can be difficult to fit on deep chests.",
+      "Incorrect vehicle-belt routing or uneven adjustment defeats the intended restraint geometry.",
+      "The current Amazon child ASIN has no featured offer, and no independent certification record tied to model 9885176 was found."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": false,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 23,
+      "evidenceConfidence": 17,
+      "ownershipLongevity": 12,
+      "meaningfulDifferentiation": 12,
+      "riskAndReturnFit": 7,
+      "demandSignal": 4,
+      "commercialValue": 2,
+      "total": 77
+    },
+    "decision": "hold",
+    "decisionReason": "Hold at 77. The repeat-use design and exact identity are clear, but current owner evidence conflicts on stiffness, fit, and escape, and the manufacturer conformity claim was not backed by a current independent certification record tied to model 9885176. The Amazon page also has no featured offer. Safety and claim gates remain closed; commercial value contributes only 2 points.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-18",
+    "researchedAt": "2026-08-18",
+    "lastVerifiedAt": "2026-08-18"
+  },
+  {
+    "candidateId": "petgearbench:B09S3XBR18",
+    "siteId": "petgearbench",
+    "productName": "Kurgo Enhanced Strength Tru-Fit Dog Car Harness",
+    "model": "ZOG30-17583",
+    "variant": "Medium, Ink Blue, harness with 10-inch seat-belt tether and steel carabiner",
+    "asin": "B09S3XBR18",
+    "affiliateUrl": "https://www.amazon.com/dp/B09S3XBR18/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Keep a medium-to-large dog restrained on the rear seat during car rides without treating a hammock or ordinary walking harness as crash protection.",
+    "decisionSlot": "compatibility",
+    "bestFor": "A 25-to-50-pound dog whose proportions suit five adjustment points and whose owner wants one harness for restrained car rides and short walks between stops.",
+    "skipIf": "Your dog needs room to stand with the included short tether, has a barrel or deep chest that shifts the plate, or you require current CPS certification and direct seat-belt routing.",
+    "mainTradeoff": "Five adjustment points and a walking attachment improve routine compatibility, but the included 10-inch tether adds another connection and current owner evidence conflicts on standing room, buckle handling, and fit stability.",
+    "closestAlternative": "EzyDog Drive Medium for direct vehicle-belt routing and a one-time-fit routine, after its escape and fit evidence is resolved.",
+    "editorialThesis": "Kurgo's current v3 test report is more transparent than most manufacturer claims, but the tether geometry, fit conflict, missing CPS certification, and current Amazon offer gap make it a hold rather than a compatibility recommendation.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B09S3XBR18",
+        "note": "Verified specification: Amazon maps B09S3XBR18 to Kurgo Enhanced Strength Tru-Fit, Medium, Ink Blue, model ZOG30-17583, UPC 729849175839, with a 10-inch tether. The current page showed 7,799 ratings, recent purchase activity, and no featured offer.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.kurgo.com/p/enhanced-strength-dog-car-harness/POG30-17568",
+        "note": "Manufacturer documentation: the current Enhanced Strength page lists five adjustment points, a padded chest plate, all-steel nesting buckles, Medium fit for 25-50 pounds, the included tether, and separate Medium crash-test video and report links.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "manual",
+        "url": "https://m.media-amazon.com/images/I/71dsdmRRxZS.pdf",
+        "note": "Official product instructions hosted by Amazon: the Enhanced Strength v3 manual illustrates harness fitting and the supported car attachment methods. The document is old, so current product-page and exact-ASIN evidence control identity.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://pawpick.co.nz/guides/kurgo-tru-fit-car-harness-review-nz/",
+        "note": "Independent research review dated 2026-05: the Enhanced Strength Tru-Fit is treated as a flexible car-and-walk option, with warnings about body-shape fit, nesting-buckle friction, and the difference between Kurgo's FMVSS-adapted test and CPS certification.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.desertcart.com.cy/products/51244875-kurgo-enhanced-strength-tru-fit-dog-car-harness-crash-tested",
+        "note": "Owner-reported pattern: current 2025 reviews praise adjustability and durable construction, while a separate large-dog owner reports that the included tether was too short for the dog to stand and returned it for a direct-seat-belt alternative. Fit and mobility remain dog- and vehicle-dependent.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.kurgo.com/content/HarnessCrashTestFinalReport.pdf",
+        "note": "Manufacturer-hosted independent-lab report: Calspan report 4762-18-01 records pass results for Enhanced Strength Tru-Fit v3 Small, Medium, and Large in 2018. It is a real lab report but is not a current CPS certification and predates this 2022 Ink Blue child ASIN.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official recall check: the CPSC CSV downloaded on 2026-08-18 contained no exact Kurgo Enhanced Strength Tru-Fit, ZOG30-17583, or B09S3XBR18 match. This no-match does not resolve tether excursion or fit concerns and is not a safety certification.",
+        "checkedAt": "2026-08-18"
+      }
+    ],
+    "strengths": [
+      "Amazon currently maps the exact Medium Ink Blue child ASIN to model ZOG30-17583.",
+      "Five adjustment points cover more body-shape variation than the one-time-fit EzyDog design.",
+      "Kurgo publishes a Calspan report with explicit v3 size results rather than only a marketing label.",
+      "The harness can remain useful for short walks between vehicle stops."
+    ],
+    "failureModes": [
+      "The included 10-inch tether can be too short for some dogs to stand or reposition and adds connection hardware to the restraint path.",
+      "The padded chest plate can shift on barrel- or deep-chested dogs even when the nominal weight range matches.",
+      "Steel nesting buckles and five adjustment points increase setup friction and misuse risk.",
+      "The exact Amazon page has no featured offer, and the product is not currently CPS certified."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": false,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 22,
+      "evidenceConfidence": 18,
+      "ownershipLongevity": 12,
+      "meaningfulDifferentiation": 11,
+      "riskAndReturnFit": 8,
+      "demandSignal": 4,
+      "commercialValue": 2,
+      "total": 77
+    },
+    "decision": "hold",
+    "decisionReason": "Hold at 77. Exact identity, five-point adjustment, and the published Calspan report are strengths, but the current owner pattern conflicts on fit and standing room with the included tether, the product lacks current CPS certification, and the Amazon child ASIN has no featured offer. The safety gate stays closed for now; commercial value contributes only 2 points.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-18",
+    "researchedAt": "2026-08-18",
+    "lastVerifiedAt": "2026-08-18"
+  },
+  {
+    "candidateId": "petgearbench:B00JZHRXJU",
+    "siteId": "petgearbench",
+    "productName": "PetSafe Happy Ride Dog Safety Harness",
+    "model": "62405",
+    "variant": "Medium, black/gray padded harness with seat-belt tether",
+    "asin": "B00JZHRXJU",
+    "affiliateUrl": "https://www.amazon.com/dp/B00JZHRXJU/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Keep a medium-to-large dog restrained on the rear seat during car rides without treating a hammock or ordinary walking harness as crash protection.",
+    "decisionSlot": "other",
+    "bestFor": "A shopper comparing lower-complexity padded tether harnesses who is willing to wait for current official documentation and direct Amazon identity to be re-established.",
+    "skipIf": "You need a recommendation now, require current manufacturer test documentation, have a large dog, or need direct vehicle-seat-belt routing with minimal extension.",
+    "mainTradeoff": "The padded vest and multiple tether points appear simple, but the current official product page is missing, the exact Amazon fetch failed, and the available manufacturer guide is from 2022, so present-day variant and test claims are not sufficiently grounded.",
+    "closestAlternative": "Kurgo Enhanced Strength Tru-Fit Medium for a currently documented exact ASIN and published lab report, though it remains held for tether and fit concerns.",
+    "editorialThesis": "Happy Ride cannot be recommended from stale first-party documentation and indirect Amazon mirrors when current exact-page and test identity are unavailable.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B00JZHRXJU",
+        "note": "Evidence blocker: the exact Amazon URL returned an internal fetch error on 2026-08-18. Current indexed Amazon-derived sources map B00JZHRXJU to PetSafe Happy Ride Medium model 62405, but the primary page did not expose a title, model, offer, or variant state during this run.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.petsafe.net/media/downloads/415-403-19_Online.pdf",
+        "note": "Stale manufacturer-family evidence: PetSafe's Spring 2022 guide lists the Happy Ride Safety Harness, included tether, and Medium sizing, but no current exact product page or current model 62405 test report was found. This cannot support present-day claims by itself.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://coolthings.us/B00JZHRXJU/petsafe-happy-ride-certified-crash-tested-comfortable-durable-dog-safety-harness-medium",
+        "note": "Independent catalog evidence last updated 2025-10-02 maps B00JZHRXJU to PetSafe model 62405, Medium, but mainly repeats seller/manufacturer claims and does not provide current hands-on or crash-test evidence.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "demand-signal",
+        "url": "https://bigbangprice.com/product/B00JZHRXJU/",
+        "note": "Current indexed demand signal: the exact ASIN appeared with more than 1,600 aggregated ratings two weeks before this run. This can show listing history only; it cannot verify current variant identity, product quality, safety, price, or availability.",
+        "checkedAt": "2026-08-18"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official recall check: the CPSC CSV downloaded on 2026-08-18 contained no exact Happy Ride Safety Harness, model 62405, or B00JZHRXJU match. It did contain an unrelated 2010 Radio Systems/PetSafe heated-bed adapter recall, which does not apply; the no-match is not safety certification.",
+        "checkedAt": "2026-08-18"
+      }
+    ],
+    "strengths": [
+      "Multiple current indexed sources consistently associate B00JZHRXJU with PetSafe model 62405 in Medium.",
+      "The family design uses a padded breathable vest and includes a seat-belt tether.",
+      "The canonical affiliate URL can be formed without adding a price or availability claim."
+    ],
+    "failureModes": [
+      "The exact Amazon page could not be read during the run, so current variant and offer state are unverified.",
+      "The exact product no longer has a discoverable current manufacturer page or current first-party test report.",
+      "The available 2022 manufacturer guide is too stale to establish current construction or packaging.",
+      "A tethered vest with unclear current test geometry cannot be presented as crash protection based on listing copy alone."
+    ],
+    "hardGates": {
+      "asinVerified": false,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": false,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 18,
+      "evidenceConfidence": 10,
+      "ownershipLongevity": 9,
+      "meaningfulDifferentiation": 8,
+      "riskAndReturnFit": 5,
+      "demandSignal": 4,
+      "commercialValue": 2,
+      "total": 56
+    },
+    "decision": "reject",
+    "decisionReason": "Reject at 56. Current indexed sources agree on the historical Medium model 62405 identity, but the primary Amazon page failed, the exact current manufacturer page is absent, and the strongest first-party guide is from 2022. That is insufficient for a present-day crash-restraint recommendation. Identity, safety, and claim gates fail; commercial value contributes only 2 points.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-18",
+    "researchedAt": "2026-08-18",
+    "lastVerifiedAt": "2026-08-18"
+  },
+  {
+    "candidateId": "petgearbench:B01MDNDDYS",
+    "siteId": "petgearbench",
+    "productName": "GORILLA GRIP Cat Litter Box Mat",
+    "model": "Hills Point Industries coiled-mesh litter mat",
+    "variant": "35 x 23 inches, Gray",
+    "asin": "B01MDNDDYS",
+    "affiliateUrl": "https://www.amazon.com/dp/B01MDNDDYS/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Catch tracked litter along a compact apartment litter-box exit path without blocking a door, creating a curled-edge trip hazard, or adding a cleanup routine the reader will avoid.",
+    "decisionSlot": "default",
+    "bestFor": "A dry, predictable litter-box exit path with at least 35 by 23 inches of clear floor space, no door sweep, and no high-traffic human walkway.",
+    "skipIf": "The mat would cross a doorway or main walking path, the floor is often wet, your cat urinates outside the box, or any corner or edge will not remain completely flat.",
+    "mainTradeoff": "The coiled surface catches and holds dry granules well, but liquid mess is harder to remove from the mesh and the manufacturer says the mat is not slip-resistant and must be discontinued if its edges curl.",
+    "closestAlternative": "PetFusion ToughGrip Large for a wipeable silicone surface after its exact Large model code is reconciled with current first-party documentation.",
+    "editorialThesis": "This is the best-supported current replacement for the broken legacy Gorilla Grip ASIN when the reader needs dry-litter capture and can keep the mat flat, dry, and outside the main walking line.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B01MDNDDYS",
+        "note": "Verified specification: the current Amazon detail page identifies B01MDNDDYS as the GORILLA GRIP coiled-mesh cat litter mat in the 35 x 23 inch Gray variant and states mild-soap, rinse, vacuum, and air-dry care. No price, availability, or offer-state claim is carried forward.",
+        "checkedAt": "2026-08-25"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://gorillagrip.com/products/litter-mat",
+        "note": "Manufacturer documentation: the current product selector includes Gray in 35 x 23 inches and describes thick mesh coils, water-resistant construction, pour-back or vacuum cleanup, mild-soap hand washing, and air drying. The warning says the mat is not slip-resistant, must stay dry and flat, should not be used in high-traffic areas, and must be discontinued if edges curl.",
+        "checkedAt": "2026-08-25"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-litter-mats/",
+        "note": "Independent review: Forbes Vetted names the exact 35 x 23 inch Gorilla Grip format its overall pick for dry-litter capture and easy shake-out, while warning that the coiled mesh is difficult to clean after sickness or an accident and is less durable than costlier designs. The manufacturer's stricter slip warning controls over the review's grip description.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official recall check: the CPSC full recall CSV checked on 2026-08-25 was last modified 2026-08-21 and contained no exact litter-mat, B01MDNDDYS, or 35 x 23 Gray match. It did contain a 2020 Gorilla Commerce oven-liner recall, which is a different product; the exact-product no-match is not a safety certification.",
+        "checkedAt": "2026-08-25"
+      }
+    ],
+    "strengths": [
+      "Amazon and the current manufacturer selector agree on the 35 x 23 inch Gray identity.",
+      "The coiled surface and deep grooves create a defined dry-litter capture zone across the first few exit steps.",
+      "Dry granules can be vacuumed, shaken out, or poured back without opening a two-layer pocket.",
+      "The current independent review confirms the exact size and the core capture-versus-cleaning tradeoff."
+    ],
+    "failureModes": [
+      "Water underneath or a mat placed in a high-traffic path can create a fall risk because the manufacturer does not call it slip-resistant.",
+      "A curled corner or edge is a stop-use condition, not a cosmetic defect to ignore.",
+      "Urine, vomit, or another wet mess can become difficult to remove from the mesh coils.",
+      "A cat can jump over the mat or exit around it, so placement still matters more than nominal size."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 23,
+      "evidenceConfidence": 18,
+      "ownershipLongevity": 12,
+      "meaningfulDifferentiation": 13,
+      "riskAndReturnFit": 11,
+      "demandSignal": 4,
+      "commercialValue": 2,
+      "total": 83
+    },
+    "decision": "approve",
+    "decisionReason": "Approve at 83 for the bounded default slot. The exact current Amazon child, current 35 x 23 Gray manufacturer variant, independent exact-size review, and current official recall check align. Recommendation language must preserve the manufacturer's flat, dry, low-traffic placement limits and treat curled edges as a stop-use condition. Commercial value contributes only 2 points.",
+    "activation": {
+      "status": "activated",
+      "activatedAt": "2026-08-25",
+      "guidePath": "/guides/best-cat-litter-mats-small-apartments/"
+    },
+    "sourceRun": "product-discovery:2026-08-24",
+    "researchedAt": "2026-08-24",
+    "lastVerifiedAt": "2026-08-25"
+  },
+  {
+    "candidateId": "petgearbench:B00WPZ63Q8",
+    "siteId": "petgearbench",
+    "productName": "iPrimio Cat Litter Trapper Mat",
+    "model": "XLBlackCatTrapper",
+    "variant": "Double layer, 30 x 23 inches, Black",
+    "asin": "B00WPZ63Q8",
+    "affiliateUrl": "https://www.amazon.com/dp/B00WPZ63Q8/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Catch tracked litter along a compact apartment litter-box exit path without blocking a door, creating a curled-edge trip hazard, or adding a cleanup routine the reader will avoid.",
+    "decisionSlot": "constraint",
+    "bestFor": "A reader who wants dry litter to fall into a separate lower layer for pour-back and has enough clearance for the listed 0.72-inch profile.",
+    "skipIf": "A nearby door has less than one inch of clearance, the cat avoids honeycomb texture, you need verified current manufacturer instructions, or material identity matters to the purchase.",
+    "mainTradeoff": "The open-edge double layer can contain loose granules out of sight, but the current exact Amazon page calls the material nylon while an independent current guide calls the 30 x 23 format EVA foam, and no current first-party product page or manual was found to resolve that conflict.",
+    "closestAlternative": "GORILLA GRIP B01MDNDDYS for a fully documented current coiled-mesh default, accepting that it must remain flat, dry, and out of high-traffic paths.",
+    "editorialThesis": "The double-layer pour-back mechanism is a meaningful constraint option, but material and first-party documentation must be reconciled before recommendation.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B00WPZ63Q8",
+        "note": "Verified specification with conflict: the current Amazon page maps B00WPZ63Q8 to model XLBlackCatTrapper, 30 x 23 x 0.72 inches, Black, a double-layer design, and lists the material as nylon. The page showed a featured Add to Cart offer; no price or availability claim is carried forward.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://www.tuftandpaw.com/en-ca/blogs/cat-guides/ultimate-guide-to-stop-cat-litter-tracking",
+        "note": "Independent product-family review: Tuft + Paw lists an iPrimio 30 x 23 litter trapper as durable, waterproof, paw-friendly, and effective at capture but hard to clean. It identifies the material as EVA foam, conflicting with the current exact Amazon page's nylon label, and does not publish the exact ASIN or model code.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.walmart.com/ip/471253376",
+        "note": "Owner-reported pattern and current retailer identity: Walmart's current 30 x 23 Black listing contains 22 ratings. Owners report useful capture and pour-back, while the retailer material field says plastic and historical reviews discuss shipping creases. This does not resolve the exact Amazon material conflict.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official recall check: the CPSC CSV last modified 2026-08-21 contained no exact iPrimio, XLBlackCatTrapper, or B00WPZ63Q8 match. This dated database no-match is not a safety certification and does not resolve material identity or door clearance.",
+        "checkedAt": "2026-08-24"
+      }
+    ],
+    "strengths": [
+      "The exact Amazon ASIN, model code, size, color, and double-layer mechanism are current.",
+      "Loose dry litter falls below the walking surface and can be poured out through the open edge.",
+      "The 30 x 23 footprint is smaller than several XL alternatives in this set.",
+      "Independent and owner evidence agree that the design can capture dry tracked litter."
+    ],
+    "failureModes": [
+      "Current sources conflict on whether the exact mat is nylon, EVA foam, or generic plastic.",
+      "No current official iPrimio product page or manufacturer manual was found for XLBlackCatTrapper.",
+      "The 0.72-inch listed height can interfere with a nearby door or invite a step-over in a narrow bathroom.",
+      "Litter and liquid inside the two-layer pocket can require more deliberate cleaning than a one-piece surface."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 22,
+      "evidenceConfidence": 12,
+      "ownershipLongevity": 10,
+      "meaningfulDifferentiation": 11,
+      "riskAndReturnFit": 9,
+      "demandSignal": 4,
+      "commercialValue": 2,
+      "total": 70
+    },
+    "decision": "hold",
+    "decisionReason": "Hold at 70. Exact Amazon identity and the double-layer mechanism are clear, but current sources conflict on material and no current manufacturer page or official manual was found for XLBlackCatTrapper. Revisit only when first-party documentation resolves the construction and care instructions; commercial value contributes only 2 points.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-24",
+    "researchedAt": "2026-08-24",
+    "lastVerifiedAt": "2026-08-24"
+  },
+  {
+    "candidateId": "petgearbench:B019ZSDDOC",
+    "siteId": "petgearbench",
+    "productName": "PetFusion ToughGrip Waterproof Cat Litter Mat",
+    "model": "PF-LMD1 on historical exact-ASIN sources; current first-party model mapping unresolved",
+    "variant": "Large, 30 x 23 inches, Grey silicone",
+    "asin": "B019ZSDDOC",
+    "affiliateUrl": "https://www.amazon.com/dp/B019ZSDDOC/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Catch tracked litter along a compact apartment litter-box exit path without blocking a door, creating a curled-edge trip hazard, or adding a cleanup routine the reader will avoid.",
+    "decisionSlot": "maintenance",
+    "bestFor": "A reader prioritizing a one-piece wipeable silicone surface and raised containment lip, after the exact Large model code is re-established in current first-party documentation.",
+    "skipIf": "The 0.25-inch outer lip would catch a door or foot, your cat avoids ridged silicone, or you need a recommendation whose current manufacturer SKU maps directly to the exact Amazon child.",
+    "mainTradeoff": "The one-piece silicone surface is easier to see and wipe than coiled or pocketed mats, but current first-party documentation names XL model PF-LMDL1 and UPC 859473002574 while the exact Amazon child is Large 30 x 23 and older sources map it to PF-LMD1.",
+    "closestAlternative": "GORILLA GRIP B01MDNDDYS for a current exact-size first-party match, or iPrimio B00WPZ63Q8 if a double-layer pocket is preferred after its material conflict is resolved.",
+    "editorialThesis": "ToughGrip has the strongest maintenance design in the set, but a current Large-versus-XL model mapping conflict blocks exact-product recommendation.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B019ZSDDOC",
+        "note": "Verified specification with model gap: the current Amazon page identifies B019ZSDDOC as PetFusion ToughGrip Large, Grey silicone, 30 x 23 inches with a 0.25-inch lip, side spout, inner ridges, and a featured Add to Cart offer. The visible current page did not expose a PetFusion model code; no price or availability claim is carried forward.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.petmatepartners.com/pf-lmdl1.html",
+        "note": "Current brand-owner documentation: Petmate's PetFusion page identifies ToughGrip model PF-LMDL1, UPC 859473002574, as an XL Grey silicone mat with ridges, border, side spout, and anti-slip traction. It does not map PF-LMDL1 or the UPC to Amazon child B019ZSDDOC, whose current title says Large 30 x 23.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://shopsavvy.com/products/petfusion-toughgrip-cat-litter-mat",
+        "note": "Independent exact-model summary updated in August 2026: ShopSavvy maps ToughGrip XL to PF-LMDL1 and UPC 859473002574 and summarizes owner praise for trapping, cleaning, and durability, with criticism for weight, footprint, incomplete tracking control, and occasional odor retention. This current source reinforces the XL mapping rather than resolving the exact Amazon Large child.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official recall check: the CPSC CSV last modified 2026-08-21 contained no exact PetFusion ToughGrip, PF-LMD1, PF-LMDL1, B019ZSDDOC, or UPC 859473002574 match. This no-match is not a safety certification and cannot resolve the model or size mapping.",
+        "checkedAt": "2026-08-24"
+      }
+    ],
+    "strengths": [
+      "The exact Amazon child clearly identifies the Large 30 x 23 Grey silicone variant.",
+      "The 0.25-inch lip, inner channels, and side spout create a distinct visible-surface cleanup workflow.",
+      "Current independent evidence supports a durable, wipeable design while naming its weight and footprint costs.",
+      "The one-piece surface avoids hidden litter and liquid inside a two-layer pocket."
+    ],
+    "failureModes": [
+      "The current first-party PF-LMDL1 XL identity does not cleanly map to the exact Large Amazon child.",
+      "The outer lip can catch a door sweep or foot in a narrow walking line.",
+      "Its weight and silicone friction can make frequent lifting or pour-back awkward in a small room.",
+      "Independent owner aggregation includes incomplete tracking control and occasional odor retention with heavy use."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 23,
+      "evidenceConfidence": 13,
+      "ownershipLongevity": 13,
+      "meaningfulDifferentiation": 14,
+      "riskAndReturnFit": 10,
+      "demandSignal": 4,
+      "commercialValue": 2,
+      "total": 79
+    },
+    "decision": "hold",
+    "decisionReason": "Hold at 79. The maintenance mechanism and current exact Amazon child are strong, but current first-party and independent sources map PF-LMDL1/UPC 859473002574 to XL while B019ZSDDOC is Large 30 x 23 and lacks a visible current model code. The claim gate remains closed until Petmate or PetFusion maps this child exactly; commercial value contributes only 2 points.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-24",
+    "researchedAt": "2026-08-24",
+    "lastVerifiedAt": "2026-08-24"
+  },
+  {
+    "candidateId": "petgearbench:B01MTQNK6H",
+    "siteId": "petgearbench",
+    "productName": "Pieviev Litter Box Mat",
+    "model": "PIE-003",
+    "variant": "Double layer, 30 x 24 inches, Gray",
+    "asin": "B01MTQNK6H",
+    "affiliateUrl": "https://www.amazon.com/dp/B01MTQNK6H/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Catch tracked litter along a compact apartment litter-box exit path without blocking a door, creating a curled-edge trip hazard, or adding a cleanup routine the reader will avoid.",
+    "decisionSlot": "other",
+    "bestFor": "A shopper comparing a 30 x 24 Gray honeycomb pocket mat who can wait for current exact manufacturer identity and an independent owner pattern.",
+    "skipIf": "You need a recommendation now, a nearby door has limited clearance, your cat chews foam, or you require a current official page that maps model PIE-003 and the exact ASIN.",
+    "mainTradeoff": "The 30 x 24 double-layer pocket can hide and pour back dry granules, but the current brand page is generic and does not identify size, color, model PIE-003, or ASIN B01MTQNK6H, while strong current independent exact-model evidence was not found.",
+    "closestAlternative": "iPrimio B00WPZ63Q8 for a current exact Amazon model code in the same mechanism class, though its material documentation also remains conflicted.",
+    "editorialThesis": "Pieviev is a recognizable honeycomb alternative, but generic brand documentation and thin current exact-model evidence keep it out of the shortlist.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B01MTQNK6H",
+        "note": "Verified specification: the current Amazon page maps B01MTQNK6H to Pieviev model PIE-003, Gray, 30 x 24 inches, double-layer EVA construction, with a featured Add to Cart offer. No price or availability claim is carried forward.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.pieviev.com.cn/detail?id=1",
+        "note": "Manufacturer-family claim with identity gap: Pieviev's current LITTER MAT page describes an EZ-open double-layer honeycomb design, large holes, and pour-back use. The page does not state size, color, material, model PIE-003, or Amazon ASIN, so it cannot establish the exact current variant.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.amazon.com/dp/B01MTQNK6H#customerReviews",
+        "note": "Owner-reported pattern from the exact current Amazon page: aggregate reviews support litter capture and the pour-back pocket, while negative themes include shipping folds that do not fully flatten, cats chewing EVA edges, and liquid or dirty litter becoming difficult to clean from between layers. This is retailer-hosted owner evidence, not independent testing.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official recall check: the CPSC CSV last modified 2026-08-21 contained no exact Pieviev, PIE-003, or B01MTQNK6H match. This no-match is not a safety certification and does not resolve chew, curl, or exact manufacturer-identity concerns.",
+        "checkedAt": "2026-08-24"
+      }
+    ],
+    "strengths": [
+      "The current Amazon page identifies the exact 30 x 24 Gray PIE-003 child.",
+      "The honeycomb pocket separates dry litter from the walking surface.",
+      "The open edge supports pour-back without lifting a heavy solid-silicone mat.",
+      "The footprint is oriented to cover several exit steps without reaching jumbo dimensions."
+    ],
+    "failureModes": [
+      "The current manufacturer page does not identify the exact size, color, model, material, or ASIN.",
+      "Folded shipping can leave raised edges that are unsuitable in a narrow apartment walking line.",
+      "Cats that chew or scratch EVA can damage the honeycomb edge and expose loose pieces.",
+      "Wet or soiled litter inside the two-layer pocket is harder to see and clean than debris on a one-piece surface."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 20,
+      "evidenceConfidence": 11,
+      "ownershipLongevity": 9,
+      "meaningfulDifferentiation": 10,
+      "riskAndReturnFit": 8,
+      "demandSignal": 4,
+      "commercialValue": 2,
+      "total": 64
+    },
+    "decision": "hold",
+    "decisionReason": "Hold at 64. The exact Amazon child and pocket mechanism are identifiable, but the current manufacturer page is product-family only and strong current independent exact-model evidence is absent. Curl, chew, and between-layer cleanup patterns also matter in a small apartment. Claims remain gated; commercial value contributes only 2 points.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-24",
+    "researchedAt": "2026-08-24",
+    "lastVerifiedAt": "2026-08-24"
+  },
+  {
+    "candidateId": "petgearbench:B099HBMZ67",
+    "siteId": "petgearbench",
+    "productName": "Drymate Original XL Cat Litter Mat",
+    "model": "Original XL Cat Litter Mat",
+    "variant": "28 x 36 inches, Dark Grey, one mat",
+    "asin": "B099HBMZ67",
+    "affiliateUrl": "https://www.amazon.com/dp/B099HBMZ67/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Catch tracked litter along a compact apartment litter-box exit path without blocking a door, creating a curled-edge trip hazard, or adding a cleanup routine the reader will avoid.",
+    "decisionSlot": "maintenance",
+    "bestFor": "A litter station with a wider dry exit path and occasional small liquid spills where the reader can machine-wash and air-dry a 28 x 36 absorbent mat.",
+    "skipIf": "Your floor area cannot spare 28 x 36 inches, the mat would sit on carpet or in a door path, or you need long-term backing durability and waterproof performance that current owner evidence consistently confirms.",
+    "mainTradeoff": "The absorbent washable surface handles liquid better than open mesh, but current exact-page owner feedback is mixed on tracking control, staying flat or in place, waterproof performance, and the backing separating after repeated washing.",
+    "closestAlternative": "GORILLA GRIP B01MDNDDYS for stronger dry-granule capture in a 35 x 23 footprint, or PetFusion ToughGrip for wipeable wet-mess maintenance after exact model mapping is resolved.",
+    "editorialThesis": "Drymate has a distinct washable wet-mess role, but mixed exact-product durability and floor-protection reports keep it below recommendation quality for now.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B099HBMZ67",
+        "note": "Verified specification: the current Amazon page identifies B099HBMZ67 as Drymate Original Cat Litter Mat, Dark Grey, 28 x 36 XL, polyester, one mat, and shows a featured Add to Cart offer. It states vacuum, pour-back, machine-wash or hand-wash, and hang-dry care. No price or availability claim is carried forward.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://drymate.com/shop/pets/cat/cat-litter-mat/",
+        "note": "Manufacturer documentation: Drymate's current Original Cat Litter Mat page describes an absorbent top, waterproof and slip-resistant bottom layer, minimum 50 percent recycled fiber, optional trimming, machine washing without an agitator, and hang drying. These are manufacturer claims rather than independent performance findings.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.amazon.com/dp/B099HBMZ67#customerReviews",
+        "note": "Owner-reported pattern from the exact Amazon page: aggregate feedback praises size and washability but is mixed on litter capture, staying in place, and water resistance. Negative themes include a thin mat moving on carpet, backing or fabric separating after repeated washes, and some liquid reaching the floor. These reports do not prove a universal failure.",
+        "checkedAt": "2026-08-24"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official recall check: the CPSC CSV last modified 2026-08-21 contained no exact Drymate Original XL, B099HBMZ67, or 28 x 36 Dark Grey litter-mat match. This no-match is not a safety certification and does not resolve backing durability, slip, or soak-through reports.",
+        "checkedAt": "2026-08-24"
+      }
+    ],
+    "strengths": [
+      "The exact Amazon size, color, material, and Original XL family are current.",
+      "The absorbent top and washable routine create a distinct role for occasional small wet messes.",
+      "The mat can be vacuumed or rolled for dry-litter pour-back before washing.",
+      "The current manufacturer publishes specific washing and drying instructions."
+    ],
+    "failureModes": [
+      "Exact-product owner feedback is mixed on whether litter stays captured or continues tracking beyond the mat.",
+      "The thin absorbent mat can move or bunch on carpet and may not suit a doorway or main walking path.",
+      "Repeated washing can separate the fabric from the waterproof backing according to multiple owner reports.",
+      "Owner reports conflict with the blanket waterproof claim, so urine containment should not be promised."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 21,
+      "evidenceConfidence": 16,
+      "ownershipLongevity": 9,
+      "meaningfulDifferentiation": 10,
+      "riskAndReturnFit": 8,
+      "demandSignal": 4,
+      "commercialValue": 2,
+      "total": 70
+    },
+    "decision": "hold",
+    "decisionReason": "Hold at 70. Exact identity and the washable absorbent role are clear, but current owner evidence is too mixed on tracking, staying flat, waterproof performance, and backing durability for an apartment recommendation. Revisit if a newer construction or stronger independent exact-model review resolves those patterns; commercial value contributes only 2 points.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-24",
+    "researchedAt": "2026-08-24",
+    "lastVerifiedAt": "2026-08-24"
+  },
+  {
+    "candidateId": "petgearbench:B00CKFL93K",
+    "siteId": "petgearbench",
+    "productName": "Rocco & Roxie Enzyme Stain & Odor Eliminator",
+    "model": "fsec",
+    "variant": "Original scent, 32 fl oz trigger spray, pack of 1",
+    "asin": "B00CKFL93K",
+    "affiliateUrl": "https://www.amazon.com/dp/B00CKFL93K/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Remove a fresh dog or cat urine accident from colorfast carpet or water-safe upholstery with a routine that reaches the residue, respects dwell time, and keeps pets away until the area is dry.",
+    "decisionSlot": "default",
+    "bestFor": "A fresh urine spot on colorfast carpet or water-safe upholstery when the owner can blot and dilute first, wet the full affected depth, wait at least 10 minutes, extract or blot, and keep pets away until dry.",
+    "skipIf": "The surface fails a hidden colorfastness test, the urine has reached padding or subfloor that cannot be treated, anyone in the home cannot tolerate the product scent, or the owner needs a quick mist-and-wipe routine.",
+    "mainTradeoff": "The exact 32-ounce spray has unusually coherent identity, instructions, and independent carpet evidence, but correct use consumes more liquid and time than a light surface spray, and independent testers flag the scent.",
+    "closestAlternative": "Simple Solution Extreme B0002I9OA2 for a three-pattern nozzle, though it does not earn a distinct enough recommendation slot in this run.",
+    "editorialThesis": "The defensible default is the cleaner with exact current identity and a source-backed blot, dilute, saturate, dwell, and extract routine, not the bottle with the broadest odor claim.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B00CKFL93K",
+        "note": "Verified specification: the current Amazon page maps ASIN B00CKFL93K to Rocco & Roxie model fsec, Original scent, 32 fluid ounces, one trigger-spray bottle.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://roccoandroxie.com/pages/stain-and-odor-instructions",
+        "note": "Manufacturer instructions: test colorfastness; absorb fresh urine; dilute and extract with warm water; wet the full affected area with product; use the stream setting to reduce airborne mist; and allow at least 10 minutes of dwell time.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://www.goodhousekeeping.com/home-products/g2291/best-carpet-stain-removers/",
+        "note": "Independent test: Good Housekeeping reports lab and consumer testing of the exact 32-ounce product and notes the Carpet and Rug Institute seal; its need to saturate the stain remains an ownership tradeoff rather than a quick-spray benefit.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://www.today.com/shop/ranked-best-carpet-cleaners-rcna227743",
+        "note": "Independent test: TODAY's 2026 editor test scored the 32-ounce formula strongly on urine removal while flagging the product scent and a 30-to-60-minute practical dwell routine.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official recall check: the CPSC all-recalls CSV, last modified 2026-08-21 and checked 2026-08-31, had no exact Rocco & Roxie product, model, or ASIN match. This no-match is not a safety certification.",
+        "checkedAt": "2026-08-31"
+      }
+    ],
+    "strengths": [
+      "Exact Amazon ASIN, 32-ounce variant, scent, pack count, and model are readable and current.",
+      "First-party instructions define a complete fresh-urine dilution, extraction, saturation, dwell, and blot routine.",
+      "Two current independent tests cover the exact 32-ounce cleaner and preserve the scent and dwell-time drawbacks.",
+      "The bottle size fits spot treatment better than a bulk gallon for an occasional accident routine."
+    ],
+    "failureModes": [
+      "A light mist may not reach urine in carpet backing, padding, cushion foam, seams, or subfloor.",
+      "Using too little product or shortening the dwell time can leave odor-causing residue.",
+      "The scent can be unacceptable in a small, poorly ventilated, or fragrance-sensitive home.",
+      "Untested or non-colorfast textiles can discolor, and a cleaner cannot resolve the medical or behavioral cause of repeat urination."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 24,
+      "evidenceConfidence": 19,
+      "ownershipLongevity": 13,
+      "meaningfulDifferentiation": 12,
+      "riskAndReturnFit": 12,
+      "demandSignal": 3,
+      "commercialValue": 2,
+      "total": 85
+    },
+    "decision": "approve",
+    "decisionReason": "Approve as the bounded default for fresh urine on colorfast carpet or water-safe upholstery. Exact identity, first-party technique, two current independent tests, and the dated CPSC no-match clear every gate. Any Tuesday placement must preserve the colorfastness test, full-depth wetting, dwell, extraction, ventilation, and dry-before-pet-return limits; commercial value contributes only 2 points.",
+    "activation": {
+      "status": "activated",
+      "activatedAt": "2026-09-01",
+      "guidePath": "/guides/best-enzyme-cleaners-pet-stains/"
+    },
+    "sourceRun": "product-discovery:2026-08-31",
+    "researchedAt": "2026-08-31",
+    "lastVerifiedAt": "2026-08-31"
+  },
+  {
+    "candidateId": "petgearbench:B0002I9OA2",
+    "siteId": "petgearbench",
+    "productName": "Simple Solution Extreme Stain & Odor Remover",
+    "model": "10137N-12PONL",
+    "variant": "Original fresh scent, 32 oz trigger spray with foam, mist, and stream settings",
+    "asin": "B0002I9OA2",
+    "affiliateUrl": "https://www.amazon.com/dp/B0002I9OA2/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Remove a fresh dog or cat urine accident from colorfast carpet or water-safe upholstery with a routine that reaches the residue, respects dwell time, and keeps pets away until the area is dry.",
+    "decisionSlot": "other",
+    "bestFor": "A shopper who specifically values foam, mist, and stream application on water-safe carpet or upholstery and will remove children and pets during application.",
+    "skipIf": "The surface is wool, leather, silk, or not water-safe; the home is fragrance-sensitive; or the buyer wants a recommendation meaningfully different from the stronger-evidenced Rocco & Roxie default.",
+    "mainTradeoff": "The three-pattern nozzle can match surface and spot size, but its fit overlaps the default closely and the manufacturer advises removing children and pets during product use.",
+    "closestAlternative": "Rocco & Roxie B00CKFL93K for stronger current exact-product independent evidence and clearer fresh-urine extraction instructions.",
+    "editorialThesis": "A useful applicator is not enough to create a second recommendation when the underlying reader job, scent burden, and water-safe-surface limits substantially duplicate the default.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0002I9OA2",
+        "note": "Verified specification: the current Amazon page maps ASIN B0002I9OA2 to the 32-ounce Simple Solution Extreme enzyme cleaner and item model 10137N-12PONL.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://simplesolution.com/collections/heavy-duty-removal/products/extreme-stain-and-odor-remover?variant=49446488539419",
+        "note": "Manufacturer claim and limitation: the current 32-ounce page lists the three-in-one foam, mist, and stream nozzle and water-safe surfaces; the brand FAQ excludes wool and leather and advises removing children and pets during use.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.chewy.com/simple-solution-extreme-stain-odor/dp/56034",
+        "note": "Owner-reported pattern: the exact 32-ounce product has many reports of useful stain and odor cleanup, while scent strength and bottle or nozzle behavior vary; these reports are not controlled testing.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "independent-review",
+        "url": "https://www.idealhome.co.uk/buying-guide-reviews/best-upholstery-cleaner-275227",
+        "note": "Independent editorial review: the product is identified for pet messes on carpet and upholstery, with a required inconspicuous-area test and exclusions for wool, silk, and delicate fabrics.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official recall check: the CPSC all-recalls CSV, last modified 2026-08-21 and checked 2026-08-31, had no exact Simple Solution product, model, or ASIN match. This no-match is not a safety certification.",
+        "checkedAt": "2026-08-31"
+      }
+    ],
+    "strengths": [
+      "Exact 32-ounce ASIN and Amazon item model are current.",
+      "Foam, mist, and stream settings allow more deliberate application than a single spray pattern.",
+      "Manufacturer and independent sources agree on water-safe carpet and upholstery use with delicate-surface exclusions.",
+      "A broad owner history supports practical cleanup use while exposing scent and packaging variability."
+    ],
+    "failureModes": [
+      "The fresh scent can be too strong or add another odor to a small room.",
+      "A failed nozzle or leaking bottle undermines the main differentiator.",
+      "Use on wool, leather, silk, or a non-colorfast surface can damage the material.",
+      "The recommendation would duplicate the default without a sufficiently distinct reader constraint."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": false,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 22,
+      "evidenceConfidence": 17,
+      "ownershipLongevity": 12,
+      "meaningfulDifferentiation": 7,
+      "riskAndReturnFit": 10,
+      "demandSignal": 3,
+      "commercialValue": 1,
+      "total": 72
+    },
+    "decision": "hold",
+    "decisionReason": "Hold because it is a credible exact product but does not earn a distinct slot beside the better-evidenced default. The nozzle is useful, yet scent, surface limits, and core routine overlap. A future comparison could reconsider it if readers show a specific foam-or-stream application need; commercial value contributes only 1 point.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-31",
+    "researchedAt": "2026-08-31",
+    "lastVerifiedAt": "2026-08-31"
+  },
+  {
+    "candidateId": "petgearbench:B09KQTK88C",
+    "siteId": "petgearbench",
+    "productName": "Nature's Miracle Dog Urine Destroyer Plus",
+    "model": "Amazon item model P-98368; current manufacturer page foregrounds SKU P-98366",
+    "variant": "Dog formula, fresh scent, 32 oz; exact pour-versus-spray mapping unresolved",
+    "asin": "B09KQTK88C",
+    "affiliateUrl": "https://www.amazon.com/dp/B09KQTK88C/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Remove a fresh dog or cat urine accident from colorfast carpet or water-safe upholstery with a routine that reaches the residue, respects dwell time, and keeps pets away until the area is dry.",
+    "decisionSlot": "constraint",
+    "bestFor": "A dog-only urine cleanup routine that needs a 15-minute soak and full-strength formula after the exact P-98368 package style is reconciled with current manufacturer documentation.",
+    "skipIf": "You need cat-specific evidence, dislike fresh fragrance, have untreated hardwood, leather, suede, silk, or wool, or need an exact current pour-versus-spray identity today.",
+    "mainTradeoff": "The official dog-specific directions are unusually clear, but Amazon exposes item model P-98368 while the current manufacturer page foregrounds P-98366, leaving the exact package variant unresolved.",
+    "closestAlternative": "Rocco & Roxie B00CKFL93K for a fully reconciled exact 32-ounce trigger-spray identity covering both dog and cat urine.",
+    "editorialThesis": "Dog-specific positioning cannot compensate for an unresolved model and package mapping, especially when the application method controls saturation and ownership fit.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B09KQTK88C",
+        "note": "Verified specification and conflict: Amazon identifies ASIN B09KQTK88C as Dog Urine Destroyer Plus, fresh scent, 32 ounces, and exposes item model P-98368.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://www.naturesmiracle.com/products/stain-and-odor/urine-destroyer-plus-for-dogs",
+        "note": "Manufacturer documentation: the current page foregrounds SKU P-98366 and instructs full-strength soaking, 15 minutes of dwell, blotting, and exclusions for untreated hardwood, leather, suede, silk, and wool; it does not reconcile Amazon model P-98368.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.chewy.com/natures-miracle-urine-destroyer-plus/dp/716494",
+        "note": "Owner-reported pattern: the current 32-ounce product family has extensive use reports, but results and tolerance for the fresh scent vary and the retailer page does not resolve the Amazon P-98368 package mapping.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official recall check: the CPSC all-recalls CSV, last modified 2026-08-21 and checked 2026-08-31, had no exact Nature's Miracle product, model, or ASIN match. This no-match does not resolve the package identity conflict and is not safety certification.",
+        "checkedAt": "2026-08-31"
+      }
+    ],
+    "strengths": [
+      "Amazon currently exposes the exact ASIN, 32-ounce size, dog formula, scent, and an item model.",
+      "First-party directions define full-strength saturation, a 15-minute dwell, blotting, and repeat treatment.",
+      "First-party surface exclusions are more specific than generic multi-surface marketing.",
+      "The dog-urine focus could support a constraint slot if exact package identity is reconciled."
+    ],
+    "failureModes": [
+      "P-98368 on Amazon and P-98366 on the current manufacturer page can refer to different package styles.",
+      "A pour bottle and a trigger spray create different application, overspray, and storage routines.",
+      "Fresh fragrance may be unacceptable or may be mistaken for proof that urine residue is gone.",
+      "Use on untreated hardwood, leather, suede, silk, or wool conflicts with the current manufacturer directions."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 22,
+      "evidenceConfidence": 12,
+      "ownershipLongevity": 11,
+      "meaningfulDifferentiation": 11,
+      "riskAndReturnFit": 9,
+      "demandSignal": 3,
+      "commercialValue": 1,
+      "total": 69
+    },
+    "decision": "hold",
+    "decisionReason": "Hold because the exact Amazon ASIN is readable but its P-98368 package style is not reconciled with the current P-98366 manufacturer page. The 69-point score cannot override the failed claims gate. Do not describe this exact child as a spray or pour bottle until first-party mapping resolves; commercial value contributes only 1 point.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-31",
+    "researchedAt": "2026-08-31",
+    "lastVerifiedAt": "2026-08-31"
+  },
+  {
+    "candidateId": "petgearbench:B0061VZQWO",
+    "siteId": "petgearbench",
+    "productName": "Biokleen Bac-Out Stain & Odor Remover",
+    "model": "B00034",
+    "variant": "Lime scent, 128 fl oz gallon, one bottle",
+    "asin": "B0061VZQWO",
+    "affiliateUrl": "https://www.amazon.com/dp/B0061VZQWO/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Remove a fresh dog or cat urine accident from colorfast carpet or water-safe upholstery with a routine that reaches the residue, respects dwell time, and keeps pets away until the area is dry.",
+    "decisionSlot": "maintenance",
+    "bestFor": "A high-frequency multi-pet or foster-home cleanup routine that can justify storing and decanting a 128-ounce gallon and will follow colorfastness, saturation, five-minute dwell, blot, and dry steps.",
+    "skipIf": "Accidents are occasional, secure gallon storage is difficult, a ready trigger spray is required, or anyone in the home is sensitive to lime or fragrance ingredients.",
+    "mainTradeoff": "The gallon has exact model and SDS mapping plus a concise no-rinse routine, but it is substantial overbuy and handling burden for the guide's ordinary fresh-spot reader.",
+    "closestAlternative": "Rocco & Roxie B00CKFL93K for a smaller ready-to-spray default, or a current exact 32-ounce Bac-Out child if separately verified later.",
+    "editorialThesis": "Bulk volume is a maintenance constraint, not a value win, and it should be recommended only when accident frequency justifies decanting, secure storage, and formula turnover.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B0061VZQWO",
+        "note": "Verified specification: the current Amazon page maps ASIN B0061VZQWO to Biokleen Bac-Out model B00034, lime scent, one 128-fluid-ounce gallon.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://biokleenhome.com/faqs",
+        "note": "Manufacturer instructions: Bac-Out is ready to use, should not be diluted for direct treatment, can sit at least five minutes on carpet before blotting, and requires a hidden colorfastness test.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "manual",
+        "url": "https://biokleenhome.com/mwdownloads/download/link/id/1810/",
+        "note": "Manufacturer SDS: product code B00034 is included in the Bac-Out Carpet Stain + Odor Remover sheet; the mixture is not GHS-classified, but the sheet still lists inhalation, skin, eye, and ingestion first-aid precautions.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "owner-pattern",
+        "url": "https://www.walmart.com/ip/25465040",
+        "note": "Owner and retailer pattern: the exact 128-ounce Bac-Out product is current and used across urine, laundry, diaper, and carpet routines; broad uses do not prove the gallon is the best fit for occasional pet spots.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official recall check: the CPSC all-recalls CSV, last modified 2026-08-21 and checked 2026-08-31, had no exact Biokleen, Bac-Out, B00034, or ASIN match. This no-match is not a safety certification.",
+        "checkedAt": "2026-08-31"
+      }
+    ],
+    "strengths": [
+      "Exact Amazon ASIN, gallon size, scent, pack count, and model B00034 are current.",
+      "The manufacturer SDS maps B00034 directly to the current formula family.",
+      "A five-minute-or-longer dwell and blot routine is simple and does not require rinsing for the stated spot use.",
+      "Bulk volume can reduce repeated bottle purchasing in a genuinely high-frequency care setting."
+    ],
+    "failureModes": [
+      "A gallon can sit too long, be stored insecurely, spill during decanting, or encourage overapplication.",
+      "The lime scent and disclosed fragrance components may not fit a fragrance-sensitive household.",
+      "The Amazon gallon does not provide the ready trigger-spray convenience of the default candidate.",
+      "A broad multi-use owner pattern is weaker than exact-product independent fresh-urine testing."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": true,
+      "claimsSupportable": true,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 19,
+      "evidenceConfidence": 17,
+      "ownershipLongevity": 11,
+      "meaningfulDifferentiation": 12,
+      "riskAndReturnFit": 9,
+      "demandSignal": 2,
+      "commercialValue": 0,
+      "total": 70
+    },
+    "decision": "hold",
+    "decisionReason": "Hold because exact identity and documentation are strong, but the 128-ounce gallon is an ownership mismatch for an ordinary fresh-spot routine and exact independent performance evidence is thin. Reconsider only for a measured high-frequency foster or multi-pet maintenance slot; commercial value contributes 0 points.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-31",
+    "researchedAt": "2026-08-31",
+    "lastVerifiedAt": "2026-08-31"
+  },
+  {
+    "candidateId": "petgearbench:B08WLDXY5J",
+    "siteId": "petgearbench",
+    "productName": "Angry Orange Pet Odor Eliminator and Enzyme Stain Remover Bundle",
+    "model": "Amazon bundle B08WLDXY5J; component lot codes required for recall scope",
+    "variant": "One 24 oz citrus odor eliminator plus one 32 oz enzyme stain remover",
+    "asin": "B08WLDXY5J",
+    "affiliateUrl": "https://www.amazon.com/dp/B08WLDXY5J/ref=nosim?tag=abbeybench-20",
+    "buyerProblem": "Remove a fresh dog or cat urine accident from colorfast carpet or water-safe upholstery with a routine that reaches the residue, respects dwell time, and keeps pets away until the area is dry.",
+    "decisionSlot": "safety",
+    "bestFor": "No current recommendation: the bundle contains a 32-ounce Angry Orange Enzyme Stain Remover within the size and product family named in the January 2026 recall.",
+    "skipIf": "Always skip for purchase or recommendation while the exact component's recall status and lot eligibility remain unresolved; owners of affected units should follow the CPSC and manufacturer recall instructions.",
+    "mainTradeoff": "The two-bottle bundle separates odor and stain steps, but that convenience is irrelevant because an unresolved official bacterial-exposure recall fails the safety gate.",
+    "closestAlternative": "Rocco & Roxie B00CKFL93K for a current exact 32-ounce candidate with no exact match in the dated CPSC recall dataset.",
+    "editorialThesis": "An active-looking Amazon detail page cannot override an official stop-use recall, and a bundle must be evaluated by the identity and safety status of every included component.",
+    "experienceBasis": "research-only",
+    "evidence": [
+      {
+        "type": "amazon-listing",
+        "url": "https://www.amazon.com/dp/B08WLDXY5J",
+        "note": "Verified specification and conflict: the current Amazon page maps ASIN B08WLDXY5J to a two-bottle bundle containing one 24-ounce odor eliminator and one 32-ounce Angry Orange Enzyme Stain Remover.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "manufacturer",
+        "url": "https://angryorange.com/pages/productrecall",
+        "note": "Manufacturer recall notice: Angry Orange lists enzyme stain removers in 24-ounce, 32-ounce, and one-gallon sizes and some bundles in the January 22, 2026 recall, with refund and disposal instructions.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/Recall-Products/Spot-Removers-or-Cleaning-Fluids?language=en",
+        "note": "Official recall: CPSC recall 26-201 says affected Angry Orange Enzyme Stain Removers can contain Pseudomonas aeruginosa and directs consumers to stop use and seek a refund; about 1.5 million U.S. units were included.",
+        "checkedAt": "2026-08-31"
+      },
+      {
+        "type": "safety",
+        "url": "https://www.cpsc.gov/s3fs-public/recall-data/recalls_recall_listing.csv",
+        "note": "Official dataset confirmation: the CPSC all-recalls CSV, last modified 2026-08-21, contains recall 26-201 for the exact Angry Orange Enzyme Stain Remover product family and 32-ounce size.",
+        "checkedAt": "2026-08-31"
+      }
+    ],
+    "strengths": [
+      "The current Amazon page exposes the exact bundle ASIN and both component sizes.",
+      "The manufacturer and CPSC recall notices agree on affected product family, sizes, hazard, and remedy.",
+      "The safety conflict is unambiguous enough to prevent a mistaken recommendation.",
+      "The bundle record preserves why an active-looking listing is not activation evidence."
+    ],
+    "failureModes": [
+      "The 32-ounce enzyme component can fall within an official bacterial-exposure recall.",
+      "A buyer may mistake a readable or purchasable Amazon page for proof that the component is outside recall scope.",
+      "Bundle packaging can obscure the individual bottle lot code needed to check recall eligibility.",
+      "Strong citrus odor can mask rather than prove removal of urine residue, even apart from the recall."
+    ],
+    "hardGates": {
+      "asinVerified": true,
+      "distinctDecisionSlot": true,
+      "noUnresolvedSafetyIssue": false,
+      "claimsSupportable": false,
+      "affiliateCompliance": true
+    },
+    "score": {
+      "readerProblemFit": 14,
+      "evidenceConfidence": 8,
+      "ownershipLongevity": 5,
+      "meaningfulDifferentiation": 5,
+      "riskAndReturnFit": 0,
+      "demandSignal": 2,
+      "commercialValue": 0,
+      "total": 34
+    },
+    "decision": "reject",
+    "decisionReason": "Reject because the unresolved official recall fails the safety gate. The current Amazon bundle includes a 32-ounce enzyme cleaner within the recalled product family and size, and no lot-specific evidence establishes that the component is outside scope. Listing visibility, demand, or commercial value cannot rescue a stop-use recall.",
+    "activation": {
+      "status": "not-applicable",
+      "activatedAt": null,
+      "guidePath": null
+    },
+    "sourceRun": "product-discovery:2026-08-31",
+    "researchedAt": "2026-08-31",
+    "lastVerifiedAt": "2026-08-31"
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "siteId": "petgearbench",
+  "affiliateTag": "abbeybench-20",
+  "candidateCountPerDiscoveryRun": {
+    "min": 5,
+    "max": 8
+  },
+  "approvalCountPerDiscoveryRun": {
+    "min": 0,
+    "max": 2
+  },
+  "thresholds": {
+    "approve": 75,
+    "hold": 60
+  },
+  "scoreWeights": {
+    "readerProblemFit": 25,
+    "evidenceConfidence": 20,
+    "ownershipLongevity": 15,
+    "meaningfulDifferentiation": 15,
+    "riskAndReturnFit": 15,
+    "demandSignal": 5,
+    "commercialValue": 5
+  },
+  "approvalEvidence": {
+    "minimumUniqueSources": 4,
+    "requiredTypes": [
+      "amazon-listing",
+      "safety"
+    ],
+    "requiredAnyGroups": [
+      [
+        "manufacturer",
+        "manual"
+      ],
+      [
+        "independent-review",
+        "owner-pattern"
+      ]
+    ]
+  }
+}

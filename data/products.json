@@ -61,5 +61,61 @@
     "positioning": "Longer outing bottle pick",
     "category": "travel",
     "affiliateUrl": "https://www.amazon.com/dp/B07Q56TTD4/ref=nosim?tag=abbeybench-20"
+  },
+  {
+    "asin": "B00O0UIPTY",
+    "name": "SureFeed Microchip Pet Feeder",
+    "positioning": "Two-cat food-separation default",
+    "category": "feeder",
+    "affiliateUrl": "https://www.amazon.com/dp/B00O0UIPTY/ref=nosim?tag=abbeybench-20"
+  },
+  {
+    "asin": "B09ZLJCYSR",
+    "name": "Closer Pets MiBowl CP500",
+    "positioning": "Enclosed selective-access feeder pick",
+    "category": "feeder",
+    "affiliateUrl": "https://www.amazon.com/dp/B09ZLJCYSR/ref=nosim?tag=abbeybench-20"
+  },
+  {
+    "asin": "B0DJVGZQW7",
+    "name": "eufy Indoor Cam E30",
+    "positioning": "Subscription-free local recording pick",
+    "category": "pet-tech",
+    "affiliateUrl": "https://www.amazon.com/dp/B0DJVGZQW7/ref=nosim?tag=abbeybench-20"
+  },
+  {
+    "asin": "B0BH6MD3DJ",
+    "name": "Whisker Litter-Robot 4 with Step & Fence",
+    "positioning": "Apartment automatic litter box default",
+    "category": "litter",
+    "affiliateUrl": "https://www.amazon.com/dp/B0BH6MD3DJ/ref=nosim?tag=abbeybench-20"
+  },
+  {
+    "asin": "B0DFYF2D7D",
+    "name": "PETKIT PuraMax 2 Basic Bundle",
+    "positioning": "Shallower apartment litter station pick",
+    "category": "litter",
+    "affiliateUrl": "https://www.amazon.com/dp/B0DFYF2D7D/ref=nosim?tag=abbeybench-20"
+  },
+  {
+    "asin": "B00N54E9MI",
+    "name": "West Paw Zogoflex Toppl Treat Toy",
+    "positioning": "Supervised fill-and-freeze enrichment default",
+    "category": "toy",
+    "affiliateUrl": "https://www.amazon.com/dp/B00N54E9MI/ref=nosim?tag=abbeybench-20"
+  },
+  {
+    "asin": "B01MDNDDYS",
+    "name": "GORILLA GRIP Cat Litter Box Mat, 35 x 23 Inches, Gray",
+    "positioning": "Flat, dry apartment litter-box exit-path default",
+    "category": "litter",
+    "affiliateUrl": "https://www.amazon.com/dp/B01MDNDDYS/ref=nosim?tag=abbeybench-20"
+  },
+  {
+    "asin": "B00CKFL93K",
+    "name": "Rocco & Roxie Enzyme Stain & Odor Eliminator, Original, 32 fl oz",
+    "positioning": "Fresh urine carpet and water-safe upholstery default",
+    "category": "cleaning",
+    "affiliateUrl": "https://www.amazon.com/dp/B00CKFL93K/ref=nosim?tag=abbeybench-20"
   }
 ]

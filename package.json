@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "check": "node --check api/subscribe.js && node --check api/track-click.js && node --check scripts/weekly-pulse.mjs && node --check scripts/send-admin-pulse.mjs",
+    "check": "node --check api/subscribe.js && node --check api/track-click.js && node --check scripts/audit-affiliate-catalog.mjs && node --check scripts/validate-product-candidates.mjs && node --check scripts/sync-products.mjs && node --check scripts/weekly-pulse.mjs && node --check scripts/send-admin-pulse.mjs && node scripts/audit-affiliate-catalog.mjs && node scripts/validate-product-candidates.mjs",
+    "audit:catalog": "node scripts/audit-affiliate-catalog.mjs",
+    "validate:candidates": "node scripts/validate-product-candidates.mjs",
+    "sync:products": "node scripts/sync-products.mjs",
     "report:weekly": "node scripts/weekly-pulse.mjs",
     "send:admin-pulse": "node scripts/send-admin-pulse.mjs"
   },
